@@ -1,0 +1,6559 @@
+[
+  {
+    "person_id": 1,
+    "questions": [
+      {
+        "question_id": 1,
+        "question": "What is your name?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          34521,
+          23451,
+          12345,
+          67890
+        ],
+        "actual_memory_ids": [
+          34521
+        ],
+        "predicted_texts": [
+          "Name is Navid",
+          "Met someone named Neha",
+          "Has a best friend named John"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 2,
+        "question": "How old are you?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          78932,
+          89012
+        ],
+        "actual_memory_ids": [
+          78932
+        ],
+        "predicted_texts": [
+          "User is 24 years old",
+          "It's been two years since the user dated anyone"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 3,
+        "question": "Where do you live?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          56789,
+          12453,
+          90123,
+          56123
+        ],
+        "actual_memory_ids": [
+          12453
+        ],
+        "predicted_texts": [
+          "Moved to San Francisco two years ago for work",
+          "Grew up in LA",
+          "Neha is also from LA"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 4,
+        "question": "What is your profession?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          8920,
+          89123,
+          56789,
+          12453,
+          89234
+        ],
+        "actual_memory_ids": [
+          90128
+        ],
+        "predicted_texts": [
+          "Career is going well",
+          "Majored in Computer Science",
+          "Moved to San Francisco two years ago for work",
+          "Neha is a doctor"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 5,
+        "question": "What is your husband's name?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          34521,
+          12345,
+          67890
+        ],
+        "actual_memory_ids": [
+          90129
+        ],
+        "predicted_texts": [
+          "Name is Navid",
+          "Has a best friend named John"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 6,
+        "question": "How long have you been married?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          89012,
+          56789,
+          12453
+        ],
+        "actual_memory_ids": [
+          90130
+        ],
+        "predicted_texts": [
+          "It's been two years since the user dated anyone",
+          "Moved to San Francisco two years ago for work"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 7,
+        "question": "What is your daughter's name?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          23451,
+          34521
+        ],
+        "actual_memory_ids": [
+          90131
+        ],
+        "predicted_texts": [
+          "Met someone named Neha",
+          "Name is Navid"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 8,
+        "question": "How old is Emma?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          78932,
+          12345,
+          67890
+        ],
+        "actual_memory_ids": [
+          45679
+        ],
+        "predicted_texts": [
+          "User is 24 years old",
+          "Has a best friend named John"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 9,
+        "question": "What is your son's name?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          12345,
+          67890,
+          34521
+        ],
+        "actual_memory_ids": [
+          90132
+        ],
+        "predicted_texts": [
+          "Has a best friend named John",
+          "Name is Navid"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 10,
+        "question": "How old is Jake?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          78932,
+          12345,
+          67890
+        ],
+        "actual_memory_ids": [
+          90124
+        ],
+        "predicted_texts": [
+          "User is 24 years old",
+          "Has a best friend named John"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 11,
+        "question": "Do you have any chronic health conditions?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          89234,
+          12345,
+          67890,
+          65789
+        ],
+        "actual_memory_ids": [
+          90133
+        ],
+        "predicted_texts": [
+          "Neha is a doctor",
+          "Has a best friend named John",
+          "User believes self-care will make them more effective at Dribble"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 12,
+        "question": "What physical activity do you do often?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          12678,
+          12678
+        ],
+        "actual_memory_ids": [
+          90134
+        ],
+        "predicted_texts": [
+          "Used to play a lot of basketball",
+          "Getting back into basketball is helping the user maintain a better work-life balance"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 13,
+        "question": "What does Emma study in college?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          89123,
+          23456,
+          12345,
+          67890,
+          8920
+        ],
+        "actual_memory_ids": [
+          90135
+        ],
+        "predicted_texts": [
+          "Majored in Computer Science",
+          "Went to Stanford",
+          "Has a best friend named John",
+          "Career is going well"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 14,
+        "question": "What kind of art do you create?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          65789,
+          56789,
+          12453,
+          89123
+        ],
+        "actual_memory_ids": [
+          90136
+        ],
+        "predicted_texts": [
+          "Works at Dribble",
+          "Moved to San Francisco two years ago for work",
+          "Majored in Computer Science"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 15,
+        "question": "Where does your mother live?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          56789,
+          12453,
+          90123
+        ],
+        "actual_memory_ids": [
+          90137
+        ],
+        "predicted_texts": [
+          "Moved to San Francisco two years ago for work",
+          "Grew up in LA"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 16,
+        "question": "Where do you volunteer?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          12678
+        ],
+        "actual_memory_ids": [
+          90138
+        ],
+        "predicted_texts": [
+          "Thinking of joining a local basketball league in San Francisco"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 17,
+        "question": "What is your husband's occupation?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          8920,
+          56789,
+          12453
+        ],
+        "actual_memory_ids": [
+          90139
+        ],
+        "predicted_texts": [
+          "Career is going well",
+          "Moved to San Francisco two years ago for work"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 18,
+        "question": "Who is Jake close with?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          12345,
+          67890,
+          45678,
+          34567
+        ],
+        "actual_memory_ids": [
+          90140
+        ],
+        "predicted_texts": [
+          "Has a best friend named John",
+          "Played basketball with John in high school in Palo Alto",
+          "John is really smart and always pushes the user to be better"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 19,
+        "question": "What health issue does your mother have?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          89234
+        ],
+        "actual_memory_ids": [
+          90141
+        ],
+        "predicted_texts": [
+          "Neha is a doctor"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 20,
+        "question": "What club are you a member of?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          12678,
+          89123
+        ],
+        "actual_memory_ids": [
+          90142
+        ],
+        "predicted_texts": [
+          "Thinking of joining a local basketball league in San Francisco",
+          "Majored in Computer Science"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 21,
+        "question": "How old were you when you got married?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          78932,
+          89012
+        ],
+        "actual_memory_ids": [
+          90126,
+          90130
+        ],
+        "predicted_texts": [
+          "User is 24 years old",
+          "It's been two years since the user dated anyone"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 22,
+        "question": "What is the age difference between Emma and Jake?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          78932,
+          12345,
+          67890
+        ],
+        "actual_memory_ids": [
+          45679,
+          90124
+        ],
+        "predicted_texts": [
+          "User is 24 years old",
+          "Has a best friend named John"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 23,
+        "question": "Who in your family works in the healthcare industry?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          89234,
+          56789,
+          12453,
+          8920
+        ],
+        "actual_memory_ids": [
+          90135,
+          90139
+        ],
+        "predicted_texts": [
+          "Neha is a doctor",
+          "Moved to San Francisco two years ago for work",
+          "Career is going well"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 24,
+        "question": "Which family members have chronic health conditions?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          89234,
+          12345,
+          67890,
+          65789
+        ],
+        "actual_memory_ids": [
+          90133,
+          90141
+        ],
+        "predicted_texts": [
+          "Neha is a doctor",
+          "Has a best friend named John",
+          "User believes self-care will make them more effective at Dribble"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 25,
+        "question": "How many generations are living in your home?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          56789,
+          12453,
+          78932,
+          90123
+        ],
+        "actual_memory_ids": [
+          90137,
+          90131
+        ],
+        "predicted_texts": [
+          "Moved to San Francisco two years ago for work",
+          "User is 24 years old",
+          "Grew up in LA"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 27,
+        "question": "Did you have Emma before or after you got married?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          23451,
+          12345,
+          67890,
+          23451,
+          89012
+        ],
+        "actual_memory_ids": [
+          90130,
+          45679
+        ],
+        "predicted_texts": [
+          "Met someone named Neha",
+          "Has a best friend named John",
+          "Meeting Neha has been great",
+          "It's been two years since the user dated anyone"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 28,
+        "question": "How old were you when you had your first child?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          78932
+        ],
+        "actual_memory_ids": [
+          90126,
+          45679
+        ],
+        "predicted_texts": [
+          "User is 24 years old"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 30,
+        "question": "What do you do in your free time?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          6977,
+          12678,
+          12678
+        ],
+        "actual_memory_ids": [
+          90142,
+          90136,
+          90134,
+          90138
+        ],
+        "predicted_texts": [
+          "Misses having a work-life balance",
+          "Used to play a lot of basketball",
+          "Getting back into basketball is helping the user maintain a better work-life balance"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 31,
+        "question": "At what ages did Patricia marry, have Emma, and have Jake?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          12345,
+          67890
+        ],
+        "actual_memory_ids": [
+          90126,
+          90130,
+          45679,
+          90124
+        ],
+        "predicted_texts": [
+          "Has a best friend named John"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 32,
+        "question": "How many years after getting married did Patricia have each of her children?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          12345,
+          67890,
+          89012,
+          78932
+        ],
+        "actual_memory_ids": [
+          90130,
+          45679,
+          90124
+        ],
+        "predicted_texts": [
+          "Has a best friend named John",
+          "It's been two years since the user dated anyone",
+          "User is 24 years old"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 33,
+        "question": "Which family members are usually receiving medical help and which family memberes are usually providing medical help?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          89234,
+          65789
+        ],
+        "actual_memory_ids": [
+          90135,
+          90139,
+          90133,
+          90141
+        ],
+        "predicted_texts": [
+          "Neha is a doctor",
+          "User believes self-care will make them more effective at Dribble"
+        ],
+        "accuracy": 0.0
+      }
+    ]
+  },
+  {
+    "person_id": 2,
+    "questions": [
+      {
+        "question_id": 1,
+        "question": "What is your name?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          90131,
+          45679
+        ],
+        "actual_memory_ids": [
+          90125
+        ],
+        "predicted_texts": [
+          "Daughter's name is Emma"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 2,
+        "question": "How old are you?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          90126,
+          90131,
+          45679,
+          90124,
+          90132,
+          90140,
+          90130,
+          90129
+        ],
+        "actual_memory_ids": [
+          90126
+        ],
+        "predicted_texts": [
+          "Is 50 years old",
+          "Daughter is 21 years old",
+          "Has a 17-year-old son named Jake",
+          "Married to David for 23 years"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 3,
+        "question": "Where do you live?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          90127,
+          90137,
+          90141
+        ],
+        "actual_memory_ids": [
+          90127
+        ],
+        "predicted_texts": [
+          "Lives in Seattle",
+          "Mother lives with them"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 4,
+        "question": "What is your profession?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          90139,
+          90135,
+          90127
+        ],
+        "actual_memory_ids": [
+          90128
+        ],
+        "predicted_texts": [
+          "Husband works at a hospital",
+          "Daughter is studying nursing in college",
+          "Lives in Seattle"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 5,
+        "question": "What is your husband's name?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          90139,
+          90130,
+          90129,
+          90124,
+          90132,
+          90140,
+          90131,
+          45679
+        ],
+        "actual_memory_ids": [
+          90129
+        ],
+        "predicted_texts": [
+          "Husband works at a hospital",
+          "Married to David for 23 years",
+          "Has a 17-year-old son named Jake",
+          "Daughter's name is Emma"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 6,
+        "question": "How long have you been married?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          90130,
+          90129,
+          90139,
+          90131,
+          45679,
+          90126,
+          90124,
+          90132,
+          90140
+        ],
+        "actual_memory_ids": [
+          90130
+        ],
+        "predicted_texts": [
+          "Married to David for 23 years",
+          "Husband works at a hospital",
+          "Daughter is 21 years old",
+          "Is 50 years old",
+          "Has a 17-year-old son named Jake"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 7,
+        "question": "What is your daughter's name?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          90131,
+          45679,
+          90131,
+          45679,
+          90135,
+          90124,
+          90132,
+          90140,
+          90130,
+          90129
+        ],
+        "actual_memory_ids": [
+          90131
+        ],
+        "predicted_texts": [
+          "Daughter's name is Emma",
+          "Daughter is 21 years old",
+          "Daughter is studying nursing in college",
+          "Has a 17-year-old son named Jake",
+          "Married to David for 23 years"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 8,
+        "question": "How old is Emma?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          90131,
+          45679,
+          90131,
+          45679,
+          90124,
+          90132,
+          90140,
+          90126,
+          90130,
+          90129
+        ],
+        "actual_memory_ids": [
+          45679
+        ],
+        "predicted_texts": [
+          "Daughter's name is Emma",
+          "Daughter is 21 years old",
+          "Has a 17-year-old son named Jake",
+          "Is 50 years old",
+          "Married to David for 23 years"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 9,
+        "question": "What is your son's name?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          90131,
+          45679,
+          90124,
+          90132,
+          90140,
+          90131,
+          45679,
+          90135,
+          90139
+        ],
+        "actual_memory_ids": [
+          90132
+        ],
+        "predicted_texts": [
+          "Daughter's name is Emma",
+          "Has a 17-year-old son named Jake",
+          "Daughter is 21 years old",
+          "Daughter is studying nursing in college",
+          "Husband works at a hospital"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 10,
+        "question": "How old is Jake?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          90124,
+          90132,
+          90140,
+          8076,
+          90131,
+          45679,
+          90126,
+          90130,
+          90129
+        ],
+        "actual_memory_ids": [
+          90124
+        ],
+        "predicted_texts": [
+          "Has a 17-year-old son named Jake",
+          "Thinks Jake could benefit from yoga",
+          "Daughter is 21 years old",
+          "Is 50 years old",
+          "Married to David for 23 years"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 11,
+        "question": "Do you have any chronic health conditions?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          90133,
+          90134,
+          90139
+        ],
+        "actual_memory_ids": [
+          90133
+        ],
+        "predicted_texts": [
+          "Has type 2 diabetes",
+          "Used to do yoga often",
+          "Husband works at a hospital"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 12,
+        "question": "What physical activity do you do often?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          90134,
+          8076,
+          5625
+        ],
+        "actual_memory_ids": [
+          90134
+        ],
+        "predicted_texts": [
+          "Used to do yoga often",
+          "Thinks Jake could benefit from yoga",
+          "Is still learning yoga"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 13,
+        "question": "What does Emma study in college?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          90135,
+          90131,
+          45679,
+          90136,
+          90142,
+          90128
+        ],
+        "actual_memory_ids": [
+          90135
+        ],
+        "predicted_texts": [
+          "Daughter is studying nursing in college",
+          "Daughter's name is Emma",
+          "Paints watercolors with mother",
+          "Is in a book club",
+          "Is a high school counselor"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 14,
+        "question": "What kind of art do you create?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          90136
+        ],
+        "actual_memory_ids": [
+          90136
+        ],
+        "predicted_texts": [
+          "Paints watercolors with mother"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 15,
+        "question": "Where does your mother live?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          90137,
+          90141,
+          90136,
+          90135,
+          90127,
+          90131,
+          45679
+        ],
+        "actual_memory_ids": [
+          90137
+        ],
+        "predicted_texts": [
+          "Mother lives with them",
+          "Paints watercolors with mother",
+          "Daughter is studying nursing in college",
+          "Lives in Seattle",
+          "Daughter is 21 years old"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 16,
+        "question": "Where do you volunteer?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          90138,
+          90139,
+          90142,
+          90127
+        ],
+        "actual_memory_ids": [
+          90138
+        ],
+        "predicted_texts": [
+          "Volunteers at a food bank",
+          "Husband works at a hospital",
+          "Is in a book club",
+          "Lives in Seattle"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 17,
+        "question": "What is your husband's occupation?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          90139,
+          90130,
+          90129,
+          90124,
+          90132,
+          90140,
+          90135,
+          90127
+        ],
+        "actual_memory_ids": [
+          90139
+        ],
+        "predicted_texts": [
+          "Husband works at a hospital",
+          "Married to David for 23 years",
+          "Has a 17-year-old son named Jake",
+          "Daughter is studying nursing in college",
+          "Lives in Seattle"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 18,
+        "question": "Who is Jake close with?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          90124,
+          90132,
+          90140,
+          8076,
+          90142,
+          90131,
+          45679
+        ],
+        "actual_memory_ids": [
+          90140
+        ],
+        "predicted_texts": [
+          "Has a 17-year-old son named Jake",
+          "Thinks Jake could benefit from yoga",
+          "Is in a book club",
+          "Daughter's name is Emma"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 19,
+        "question": "What health issue does your mother have?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          90137,
+          90141,
+          90135,
+          90139,
+          90133,
+          90131,
+          45679
+        ],
+        "actual_memory_ids": [
+          90141
+        ],
+        "predicted_texts": [
+          "Mother lives with them",
+          "Daughter is studying nursing in college",
+          "Husband works at a hospital",
+          "Has type 2 diabetes",
+          "Daughter is 21 years old"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 20,
+        "question": "What club are you a member of?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          90142
+        ],
+        "actual_memory_ids": [
+          90142
+        ],
+        "predicted_texts": [
+          "Is in a book club"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 21,
+        "question": "How old were you when you got married?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          90130,
+          90129,
+          90131,
+          45679,
+          90126,
+          90124,
+          90132,
+          90140
+        ],
+        "actual_memory_ids": [
+          90126,
+          90130
+        ],
+        "predicted_texts": [
+          "Married to David for 23 years",
+          "Daughter is 21 years old",
+          "Is 50 years old",
+          "Has a 17-year-old son named Jake"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 22,
+        "question": "What is the age difference between Emma and Jake?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          90124,
+          90132,
+          90140,
+          90131,
+          45679,
+          8076,
+          90131,
+          45679,
+          90130,
+          90129
+        ],
+        "actual_memory_ids": [
+          45679,
+          90124
+        ],
+        "predicted_texts": [
+          "Has a 17-year-old son named Jake",
+          "Daughter's name is Emma",
+          "Thinks Jake could benefit from yoga",
+          "Daughter is 21 years old",
+          "Married to David for 23 years"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 23,
+        "question": "Who in your family works in the healthcare industry?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          90139,
+          90135,
+          90137,
+          90141,
+          90131,
+          45679,
+          90131,
+          45679
+        ],
+        "actual_memory_ids": [
+          90135,
+          90139
+        ],
+        "predicted_texts": [
+          "Husband works at a hospital",
+          "Daughter is studying nursing in college",
+          "Mother lives with them",
+          "Daughter's name is Emma",
+          "Daughter is 21 years old"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 24,
+        "question": "Which family members have chronic health conditions?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          90133,
+          90137,
+          90141,
+          90139,
+          90135,
+          90131,
+          45679
+        ],
+        "actual_memory_ids": [
+          90133,
+          90141
+        ],
+        "predicted_texts": [
+          "Has type 2 diabetes",
+          "Mother lives with them",
+          "Husband works at a hospital",
+          "Daughter is studying nursing in college",
+          "Daughter is 21 years old"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 25,
+        "question": "How many generations are living in your home?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          90137,
+          90141,
+          90131,
+          45679,
+          90131,
+          45679,
+          90135,
+          90126
+        ],
+        "actual_memory_ids": [
+          90137,
+          90131
+        ],
+        "predicted_texts": [
+          "Mother lives with them",
+          "Daughter is 21 years old",
+          "Daughter's name is Emma",
+          "Daughter is studying nursing in college",
+          "Is 50 years old"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 27,
+        "question": "Did you have Emma before or after you got married?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          90131,
+          45679,
+          90130,
+          90129,
+          90131,
+          45679,
+          90124,
+          90132,
+          90140,
+          90137,
+          90141
+        ],
+        "actual_memory_ids": [
+          90130,
+          45679
+        ],
+        "predicted_texts": [
+          "Daughter's name is Emma",
+          "Married to David for 23 years",
+          "Daughter is 21 years old",
+          "Has a 17-year-old son named Jake",
+          "Mother lives with them"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 28,
+        "question": "How old were you when you had your first child?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          90131,
+          45679,
+          90124,
+          90132,
+          90140,
+          90130,
+          90129,
+          90131,
+          45679,
+          90135
+        ],
+        "actual_memory_ids": [
+          90126,
+          45679
+        ],
+        "predicted_texts": [
+          "Daughter is 21 years old",
+          "Has a 17-year-old son named Jake",
+          "Married to David for 23 years",
+          "Daughter's name is Emma",
+          "Daughter is studying nursing in college"
+        ],
+        "accuracy": 0.5
+      },
+      {
+        "question_id": 30,
+        "question": "What do you do in your free time?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          90134,
+          90142
+        ],
+        "actual_memory_ids": [
+          90142,
+          90136,
+          90134,
+          90138
+        ],
+        "predicted_texts": [
+          "Used to do yoga often",
+          "Is in a book club"
+        ],
+        "accuracy": 0.5
+      },
+      {
+        "question_id": 31,
+        "question": "At what ages did Patricia marry, have Emma, and have Jake?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          90124,
+          90132,
+          90140,
+          90131,
+          45679,
+          90130,
+          90129,
+          90131,
+          45679,
+          90137,
+          90141
+        ],
+        "actual_memory_ids": [
+          90126,
+          90130,
+          45679,
+          90124
+        ],
+        "predicted_texts": [
+          "Has a 17-year-old son named Jake",
+          "Daughter's name is Emma",
+          "Married to David for 23 years",
+          "Daughter is 21 years old",
+          "Mother lives with them"
+        ],
+        "accuracy": 0.75
+      },
+      {
+        "question_id": 32,
+        "question": "How many years after getting married did Patricia have each of her children?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          90130,
+          90129,
+          90131,
+          45679,
+          90124,
+          90132,
+          90140,
+          90131,
+          45679,
+          90135
+        ],
+        "actual_memory_ids": [
+          90130,
+          45679,
+          90124
+        ],
+        "predicted_texts": [
+          "Married to David for 23 years",
+          "Daughter is 21 years old",
+          "Has a 17-year-old son named Jake",
+          "Daughter's name is Emma",
+          "Daughter is studying nursing in college"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 33,
+        "question": "Which family members are usually receiving medical help and which family memberes are usually providing medical help?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          90139,
+          90135,
+          90137,
+          90141,
+          90131,
+          45679
+        ],
+        "actual_memory_ids": [
+          90135,
+          90139,
+          90133,
+          90141
+        ],
+        "predicted_texts": [
+          "Husband works at a hospital",
+          "Daughter is studying nursing in college",
+          "Mother lives with them",
+          "Daughter is 21 years old"
+        ],
+        "accuracy": 0.75
+      },
+      {
+        "question_id": 34,
+        "question": "Who is probably your husbands favorite child?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          90131,
+          45679,
+          90139,
+          90130,
+          90129,
+          90131,
+          45679,
+          90124,
+          90132,
+          90140
+        ],
+        "actual_memory_ids": [
+          90140,
+          90129
+        ],
+        "predicted_texts": [
+          "Daughter's name is Emma",
+          "Husband works at a hospital",
+          "Married to David for 23 years",
+          "Daughter is 21 years old",
+          "Has a 17-year-old son named Jake"
+        ],
+        "accuracy": 1.0
+      }
+    ]
+  },
+  {
+    "person_id": 3,
+    "questions": [
+      {
+        "question_id": 1,
+        "question": "What is your name?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          10018
+        ],
+        "actual_memory_ids": [
+          10001
+        ],
+        "predicted_texts": [
+          "Has a golden retriever named Max"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 2,
+        "question": "How old are you?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          10002,
+          10008,
+          10005
+        ],
+        "actual_memory_ids": [
+          10002
+        ],
+        "predicted_texts": [
+          "Is 35 years old",
+          "Sophie is 7 years old",
+          "Got divorced six months ago"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 3,
+        "question": "What city do you currently live in?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          10011,
+          10003,
+          10005
+        ],
+        "actual_memory_ids": [
+          10003
+        ],
+        "predicted_texts": [
+          "Moved from San Francisco to Austin two years ago",
+          "Got divorced six months ago"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 4,
+        "question": "What is the name of the company you founded?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          10004,
+          10017
+        ],
+        "actual_memory_ids": [
+          10004
+        ],
+        "predicted_texts": [
+          "Founder of TechMind AI",
+          "Is passionate about renewable energy"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 5,
+        "question": "When did you get divorced?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          10005,
+          10015,
+          10014,
+          10009,
+          10011,
+          10003
+        ],
+        "actual_memory_ids": [
+          10005
+        ],
+        "predicted_texts": [
+          "Got divorced six months ago",
+          "Has joint custody of daughter Sophie",
+          "Is reflecting on their relationship with their ex, Sarah",
+          "Started going to therapy weekly",
+          "Moved from San Francisco to Austin two years ago"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 6,
+        "question": "How many employees does your company have?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          10002,
+          10004,
+          10011,
+          10003
+        ],
+        "actual_memory_ids": [
+          10006
+        ],
+        "predicted_texts": [
+          "Is 35 years old",
+          "Founder of TechMind AI",
+          "Moved from San Francisco to Austin two years ago"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 7,
+        "question": "What is your daughter's name?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          10007,
+          10015,
+          10008,
+          9598,
+          10018
+        ],
+        "actual_memory_ids": [
+          10007
+        ],
+        "predicted_texts": [
+          "Has a daughter named Sophie",
+          "Has joint custody of daughter Sophie",
+          "Sophie is 7 years old",
+          "Finds balancing leadership role with parenting challenging",
+          "Has a golden retriever named Max"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 8,
+        "question": "How old is your daughter?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          10007,
+          10008,
+          10015,
+          10002,
+          9598
+        ],
+        "actual_memory_ids": [
+          10008
+        ],
+        "predicted_texts": [
+          "Has a daughter named Sophie",
+          "Sophie is 7 years old",
+          "Has joint custody of daughter Sophie",
+          "Is 35 years old",
+          "Finds balancing leadership role with parenting challenging"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 9,
+        "question": "How often do you go to therapy?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          10009,
+          10010,
+          4649,
+          10005
+        ],
+        "actual_memory_ids": [
+          10009
+        ],
+        "predicted_texts": [
+          "Started going to therapy weekly",
+          "Has been meditating for about a month",
+          "Meditates in the mornings after workouts",
+          "Got divorced six months ago"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 10,
+        "question": "What have you started practicing?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          10010,
+          10009,
+          10012,
+          4649,
+          10012
+        ],
+        "actual_memory_ids": [
+          10010
+        ],
+        "predicted_texts": [
+          "Has been meditating for about a month",
+          "Started going to therapy weekly",
+          "Sets aside time in the evenings after dinner to practice Spanish with Sophie",
+          "Meditates in the mornings after workouts",
+          "The user is trying to learn Spanish"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 11,
+        "question": "When did you move from San Francisco?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          10011,
+          10003,
+          10005
+        ],
+        "actual_memory_ids": [
+          10011
+        ],
+        "predicted_texts": [
+          "Moved from San Francisco to Austin two years ago",
+          "Got divorced six months ago"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 12,
+        "question": "What language are you trying to learn?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          10012,
+          10012,
+          6912
+        ],
+        "actual_memory_ids": [
+          10012
+        ],
+        "predicted_texts": [
+          "The user is trying to learn Spanish",
+          "Sets aside time in the evenings after dinner to practice Spanish with Sophie",
+          "Is interested in joining a Spanish club or attending community events in Austin"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 13,
+        "question": "At what time do you work out every morning?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          10013,
+          4649,
+          10012,
+          9068
+        ],
+        "actual_memory_ids": [
+          10013
+        ],
+        "predicted_texts": [
+          "Works out every day at 6 AM",
+          "Meditates in the mornings after workouts",
+          "Sets aside time in the evenings after dinner to practice Spanish with Sophie",
+          "Takes short walks in the afternoon"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 14,
+        "question": "What is your ex's name?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          10014,
+          10016,
+          10005,
+          10018,
+          10007
+        ],
+        "actual_memory_ids": [
+          10014
+        ],
+        "predicted_texts": [
+          "Is reflecting on their relationship with their ex, Sarah",
+          "Is considering reconnecting with their ex, Sarah, as a step forward for their family",
+          "Got divorced six months ago",
+          "Has a golden retriever named Max",
+          "Has a daughter named Sophie"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 15,
+        "question": "What is your custody arrangement for Sophie?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          10015,
+          10008,
+          10007,
+          10007,
+          10012
+        ],
+        "actual_memory_ids": [
+          10015
+        ],
+        "predicted_texts": [
+          "Has joint custody of daughter Sophie",
+          "Sophie is 7 years old",
+          "Has a daughter named Sophie",
+          "Sophie loves animals",
+          "Sets aside time in the evenings after dinner to practice Spanish with Sophie"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 16,
+        "question": "Are you considering getting back together with your ex?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          10016,
+          10014,
+          10005,
+          10017
+        ],
+        "actual_memory_ids": [
+          10016
+        ],
+        "predicted_texts": [
+          "Is considering reconnecting with their ex, Sarah, as a step forward for their family",
+          "Is reflecting on their relationship with their ex, Sarah",
+          "Got divorced six months ago",
+          "Is considering getting involved in renewable energy field through volunteering or local initiatives"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 17,
+        "question": "What are you passionate about?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          10017,
+          10017,
+          10007,
+          6912
+        ],
+        "actual_memory_ids": [
+          10017
+        ],
+        "predicted_texts": [
+          "Is passionate about renewable energy",
+          "Is considering getting involved in renewable energy field through volunteering or local initiatives",
+          "Sophie loves animals",
+          "Is interested in joining a Spanish club or attending community events in Austin"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 18,
+        "question": "What is your dog's name?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          10018,
+          10007,
+          10007,
+          10008
+        ],
+        "actual_memory_ids": [
+          10018
+        ],
+        "predicted_texts": [
+          "Has a golden retriever named Max",
+          "Sophie loves animals",
+          "Has a daughter named Sophie",
+          "Sophie is 7 years old"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 19,
+        "question": "What are you trying to cut back on?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          10019,
+          8257,
+          10009
+        ],
+        "actual_memory_ids": [
+          10019
+        ],
+        "predicted_texts": [
+          "Is in the process of cutting back on coffee",
+          "Is focusing more on overall health and energy levels",
+          "Started going to therapy weekly"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 20,
+        "question": "What sport do you play?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          10020,
+          5319,
+          10013
+        ],
+        "actual_memory_ids": [
+          10020
+        ],
+        "predicted_texts": [
+          "Plays tennis on weekends",
+          "Thinks Sophie might enjoy taking tennis lessons or playing tennis",
+          "Works out every day at 6 AM"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 21,
+        "question": "What are you trying to cut back on?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          10019,
+          8257,
+          10009
+        ],
+        "actual_memory_ids": [
+          10019
+        ],
+        "predicted_texts": [
+          "Is in the process of cutting back on coffee",
+          "Is focusing more on overall health and energy levels",
+          "Started going to therapy weekly"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 22,
+        "question": "What is the name of your ex-wife, and how long ago did you get divorced?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          10005,
+          10014,
+          10015,
+          10016,
+          10007
+        ],
+        "actual_memory_ids": [
+          10014,
+          10005
+        ],
+        "predicted_texts": [
+          "Got divorced six months ago",
+          "Is reflecting on their relationship with their ex, Sarah",
+          "Has joint custody of daughter Sophie",
+          "Is considering reconnecting with their ex, Sarah, as a step forward for their family",
+          "Has a daughter named Sophie"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 23,
+        "question": "Where do you live and where did you move from?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          10011,
+          10003,
+          10005
+        ],
+        "actual_memory_ids": [
+          10011,
+          10003
+        ],
+        "predicted_texts": [
+          "Moved from San Francisco to Austin two years ago",
+          "Got divorced six months ago"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 24,
+        "question": "What is your daughter's name, and how old is she?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          10007,
+          10008,
+          10015,
+          9598,
+          10018
+        ],
+        "actual_memory_ids": [
+          10007,
+          10008
+        ],
+        "predicted_texts": [
+          "Has a daughter named Sophie",
+          "Sophie is 7 years old",
+          "Has joint custody of daughter Sophie",
+          "Finds balancing leadership role with parenting challenging",
+          "Has a golden retriever named Max"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 47,
+        "question": "Does your company's size make sense for the industry it's in?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          10002,
+          9598,
+          10004
+        ],
+        "actual_memory_ids": [
+          10006,
+          10004
+        ],
+        "predicted_texts": [
+          "Is 35 years old",
+          "Finds balancing leadership role with parenting challenging",
+          "Founder of TechMind AI"
+        ],
+        "accuracy": 0.5
+      },
+      {
+        "question_id": 50,
+        "question": "Are you thinking of getting back with Sarah?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          10016,
+          10014,
+          10015,
+          5319,
+          10005
+        ],
+        "actual_memory_ids": [
+          10014,
+          10016
+        ],
+        "predicted_texts": [
+          "Is considering reconnecting with their ex, Sarah, as a step forward for their family",
+          "Is reflecting on their relationship with their ex, Sarah",
+          "Has joint custody of daughter Sophie",
+          "Thinks Sophie might enjoy taking tennis lessons or playing tennis",
+          "Got divorced six months ago"
+        ],
+        "accuracy": 1.0
+      }
+    ]
+  },
+  {
+    "person_id": 4,
+    "questions": [
+      {
+        "question_id": 1,
+        "question": "What is your name?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          20001,
+          20121,
+          20010,
+          20017,
+          20019
+        ],
+        "actual_memory_ids": [
+          20001
+        ],
+        "predicted_texts": [
+          "The speaker's name is Maya",
+          "Has a close friend named Emma",
+          "Has a roommate named Sarah",
+          "Has a crush on a regular customer named James"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 2,
+        "question": "How old are you?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          20002,
+          20005
+        ],
+        "actual_memory_ids": [
+          20002
+        ],
+        "predicted_texts": [
+          "Is 19 years old",
+          "Is in their first year of university"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 3,
+        "question": "Where do you live?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          6637,
+          7165,
+          20017
+        ],
+        "actual_memory_ids": [
+          20003
+        ],
+        "predicted_texts": [
+          "The speaker's mom lives in Chicago.",
+          "Moved to London",
+          "Has a roommate named Sarah"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 4,
+        "question": "Where are you originally from?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          6637,
+          7165
+        ],
+        "actual_memory_ids": [
+          20004
+        ],
+        "predicted_texts": [
+          "The speaker's mom lives in Chicago.",
+          "Moved to London"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 5,
+        "question": "What year of university are you in?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          20005,
+          7782,
+          20002,
+          20020,
+          20006
+        ],
+        "actual_memory_ids": [
+          20005
+        ],
+        "predicted_texts": [
+          "Is in their first year of university",
+          "Has university classes.",
+          "Is 19 years old",
+          "Considering switching major to marine biology",
+          "Studies environmental science"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 6,
+        "question": "What do you study?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          7782,
+          20006,
+          20020,
+          20005,
+          20007
+        ],
+        "actual_memory_ids": [
+          20006
+        ],
+        "predicted_texts": [
+          "Has university classes.",
+          "Studies environmental science",
+          "Considering switching major to marine biology",
+          "Is in their first year of university",
+          "Works a part-time job at a caf\u00e9."
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 7,
+        "question": "What is your job?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          20007
+        ],
+        "actual_memory_ids": [
+          20007
+        ],
+        "predicted_texts": [
+          "Works a part-time job at a caf\u00e9."
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 8,
+        "question": "What are you passionate about?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          20008
+        ],
+        "actual_memory_ids": [
+          20008
+        ],
+        "predicted_texts": [
+          "Passionate about climate activism"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 9,
+        "question": "Who is your best friend?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          20121,
+          20010,
+          20017,
+          20019
+        ],
+        "actual_memory_ids": [
+          20121
+        ],
+        "predicted_texts": [
+          "Has a close friend named Emma",
+          "Has a roommate named Sarah",
+          "Has a crush on a regular customer named James"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 10,
+        "question": "Hows Emma's health?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          20009,
+          20121,
+          20010,
+          20019,
+          20015,
+          20016,
+          20017
+        ],
+        "actual_memory_ids": [
+          20009
+        ],
+        "predicted_texts": [
+          "Emma has health issues",
+          "Has a close friend named Emma",
+          "Has a crush on a regular customer named James",
+          "Hasn't visited their mom in Chicago for eight months.",
+          "Has a roommate named Sarah"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 11,
+        "question": "When did you meet Emma?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          20121,
+          20010,
+          20009,
+          20017,
+          20019,
+          7165
+        ],
+        "actual_memory_ids": [
+          20010
+        ],
+        "predicted_texts": [
+          "Has a close friend named Emma",
+          "Emma has health issues",
+          "Has a roommate named Sarah",
+          "Has a crush on a regular customer named James",
+          "Moved to London"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 12,
+        "question": "Hows your relationship with your mom?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          6637,
+          20015,
+          20016,
+          20121,
+          20010,
+          20013,
+          20017
+        ],
+        "actual_memory_ids": [
+          20012,
+          20016
+        ],
+        "predicted_texts": [
+          "The speaker's mom lives in Chicago.",
+          "Hasn't visited their mom in Chicago for eight months.",
+          "Has a close friend named Emma",
+          "Struggles with anxiety in social situations",
+          "Has a roommate named Sarah"
+        ],
+        "accuracy": 0.5
+      },
+      {
+        "question_id": 13,
+        "question": "How are you in social situations?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          20013,
+          20013,
+          20121,
+          20010,
+          20017
+        ],
+        "actual_memory_ids": [
+          20013
+        ],
+        "predicted_texts": [
+          "Struggles with anxiety in social situations",
+          "Feels anxious about confronting people",
+          "Has a close friend named Emma",
+          "Has a roommate named Sarah"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 14,
+        "question": "When was the last time you were in Chicago?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          20015,
+          20016,
+          6637
+        ],
+        "actual_memory_ids": [
+          20015
+        ],
+        "predicted_texts": [
+          "Hasn't visited their mom in Chicago for eight months.",
+          "The speaker's mom lives in Chicago."
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 15,
+        "question": "How do you feel about leaving your family for university?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          20005,
+          7782,
+          20020,
+          7165,
+          20015,
+          20016
+        ],
+        "actual_memory_ids": [
+          20016
+        ],
+        "predicted_texts": [
+          "Is in their first year of university",
+          "Has university classes.",
+          "Considering switching major to marine biology",
+          "Moved to London",
+          "Hasn't visited their mom in Chicago for eight months."
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 16,
+        "question": "Who is your roommate?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          20017,
+          24017,
+          20121,
+          20010,
+          6637,
+          20005
+        ],
+        "actual_memory_ids": [
+          20017
+        ],
+        "predicted_texts": [
+          "Has a roommate named Sarah",
+          "Finds their roommate Sarah inconsiderate",
+          "Has a close friend named Emma",
+          "The speaker's mom lives in Chicago.",
+          "Is in their first year of university"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 17,
+        "question": "What is Sarah like?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          20017,
+          24017,
+          20121,
+          20010,
+          20009,
+          20019
+        ],
+        "actual_memory_ids": [
+          24017
+        ],
+        "predicted_texts": [
+          "Has a roommate named Sarah",
+          "Finds their roommate Sarah inconsiderate",
+          "Has a close friend named Emma",
+          "Emma has health issues",
+          "Has a crush on a regular customer named James"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 18,
+        "question": "What class are you falling behind in?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          7782,
+          20005,
+          20020,
+          20013
+        ],
+        "actual_memory_ids": [
+          20018
+        ],
+        "predicted_texts": [
+          "Has university classes.",
+          "Is in their first year of university",
+          "Considering switching major to marine biology",
+          "Struggles with anxiety in social situations"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 19,
+        "question": "Who do you have a crush on?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          20019,
+          20121,
+          20010,
+          20017
+        ],
+        "actual_memory_ids": [
+          20019
+        ],
+        "predicted_texts": [
+          "Has a crush on a regular customer named James",
+          "Has a close friend named Emma",
+          "Has a roommate named Sarah"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 20,
+        "question": "What degree are you considering switching to?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          20020,
+          7782,
+          20006,
+          20005
+        ],
+        "actual_memory_ids": [
+          20020
+        ],
+        "predicted_texts": [
+          "Considering switching major to marine biology",
+          "Has university classes.",
+          "Studies environmental science",
+          "Is in their first year of university"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 21,
+        "question": "How far away are you now from where you grew up?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          7165,
+          6637,
+          20015,
+          20016,
+          20002
+        ],
+        "actual_memory_ids": [
+          20003,
+          20004
+        ],
+        "predicted_texts": [
+          "Moved to London",
+          "The speaker's mom lives in Chicago.",
+          "Hasn't visited their mom in Chicago for eight months.",
+          "Is 19 years old"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 22,
+        "question": "How long have you been in university and wha are you studying?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          20005,
+          7782,
+          20020,
+          20006
+        ],
+        "actual_memory_ids": [
+          20006,
+          20005
+        ],
+        "predicted_texts": [
+          "Is in their first year of university",
+          "Has university classes.",
+          "Considering switching major to marine biology",
+          "Studies environmental science"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 23,
+        "question": "Describe your best friend's health condition.",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          20009,
+          20121,
+          20010,
+          20017,
+          20013,
+          20015,
+          20016
+        ],
+        "actual_memory_ids": [
+          20121,
+          20009
+        ],
+        "predicted_texts": [
+          "Emma has health issues",
+          "Has a close friend named Emma",
+          "Has a roommate named Sarah",
+          "Struggles with anxiety in social situations",
+          "Hasn't visited their mom in Chicago for eight months."
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 24,
+        "question": "Whats a good place for you to meet new people to possibly date?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          20013,
+          20019,
+          20013
+        ],
+        "actual_memory_ids": [
+          20007,
+          20019
+        ],
+        "predicted_texts": [
+          "Struggles with anxiety in social situations",
+          "Has a crush on a regular customer named James",
+          "Feels anxious about confronting people"
+        ],
+        "accuracy": 0.5
+      },
+      {
+        "question_id": 25,
+        "question": "Does your job relate to your personal interests?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          20007,
+          20020,
+          20008,
+          20006,
+          20019
+        ],
+        "actual_memory_ids": [
+          20007,
+          20008
+        ],
+        "predicted_texts": [
+          "Works a part-time job at a caf\u00e9.",
+          "Considering switching major to marine biology",
+          "Passionate about climate activism",
+          "Studies environmental science",
+          "Has a crush on a regular customer named James"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 27,
+        "question": "What academic challenges are you facing and what are you doing about it?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          7782,
+          20020,
+          20013,
+          20005,
+          20013
+        ],
+        "actual_memory_ids": [
+          20018,
+          20020
+        ],
+        "predicted_texts": [
+          "Has university classes.",
+          "Considering switching major to marine biology",
+          "Struggles with anxiety in social situations",
+          "Is in their first year of university",
+          "Feels anxious about confronting people"
+        ],
+        "accuracy": 0.5
+      },
+      {
+        "question_id": 32,
+        "question": "What are the challenges you face in your academic, personal and social life?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          20013,
+          7782,
+          20013,
+          20005
+        ],
+        "actual_memory_ids": [
+          20018,
+          20013,
+          24017
+        ],
+        "predicted_texts": [
+          "Struggles with anxiety in social situations",
+          "Has university classes.",
+          "Feels anxious about confronting people",
+          "Is in their first year of university"
+        ],
+        "accuracy": 0.3333333333333333
+      },
+      {
+        "question_id": 33,
+        "question": "Describe the key friends in your life and what is going on with them?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          20121,
+          20010,
+          20017,
+          20013
+        ],
+        "actual_memory_ids": [
+          20121,
+          20009,
+          20017,
+          24017
+        ],
+        "predicted_texts": [
+          "Has a close friend named Emma",
+          "Has a roommate named Sarah",
+          "Struggles with anxiety in social situations"
+        ],
+        "accuracy": 0.5
+      },
+      {
+        "question_id": 35,
+        "question": "What are your feelings about your family and your academic future?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          20020,
+          20005,
+          7782,
+          20013,
+          20008
+        ],
+        "actual_memory_ids": [
+          20016,
+          20015,
+          20020
+        ],
+        "predicted_texts": [
+          "Considering switching major to marine biology",
+          "Is in their first year of university",
+          "Has university classes.",
+          "Struggles with anxiety in social situations",
+          "Passionate about climate activism"
+        ],
+        "accuracy": 0.3333333333333333
+      },
+      {
+        "question_id": 36,
+        "question": "What are your passions, and how do they relate to your studies and work?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          20008,
+          7782,
+          20020,
+          20007,
+          20006
+        ],
+        "actual_memory_ids": [
+          20008,
+          20006,
+          20007
+        ],
+        "predicted_texts": [
+          "Passionate about climate activism",
+          "Has university classes.",
+          "Considering switching major to marine biology",
+          "Works a part-time job at a caf\u00e9.",
+          "Studies environmental science"
+        ],
+        "accuracy": 1.0
+      }
+    ]
+  },
+  {
+    "person_id": 5,
+    "questions": [
+      {
+        "question_id": 1,
+        "question": "What is your name?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          30001,
+          30019,
+          1365,
+          30014
+        ],
+        "actual_memory_ids": [
+          30001
+        ],
+        "predicted_texts": [
+          "Name is Lucia",
+          "Father's name is Jima",
+          "Best friend is named Carolina",
+          "Younger sister's name was Jenna"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 2,
+        "question": "How old are you?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          30002
+        ],
+        "actual_memory_ids": [
+          30002
+        ],
+        "predicted_texts": [
+          "Is 28 years old"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 3,
+        "question": "Where do you live?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          30015,
+          1365,
+          30003
+        ],
+        "actual_memory_ids": [
+          30003
+        ],
+        "predicted_texts": [
+          "Mentors young girls from poor neighborhoods",
+          "Best friend is named Carolina",
+          "Considering meeting Carolina in Buenos Aires to reconnect"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 4,
+        "question": "What sport do you play professionally?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          30004,
+          30017,
+          30004,
+          30017,
+          30018,
+          30006,
+          30005,
+          30012,
+          30020
+        ],
+        "actual_memory_ids": [
+          30004
+        ],
+        "predicted_texts": [
+          "Has a career in soccer",
+          "Plays for Argentina's national team",
+          "Considering pursuing a career in sports broadcasting",
+          "Is a midfielder",
+          "Receives support from Simon, the team's physiotherapist"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 5,
+        "question": "What position do you play?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          30005,
+          30004,
+          30017,
+          30004,
+          30017,
+          30008,
+          30012,
+          30020
+        ],
+        "actual_memory_ids": [
+          30005
+        ],
+        "predicted_texts": [
+          "Is a midfielder",
+          "Plays for Argentina's national team",
+          "Has a career in soccer",
+          "Wears the number 10 jersey in memory of sister",
+          "Receives support from Simon, the team's physiotherapist"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 6,
+        "question": "What new role did you start at ESPN?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          30018,
+          30006,
+          30016,
+          30004,
+          30017
+        ],
+        "actual_memory_ids": [
+          30006
+        ],
+        "predicted_texts": [
+          "Considering pursuing a career in sports broadcasting",
+          "Studied communications in university",
+          "Has a career in soccer"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 7,
+        "question": "What happened to your younger sister?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          30007,
+          30014,
+          30007,
+          30008,
+          30015
+        ],
+        "actual_memory_ids": [
+          30007
+        ],
+        "predicted_texts": [
+          "Younger sister Jenna passed away in a car accident three years ago",
+          "Younger sister's name was Jenna",
+          "Has a sister who has passed away",
+          "Wears the number 10 jersey in memory of sister",
+          "Mentors young girls from poor neighborhoods"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 8,
+        "question": "What jersey number do you wear?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          30008,
+          30004,
+          30017,
+          30004,
+          30017,
+          30002
+        ],
+        "actual_memory_ids": [
+          30008
+        ],
+        "predicted_texts": [
+          "Wears the number 10 jersey in memory of sister",
+          "Has a career in soccer",
+          "Plays for Argentina's national team",
+          "Is 28 years old"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 9,
+        "question": "Who was your first soccer coach?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          30004,
+          30017,
+          30009,
+          30008,
+          30012,
+          30020,
+          30004,
+          30017
+        ],
+        "actual_memory_ids": [
+          30009
+        ],
+        "predicted_texts": [
+          "Has a career in soccer",
+          "Father gave calming advice before big games",
+          "Wears the number 10 jersey in memory of sister",
+          "Receives support from Simon, the team's physiotherapist",
+          "Plays for Argentina's national team"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 10,
+        "question": "What health condition does your father have?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          30010,
+          30013,
+          30019,
+          30009,
+          30007
+        ],
+        "actual_memory_ids": [
+          30010
+        ],
+        "predicted_texts": [
+          "Father's health is declining",
+          "Father's name is Jima",
+          "Father gave calming advice before big games",
+          "Has a sister who has passed away"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 11,
+        "question": "Who is jealous of your success?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          30011
+        ],
+        "actual_memory_ids": [
+          30011
+        ],
+        "predicted_texts": [
+          "Worried Carolina might feel jealous of their opportunities"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 12,
+        "question": "Who are you dating?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          1365,
+          30001,
+          30011,
+          30019,
+          30003
+        ],
+        "actual_memory_ids": [
+          30012
+        ],
+        "predicted_texts": [
+          "Best friend is named Carolina",
+          "Name is Lucia",
+          "Carolina has been a bit distant lately",
+          "Father's name is Jima",
+          "Considering meeting Carolina in Buenos Aires to reconnect"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 13,
+        "question": "What do you feel guilty about?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          30011
+        ],
+        "actual_memory_ids": [
+          30013
+        ],
+        "predicted_texts": [
+          "Worried Carolina might feel jealous of their opportunities"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 14,
+        "question": "What is your younger sister's name?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          30014,
+          30007,
+          30007,
+          1365,
+          30008
+        ],
+        "actual_memory_ids": [
+          30014
+        ],
+        "predicted_texts": [
+          "Younger sister's name was Jenna",
+          "Younger sister Jenna passed away in a car accident three years ago",
+          "Has a sister who has passed away",
+          "Best friend is named Carolina",
+          "Wears the number 10 jersey in memory of sister"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 15,
+        "question": "Who do you mentor?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          30015
+        ],
+        "actual_memory_ids": [
+          30015
+        ],
+        "predicted_texts": [
+          "Mentors young girls from poor neighborhoods"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 16,
+        "question": "What did you study in university?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          30016,
+          30018,
+          30006
+        ],
+        "actual_memory_ids": [
+          30016
+        ],
+        "predicted_texts": [
+          "Studied communications in university",
+          "Considering pursuing a career in sports broadcasting"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 17,
+        "question": "How do you feel about your position on the team?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          30012,
+          30020,
+          30005,
+          30011,
+          30004,
+          30017,
+          30008
+        ],
+        "actual_memory_ids": [
+          30017
+        ],
+        "predicted_texts": [
+          "Receives support from Simon, the team's physiotherapist",
+          "Is a midfielder",
+          "Worried Carolina might feel jealous of their opportunities",
+          "Has a career in soccer",
+          "Wears the number 10 jersey in memory of sister"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 18,
+        "question": "What would you do after retiring?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          30018,
+          30006,
+          30004,
+          30017
+        ],
+        "actual_memory_ids": [
+          30018
+        ],
+        "predicted_texts": [
+          "Considering pursuing a career in sports broadcasting",
+          "Has a career in soccer"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 19,
+        "question": "What is your dad's name?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          30019,
+          30010,
+          30013,
+          30009,
+          30014,
+          30001
+        ],
+        "actual_memory_ids": [
+          30019
+        ],
+        "predicted_texts": [
+          "Father's name is Jima",
+          "Father's health is declining",
+          "Father gave calming advice before big games",
+          "Younger sister's name was Jenna",
+          "Name is Lucia"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 20,
+        "question": "What is your boyfriend's name?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          30019,
+          1365,
+          30001,
+          30014
+        ],
+        "actual_memory_ids": [
+          30020
+        ],
+        "predicted_texts": [
+          "Father's name is Jima",
+          "Best friend is named Carolina",
+          "Name is Lucia",
+          "Younger sister's name was Jenna"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 21,
+        "question": "What position do you play for your sport?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          30004,
+          30017,
+          30005,
+          30004,
+          30017,
+          30008,
+          30012,
+          30020
+        ],
+        "actual_memory_ids": [
+          30004,
+          30005
+        ],
+        "predicted_texts": [
+          "Has a career in soccer",
+          "Is a midfielder",
+          "Plays for Argentina's national team",
+          "Wears the number 10 jersey in memory of sister",
+          "Receives support from Simon, the team's physiotherapist"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 22,
+        "question": "What role did you start at ESPN and what is a con with working at ESPN?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          30018,
+          30006,
+          30016,
+          30004,
+          30017
+        ],
+        "actual_memory_ids": [
+          30006,
+          30013
+        ],
+        "predicted_texts": [
+          "Considering pursuing a career in sports broadcasting",
+          "Studied communications in university",
+          "Has a career in soccer"
+        ],
+        "accuracy": 0.5
+      },
+      {
+        "question_id": 23,
+        "question": "What is your father's health condition and what was his role in your soccer career?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          30010,
+          30013,
+          30004,
+          30017,
+          30009,
+          30012,
+          30020,
+          30019
+        ],
+        "actual_memory_ids": [
+          30009,
+          30010
+        ],
+        "predicted_texts": [
+          "Father's health is declining",
+          "Has a career in soccer",
+          "Father gave calming advice before big games",
+          "Receives support from Simon, the team's physiotherapist",
+          "Father's name is Jima"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 24,
+        "question": "What is your jersey number and why do you wear it?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          30008,
+          30004,
+          30017
+        ],
+        "actual_memory_ids": [
+          30008,
+          30007
+        ],
+        "predicted_texts": [
+          "Wears the number 10 jersey in memory of sister",
+          "Has a career in soccer"
+        ],
+        "accuracy": 0.5
+      },
+      {
+        "question_id": 25,
+        "question": "Who is jealous of your success and who are you dating?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          30011,
+          1365,
+          30014
+        ],
+        "actual_memory_ids": [
+          30011,
+          30012
+        ],
+        "predicted_texts": [
+          "Worried Carolina might feel jealous of their opportunities",
+          "Best friend is named Carolina",
+          "Younger sister's name was Jenna"
+        ],
+        "accuracy": 0.5
+      },
+      {
+        "question_id": 26,
+        "question": "What did you study in university and what is your new role at ESPN?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          30016,
+          30018,
+          30006,
+          30004,
+          30017
+        ],
+        "actual_memory_ids": [
+          30016,
+          30006
+        ],
+        "predicted_texts": [
+          "Studied communications in university",
+          "Considering pursuing a career in sports broadcasting",
+          "Has a career in soccer"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 27,
+        "question": "How is your career, how long do you plan to stay and what do you plan to do afterwards?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          30004,
+          30017,
+          30018,
+          30006,
+          30016,
+          30011
+        ],
+        "actual_memory_ids": [
+          30017,
+          30018
+        ],
+        "predicted_texts": [
+          "Has a career in soccer",
+          "Considering pursuing a career in sports broadcasting",
+          "Studied communications in university",
+          "Worried Carolina might feel jealous of their opportunities"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 32,
+        "question": "How did your education and career shape the work you do at ESPN?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          30018,
+          30006,
+          30016,
+          30004,
+          30017,
+          30009
+        ],
+        "actual_memory_ids": [
+          30006,
+          30016,
+          30013
+        ],
+        "predicted_texts": [
+          "Considering pursuing a career in sports broadcasting",
+          "Studied communications in university",
+          "Has a career in soccer",
+          "Father gave calming advice before big games"
+        ],
+        "accuracy": 0.6666666666666666
+      },
+      {
+        "question_id": 33,
+        "question": "What is your father's name, his health condition, and his role in your soccer career?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          30010,
+          30013,
+          30009,
+          30004,
+          30017,
+          30019,
+          30012,
+          30020
+        ],
+        "actual_memory_ids": [
+          30019,
+          30010,
+          30009
+        ],
+        "predicted_texts": [
+          "Father's health is declining",
+          "Father gave calming advice before big games",
+          "Has a career in soccer",
+          "Father's name is Jima",
+          "Receives support from Simon, the team's physiotherapist"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 34,
+        "question": "What does  jersey number, why do you wear it, and what happened to your sister?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          30008,
+          30007,
+          30007,
+          30014,
+          1365
+        ],
+        "actual_memory_ids": [
+          30008,
+          30007,
+          30014
+        ],
+        "predicted_texts": [
+          "Wears the number 10 jersey in memory of sister",
+          "Younger sister Jenna passed away in a car accident three years ago",
+          "Has a sister who has passed away",
+          "Younger sister's name was Jenna",
+          "Best friend is named Carolina"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 36,
+        "question": "Your performance has been getting worse over the years, any thoughts on that and what you would do next?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          30010,
+          30013,
+          30004,
+          30017,
+          30011
+        ],
+        "actual_memory_ids": [
+          30017,
+          30018,
+          30006
+        ],
+        "predicted_texts": [
+          "Father's health is declining",
+          "Has a career in soccer",
+          "Carolina has been a bit distant lately"
+        ],
+        "accuracy": 0.3333333333333333
+      },
+      {
+        "question_id": 37,
+        "question": "Tell me all about your dad?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          30010,
+          30013,
+          30009,
+          30019,
+          30007
+        ],
+        "actual_memory_ids": [
+          30010,
+          30019,
+          30009
+        ],
+        "predicted_texts": [
+          "Father's health is declining",
+          "Father gave calming advice before big games",
+          "Father's name is Jima",
+          "Has a sister who has passed away"
+        ],
+        "accuracy": 1.0
+      }
+    ]
+  },
+  {
+    "person_id": 6,
+    "questions": [
+      {
+        "question_id": 1,
+        "question": "What is your name?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          40023,
+          40007,
+          1813
+        ],
+        "actual_memory_ids": [
+          40001
+        ],
+        "predicted_texts": [
+          "User's mother's name is Rosa",
+          "Wife's name is Sofia",
+          "User's surname is Esposito"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 2,
+        "question": "How old are you?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          40002,
+          40001,
+          40008,
+          7433,
+          40006,
+          40005,
+          40105
+        ],
+        "actual_memory_ids": [
+          40002
+        ],
+        "predicted_texts": [
+          "Is 42 years old",
+          "Sofia is 38 years old",
+          "Sofia is turning 40 next week",
+          "Came to America 15 years ago from Naples",
+          "Moved to Brooklyn seven years ago"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 3,
+        "question": "What is the name of your restaurant?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          5590,
+          40004,
+          40019,
+          43403,
+          20004,
+          40009
+        ],
+        "actual_memory_ids": [
+          40003
+        ],
+        "predicted_texts": [
+          "Runs a restaurant",
+          "Restaurant specializes in Neapolitan cuisine",
+          "Sofia helps manage the restaurant's finances",
+          "Worked as a chef in Chicago",
+          "Plans to dedicate Sunday afternoons to cooking with Luca"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 4,
+        "question": "What type of cuisine does your restaurant specialize in?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          40004,
+          5590,
+          43403,
+          20004,
+          5954,
+          40019
+        ],
+        "actual_memory_ids": [
+          40004
+        ],
+        "predicted_texts": [
+          "Restaurant specializes in Neapolitan cuisine",
+          "Runs a restaurant",
+          "Worked as a chef in Chicago",
+          "Luca is interested in cooking",
+          "Sofia helps manage the restaurant's finances"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 5,
+        "question": "Where did you immigrate from?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          40006,
+          40005,
+          40101,
+          40105,
+          40102,
+          40015
+        ],
+        "actual_memory_ids": [
+          40005
+        ],
+        "predicted_texts": [
+          "Came to America 15 years ago from Naples",
+          "Lived in Boston for two years after arriving in America",
+          "Moved to Brooklyn seven years ago",
+          "Moved to Chicago after living in Boston",
+          "Learned family recipes from grandmother"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 6,
+        "question": "How many years ago did you move to America?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          40006,
+          40005,
+          40101,
+          40105,
+          40102,
+          40002,
+          40001
+        ],
+        "actual_memory_ids": [
+          40006
+        ],
+        "predicted_texts": [
+          "Came to America 15 years ago from Naples",
+          "Lived in Boston for two years after arriving in America",
+          "Moved to Brooklyn seven years ago",
+          "Moved to Chicago after living in Boston",
+          "Is 42 years old"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 7,
+        "question": "Which city did you first live in when you came to America?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          40101,
+          40102,
+          40006,
+          40005,
+          40105,
+          43403,
+          20004
+        ],
+        "actual_memory_ids": [
+          40101
+        ],
+        "predicted_texts": [
+          "Lived in Boston for two years after arriving in America",
+          "Moved to Chicago after living in Boston",
+          "Came to America 15 years ago from Naples",
+          "Moved to Brooklyn seven years ago",
+          "Worked as a chef in Chicago"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 8,
+        "question": "After living in Boston, which city did you move to?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          40102,
+          40101,
+          40105,
+          40006,
+          40005,
+          43403,
+          20004
+        ],
+        "actual_memory_ids": [
+          40102
+        ],
+        "predicted_texts": [
+          "Moved to Chicago after living in Boston",
+          "Lived in Boston for two years after arriving in America",
+          "Moved to Brooklyn seven years ago",
+          "Came to America 15 years ago from Naples",
+          "Worked as a chef in Chicago"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 9,
+        "question": "What was your job in Chicago?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          43403,
+          20004,
+          40102,
+          40101,
+          5590,
+          40105
+        ],
+        "actual_memory_ids": [
+          43403
+        ],
+        "predicted_texts": [
+          "Worked as a chef in Chicago",
+          "Moved to Chicago after living in Boston",
+          "Lived in Boston for two years after arriving in America",
+          "Runs a restaurant",
+          "Moved to Brooklyn seven years ago"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 10,
+        "question": "How many years ago did you move to Brooklyn?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          40105,
+          40102,
+          40101,
+          40006,
+          40005
+        ],
+        "actual_memory_ids": [
+          40105
+        ],
+        "predicted_texts": [
+          "Moved to Brooklyn seven years ago",
+          "Moved to Chicago after living in Boston",
+          "Lived in Boston for two years after arriving in America",
+          "Came to America 15 years ago from Naples"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 11,
+        "question": "What is your wife's name?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          40007,
+          40023,
+          1813,
+          40010,
+          40022
+        ],
+        "actual_memory_ids": [
+          40007
+        ],
+        "predicted_texts": [
+          "Wife's name is Sofia",
+          "User's mother's name is Rosa",
+          "User's surname is Esposito",
+          "Has a 7-year-old son named Luca",
+          "Supports mother financially who lives in Naples"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 12,
+        "question": "How old is Sofia?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          40008,
+          7433,
+          40007,
+          40019,
+          5676
+        ],
+        "actual_memory_ids": [
+          40008
+        ],
+        "predicted_texts": [
+          "Sofia is 38 years old",
+          "Sofia is turning 40 next week",
+          "Wife's name is Sofia",
+          "Sofia helps manage the restaurant's finances",
+          "Sofia is thrilled about the idea of cooking with Luca"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 13,
+        "question": "What is your son's name?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          40010,
+          40007,
+          40023,
+          1813,
+          40009
+        ],
+        "actual_memory_ids": [
+          40009
+        ],
+        "predicted_texts": [
+          "Has a 7-year-old son named Luca",
+          "Wife's name is Sofia",
+          "User's mother's name is Rosa",
+          "User's surname is Esposito",
+          "Plans to dedicate Sunday afternoons to cooking with Luca"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 14,
+        "question": "How old is Luca?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          40010,
+          5954,
+          5676,
+          40009,
+          40002,
+          40001
+        ],
+        "actual_memory_ids": [
+          40010
+        ],
+        "predicted_texts": [
+          "Has a 7-year-old son named Luca",
+          "Luca is interested in cooking",
+          "Sofia is thrilled about the idea of cooking with Luca",
+          "Plans to dedicate Sunday afternoons to cooking with Luca",
+          "Is 42 years old"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 15,
+        "question": "Outside of your family who is your friend?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          40014,
+          40007,
+          40022,
+          40023
+        ],
+        "actual_memory_ids": [
+          40014
+        ],
+        "predicted_texts": [
+          "Has a close friend named Antonio from Naples",
+          "Wife's name is Sofia",
+          "Supports mother financially who lives in Naples",
+          "User's mother's name is Rosa"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 16,
+        "question": "From whom did you learn cooking?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          40015,
+          7980,
+          5954,
+          2464,
+          40009
+        ],
+        "actual_memory_ids": [
+          40015
+        ],
+        "predicted_texts": [
+          "Learned family recipes from grandmother",
+          "Mother's homemade pasta is a family recipe",
+          "Luca is interested in cooking",
+          "Plans to include his mother Rosa in cooking sessions via video call from Italy",
+          "Plans to dedicate Sunday afternoons to cooking with Luca"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 17,
+        "question": "What role does your wife have in the restaurant?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          5590,
+          40019,
+          40007,
+          43403,
+          20004,
+          40004
+        ],
+        "actual_memory_ids": [
+          40019
+        ],
+        "predicted_texts": [
+          "Runs a restaurant",
+          "Sofia helps manage the restaurant's finances",
+          "Wife's name is Sofia",
+          "Worked as a chef in Chicago",
+          "Restaurant specializes in Neapolitan cuisine"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 18,
+        "question": "How old is your wife?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          40002,
+          40001,
+          40007,
+          40008,
+          7433,
+          40010
+        ],
+        "actual_memory_ids": [
+          40020
+        ],
+        "predicted_texts": [
+          "Is 42 years old",
+          "Wife's name is Sofia",
+          "Sofia is 38 years old",
+          "Sofia is turning 40 next week",
+          "Has a 7-year-old son named Luca"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 19,
+        "question": "What do you do to help your mother?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          40022,
+          2464,
+          40023,
+          40015,
+          7980
+        ],
+        "actual_memory_ids": [
+          40022
+        ],
+        "predicted_texts": [
+          "Supports mother financially who lives in Naples",
+          "Plans to include his mother Rosa in cooking sessions via video call from Italy",
+          "User's mother's name is Rosa",
+          "Learned family recipes from grandmother",
+          "Mother's homemade pasta is a family recipe"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 20,
+        "question": "What is your mother's name?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          40023,
+          7980,
+          2464,
+          40007,
+          40022
+        ],
+        "actual_memory_ids": [
+          40023
+        ],
+        "predicted_texts": [
+          "User's mother's name is Rosa",
+          "Mother's homemade pasta is a family recipe",
+          "Plans to include his mother Rosa in cooking sessions via video call from Italy",
+          "Wife's name is Sofia",
+          "Supports mother financially who lives in Naples"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 21,
+        "question": "What is the age difference between you and your wife?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          40007,
+          40002,
+          40001,
+          40008,
+          40010,
+          7433
+        ],
+        "actual_memory_ids": [
+          40002,
+          40020
+        ],
+        "predicted_texts": [
+          "Wife's name is Sofia",
+          "Is 42 years old",
+          "Sofia is 38 years old",
+          "Has a 7-year-old son named Luca",
+          "Sofia is turning 40 next week"
+        ],
+        "accuracy": 0.5
+      },
+      {
+        "question_id": 22,
+        "question": "Which cities have you lived in since moving to America?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          40101,
+          40102,
+          40105,
+          40006,
+          40005,
+          43403,
+          20004
+        ],
+        "actual_memory_ids": [
+          40101,
+          40102,
+          40105
+        ],
+        "predicted_texts": [
+          "Lived in Boston for two years after arriving in America",
+          "Moved to Chicago after living in Boston",
+          "Moved to Brooklyn seven years ago",
+          "Came to America 15 years ago from Naples",
+          "Worked as a chef in Chicago"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 23,
+        "question": "Who in your family helps manage the restaurant, and what is their relation to you?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          5590,
+          40019,
+          40015,
+          7980,
+          2464
+        ],
+        "actual_memory_ids": [
+          40007,
+          40019
+        ],
+        "predicted_texts": [
+          "Runs a restaurant",
+          "Sofia helps manage the restaurant's finances",
+          "Learned family recipes from grandmother",
+          "Mother's homemade pasta is a family recipe",
+          "Plans to include his mother Rosa in cooking sessions via video call from Italy"
+        ],
+        "accuracy": 0.5
+      },
+      {
+        "question_id": 24,
+        "question": "What is the name and cuisine of your restaurant?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          40004,
+          5590,
+          43403,
+          20004,
+          5954,
+          40009
+        ],
+        "actual_memory_ids": [
+          40003,
+          40004
+        ],
+        "predicted_texts": [
+          "Restaurant specializes in Neapolitan cuisine",
+          "Runs a restaurant",
+          "Worked as a chef in Chicago",
+          "Luca is interested in cooking",
+          "Plans to dedicate Sunday afternoons to cooking with Luca"
+        ],
+        "accuracy": 0.5
+      },
+      {
+        "question_id": 25,
+        "question": "How long have you lived in Chicago?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          40102,
+          43403,
+          20004,
+          40105,
+          40101,
+          40006,
+          40005
+        ],
+        "actual_memory_ids": [
+          40101,
+          40006,
+          40102,
+          40105
+        ],
+        "predicted_texts": [
+          "Moved to Chicago after living in Boston",
+          "Worked as a chef in Chicago",
+          "Moved to Brooklyn seven years ago",
+          "Lived in Boston for two years after arriving in America",
+          "Came to America 15 years ago from Naples"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 26,
+        "question": "What are all of the places you've worked?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          43403,
+          20004,
+          40102,
+          40101,
+          5590
+        ],
+        "actual_memory_ids": [
+          43403,
+          40003
+        ],
+        "predicted_texts": [
+          "Worked as a chef in Chicago",
+          "Moved to Chicago after living in Boston",
+          "Lived in Boston for two years after arriving in America",
+          "Runs a restaurant"
+        ],
+        "accuracy": 0.5
+      },
+      {
+        "question_id": 27,
+        "question": "What is your son's name, and how old is he?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          40010,
+          40007,
+          40002,
+          40001,
+          40023
+        ],
+        "actual_memory_ids": [
+          40009,
+          40010
+        ],
+        "predicted_texts": [
+          "Has a 7-year-old son named Luca",
+          "Wife's name is Sofia",
+          "Is 42 years old",
+          "User's mother's name is Rosa"
+        ],
+        "accuracy": 0.5
+      },
+      {
+        "question_id": 28,
+        "question": "Around how long ago did you learn how to cook?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          40015,
+          5954,
+          43403,
+          20004,
+          40009,
+          5676
+        ],
+        "actual_memory_ids": [
+          40015,
+          40002
+        ],
+        "predicted_texts": [
+          "Learned family recipes from grandmother",
+          "Luca is interested in cooking",
+          "Worked as a chef in Chicago",
+          "Plans to dedicate Sunday afternoons to cooking with Luca",
+          "Sofia is thrilled about the idea of cooking with Luca"
+        ],
+        "accuracy": 0.5
+      },
+      {
+        "question_id": 29,
+        "question": "Does your mom live in the same city you grew up in?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          40022,
+          40102,
+          40105,
+          2464,
+          40023
+        ],
+        "actual_memory_ids": [
+          40005,
+          40022
+        ],
+        "predicted_texts": [
+          "Supports mother financially who lives in Naples",
+          "Moved to Chicago after living in Boston",
+          "Moved to Brooklyn seven years ago",
+          "Plans to include his mother Rosa in cooking sessions via video call from Italy",
+          "User's mother's name is Rosa"
+        ],
+        "accuracy": 0.5
+      },
+      {
+        "question_id": 30,
+        "question": "Where are all of the places you've lived in America?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          40101,
+          40102,
+          40006,
+          40005,
+          40105,
+          43403,
+          20004
+        ],
+        "actual_memory_ids": [
+          40006,
+          40101,
+          40102,
+          40105
+        ],
+        "predicted_texts": [
+          "Lived in Boston for two years after arriving in America",
+          "Moved to Chicago after living in Boston",
+          "Came to America 15 years ago from Naples",
+          "Moved to Brooklyn seven years ago",
+          "Worked as a chef in Chicago"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 32,
+        "question": "What are the influences on your cooking style?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          40015,
+          5954,
+          43403,
+          20004,
+          40009,
+          7980
+        ],
+        "actual_memory_ids": [
+          40015,
+          40005,
+          40004,
+          43403
+        ],
+        "predicted_texts": [
+          "Learned family recipes from grandmother",
+          "Luca is interested in cooking",
+          "Worked as a chef in Chicago",
+          "Plans to dedicate Sunday afternoons to cooking with Luca",
+          "Mother's homemade pasta is a family recipe"
+        ],
+        "accuracy": 0.5
+      },
+      {
+        "question_id": 33,
+        "question": "How old were you and your wife when you had your first child?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          40007,
+          40010,
+          40002,
+          40001,
+          40008
+        ],
+        "actual_memory_ids": [
+          40002,
+          40010,
+          40008
+        ],
+        "predicted_texts": [
+          "Wife's name is Sofia",
+          "Has a 7-year-old son named Luca",
+          "Is 42 years old",
+          "Sofia is 38 years old"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 36,
+        "question": "Make an encanto style rap about all of the people in your blood-related family and their age and lives",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          40023,
+          2464,
+          40015,
+          40008,
+          40007
+        ],
+        "actual_memory_ids": [
+          40009,
+          40010,
+          40019,
+          40008,
+          40020,
+          40001,
+          40002,
+          40022,
+          40023
+        ],
+        "predicted_texts": [
+          "User's mother's name is Rosa",
+          "Plans to include his mother Rosa in cooking sessions via video call from Italy",
+          "Learned family recipes from grandmother",
+          "Sofia is 38 years old",
+          "Wife's name is Sofia"
+        ],
+        "accuracy": 0.2222222222222222
+      }
+    ]
+  },
+  {
+    "person_id": 7,
+    "questions": [
+      {
+        "question_id": 1,
+        "question": "What is your name?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          50001,
+          50011,
+          50012
+        ],
+        "actual_memory_ids": [
+          50001
+        ],
+        "predicted_texts": [
+          "Name is Oyo",
+          "Has a boyfriend named James"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 2,
+        "question": "How old are you?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          50002
+        ],
+        "actual_memory_ids": [
+          50002
+        ],
+        "predicted_texts": [
+          "Is 31 years old"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 3,
+        "question": "Where do you live?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          50003
+        ],
+        "actual_memory_ids": [
+          50003
+        ],
+        "predicted_texts": [
+          "Lives in Calgary, Alberta"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 4,
+        "question": "What is your profession?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          50014,
+          50003
+        ],
+        "actual_memory_ids": [
+          50004
+        ],
+        "predicted_texts": [
+          "Graduated from the University of Calgary",
+          "Lives in Calgary, Alberta"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 5,
+        "question": "What is your area of specialization in your profession?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          50014
+        ],
+        "actual_memory_ids": [
+          50005
+        ],
+        "predicted_texts": [
+          "Graduated from the University of Calgary"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 6,
+        "question": "What is the name of your ex-husband?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          50007,
+          50008,
+          50015,
+          50008,
+          50016,
+          50011,
+          50012,
+          50023,
+          50015,
+          50008,
+          50016
+        ],
+        "actual_memory_ids": [
+          50007
+        ],
+        "predicted_texts": [
+          "Has an ex-husband named Mike.",
+          "Rachel had an affair with the user's ex-husband, Mike.",
+          "Current boyfriend James is grounded, supportive, and 6'5\" tall",
+          "Had a high school sweetheart named Peter",
+          "Had a fallout with someone named Rachel"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 7,
+        "question": "What did Mike do that affected your relationship with him?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          50020,
+          50018,
+          50015,
+          50008,
+          50016,
+          50007,
+          50008,
+          50015,
+          50008,
+          50016,
+          50010,
+          50009
+        ],
+        "actual_memory_ids": [
+          50008
+        ],
+        "predicted_texts": [
+          "Dated Kyle before meeting Mike.",
+          "Rachel had an affair with the user's ex-husband, Mike.",
+          "Has an ex-husband named Mike.",
+          "Had a fallout with someone named Rachel",
+          "Started dating Tom after the events with Mike and Rachel."
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 8,
+        "question": "What is the name of one of your exes?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          50007,
+          50008,
+          50023,
+          50015,
+          50008,
+          50016,
+          50011,
+          50012,
+          50020,
+          50018
+        ],
+        "actual_memory_ids": [
+          50009
+        ],
+        "predicted_texts": [
+          "Has an ex-husband named Mike.",
+          "Had a high school sweetheart named Peter",
+          "Had a fallout with someone named Rachel",
+          "Has a boyfriend named James",
+          "Dated Kyle before meeting Mike."
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 9,
+        "question": "Who did you start dating after breaking up with Mike?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          50010,
+          50009,
+          50020,
+          50018,
+          50007,
+          50008,
+          50015,
+          50008,
+          50016,
+          50023
+        ],
+        "actual_memory_ids": [
+          50010
+        ],
+        "predicted_texts": [
+          "Started dating Tom after the events with Mike and Rachel.",
+          "Dated Kyle before meeting Mike.",
+          "Has an ex-husband named Mike.",
+          "Rachel had an affair with the user's ex-husband, Mike.",
+          "Had a high school sweetheart named Peter"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 10,
+        "question": "What is the name of your current boyfriend?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          50011,
+          50012,
+          50011,
+          50012,
+          50023,
+          50007,
+          50008,
+          50010,
+          50009
+        ],
+        "actual_memory_ids": [
+          50011
+        ],
+        "predicted_texts": [
+          "Current boyfriend James is grounded, supportive, and 6'5\" tall",
+          "Has a boyfriend named James",
+          "Had a high school sweetheart named Peter",
+          "Has an ex-husband named Mike.",
+          "Started dating Tom after the events with Mike and Rachel."
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 11,
+        "question": "How tall is James?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          50011,
+          50012,
+          50011,
+          50012,
+          50002
+        ],
+        "actual_memory_ids": [
+          50012
+        ],
+        "predicted_texts": [
+          "Current boyfriend James is grounded, supportive, and 6'5\" tall",
+          "Has a boyfriend named James",
+          "Is 31 years old"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 12,
+        "question": "How many horses do you have?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          50013,
+          50017,
+          50004,
+          50005
+        ],
+        "actual_memory_ids": [
+          50013
+        ],
+        "predicted_texts": [
+          "Has three horses",
+          "Is the only large animal vet within 100 miles of Calgary, Alberta"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 13,
+        "question": "From which university did you graduate?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          50014
+        ],
+        "actual_memory_ids": [
+          50014
+        ],
+        "predicted_texts": [
+          "Graduated from the University of Calgary"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 14,
+        "question": "What is the name of your former best friend?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          50015,
+          50008,
+          50016,
+          50023,
+          50007,
+          50008,
+          50020,
+          50018,
+          50015,
+          50008,
+          50016
+        ],
+        "actual_memory_ids": [
+          50015
+        ],
+        "predicted_texts": [
+          "Had a fallout with someone named Rachel",
+          "Had a high school sweetheart named Peter",
+          "Has an ex-husband named Mike.",
+          "Dated Kyle before meeting Mike.",
+          "Rachel had an affair with the user's ex-husband, Mike."
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 15,
+        "question": "What does Rachel do for a living?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          50015,
+          50008,
+          50016,
+          50015,
+          50008,
+          50016,
+          50010,
+          50009,
+          50003,
+          50011,
+          50012
+        ],
+        "actual_memory_ids": [
+          50016
+        ],
+        "predicted_texts": [
+          "Had a fallout with someone named Rachel",
+          "Rachel had an affair with the user's ex-husband, Mike.",
+          "Started dating Tom after the events with Mike and Rachel.",
+          "Lives in Calgary, Alberta",
+          "Has a boyfriend named James"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 16,
+        "question": "How far is the nearest large animal vet from you?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          50017,
+          50004,
+          50005,
+          50013
+        ],
+        "actual_memory_ids": [
+          50017
+        ],
+        "predicted_texts": [
+          "Is the only large animal vet within 100 miles of Calgary, Alberta",
+          "Has three horses"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 17,
+        "question": "What is the name of another ex of yours?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          50007,
+          50008,
+          50023,
+          50015,
+          50008,
+          50016,
+          50011,
+          50012,
+          50020,
+          50018
+        ],
+        "actual_memory_ids": [
+          50018
+        ],
+        "predicted_texts": [
+          "Has an ex-husband named Mike.",
+          "Had a high school sweetheart named Peter",
+          "Had a fallout with someone named Rachel",
+          "Has a boyfriend named James",
+          "Dated Kyle before meeting Mike."
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 18,
+        "question": "Where did Kyle move to?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          50019,
+          50020,
+          50018,
+          50003,
+          50014,
+          50010,
+          50009
+        ],
+        "actual_memory_ids": [
+          50019
+        ],
+        "predicted_texts": [
+          "Kyle moved to Texas for the rodeo circuit.",
+          "Dated Kyle before meeting Mike.",
+          "Lives in Calgary, Alberta",
+          "Graduated from the University of Calgary",
+          "Started dating Tom after the events with Mike and Rachel."
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 19,
+        "question": "Who did you date before meeting Mike?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          50020,
+          50018,
+          50007,
+          50008,
+          50010,
+          50009,
+          50015,
+          50008,
+          50016,
+          50023
+        ],
+        "actual_memory_ids": [
+          50020
+        ],
+        "predicted_texts": [
+          "Dated Kyle before meeting Mike.",
+          "Has an ex-husband named Mike.",
+          "Started dating Tom after the events with Mike and Rachel.",
+          "Rachel had an affair with the user's ex-husband, Mike.",
+          "Had a high school sweetheart named Peter"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 20,
+        "question": "What is the name of your high school sweetheart?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          50023,
+          50007,
+          50008,
+          50011,
+          50012,
+          50020,
+          50018,
+          50011,
+          50012
+        ],
+        "actual_memory_ids": [
+          50023
+        ],
+        "predicted_texts": [
+          "Had a high school sweetheart named Peter",
+          "Has an ex-husband named Mike.",
+          "Has a boyfriend named James",
+          "Dated Kyle before meeting Mike.",
+          "Current boyfriend James is grounded, supportive, and 6'5\" tall"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 21,
+        "question": "Do you have any children?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          50024,
+          50023,
+          50007,
+          50008,
+          50013,
+          50011,
+          50012
+        ],
+        "actual_memory_ids": [
+          50024
+        ],
+        "predicted_texts": [
+          "Does not have any kids",
+          "Had a high school sweetheart named Peter",
+          "Has an ex-husband named Mike.",
+          "Has three horses",
+          "Has a boyfriend named James"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 22,
+        "question": "How far is the city you live in now from where you went to university?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          50014,
+          50003,
+          50017,
+          50004,
+          50005,
+          50019
+        ],
+        "actual_memory_ids": [
+          50003,
+          50014
+        ],
+        "predicted_texts": [
+          "Graduated from the University of Calgary",
+          "Lives in Calgary, Alberta",
+          "Is the only large animal vet within 100 miles of Calgary, Alberta",
+          "Kyle moved to Texas for the rodeo circuit."
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 23,
+        "question": "Why are you no longer friends with Rachel?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          50015,
+          50008,
+          50016,
+          50015,
+          50008,
+          50016,
+          50010,
+          50009,
+          50020,
+          50018,
+          50023
+        ],
+        "actual_memory_ids": [
+          50008,
+          50015,
+          50007
+        ],
+        "predicted_texts": [
+          "Had a fallout with someone named Rachel",
+          "Rachel had an affair with the user's ex-husband, Mike.",
+          "Started dating Tom after the events with Mike and Rachel.",
+          "Dated Kyle before meeting Mike.",
+          "Had a high school sweetheart named Peter"
+        ],
+        "accuracy": 0.6666666666666666
+      },
+      {
+        "question_id": 26,
+        "question": "Did any of your exs move cities after you?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          50007,
+          50008,
+          50015,
+          50008,
+          50016,
+          50019,
+          50023,
+          50010,
+          50009
+        ],
+        "actual_memory_ids": [
+          50018,
+          50019
+        ],
+        "predicted_texts": [
+          "Has an ex-husband named Mike.",
+          "Had a fallout with someone named Rachel",
+          "Kyle moved to Texas for the rodeo circuit.",
+          "Had a high school sweetheart named Peter",
+          "Started dating Tom after the events with Mike and Rachel."
+        ],
+        "accuracy": 0.5
+      },
+      {
+        "question_id": 27,
+        "question": "Who do you know that runs their own business?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          50003,
+          50014
+        ],
+        "actual_memory_ids": [
+          50016,
+          50015
+        ],
+        "predicted_texts": [
+          "Lives in Calgary, Alberta",
+          "Graduated from the University of Calgary"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 28,
+        "question": "If your pets get sick who do you know that can help them?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          50017,
+          50004,
+          50005
+        ],
+        "actual_memory_ids": [
+          50004,
+          50005,
+          50013
+        ],
+        "predicted_texts": [
+          "Is the only large animal vet within 100 miles of Calgary, Alberta"
+        ],
+        "accuracy": 0.6666666666666666
+      },
+      {
+        "question_id": 30,
+        "question": "Do you like tall guys?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          50011,
+          50012,
+          8243
+        ],
+        "actual_memory_ids": [
+          50011,
+          50012
+        ],
+        "predicted_texts": [
+          "Current boyfriend James is grounded, supportive, and 6'5\" tall",
+          "Is attracted to adventure and unpredictability in relationships"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 31,
+        "question": "In order, name every single person you have dated?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          50023,
+          50020,
+          50018,
+          50011,
+          50012,
+          50010,
+          50009,
+          50011,
+          50012
+        ],
+        "actual_memory_ids": [
+          50023,
+          50018,
+          50011,
+          50009,
+          50007
+        ],
+        "predicted_texts": [
+          "Had a high school sweetheart named Peter",
+          "Dated Kyle before meeting Mike.",
+          "Has a boyfriend named James",
+          "Started dating Tom after the events with Mike and Rachel.",
+          "Current boyfriend James is grounded, supportive, and 6'5\" tall"
+        ],
+        "accuracy": 0.8
+      },
+      {
+        "question_id": 32,
+        "question": "Around how long have you been in Calgary?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          50003,
+          50014,
+          7365,
+          50017,
+          50004,
+          50005,
+          50019
+        ],
+        "actual_memory_ids": [
+          50003,
+          50014,
+          50004
+        ],
+        "predicted_texts": [
+          "Lives in Calgary, Alberta",
+          "Graduated from the University of Calgary",
+          "Loves painting and enjoys capturing landscapes around Calgary",
+          "Is the only large animal vet within 100 miles of Calgary, Alberta",
+          "Kyle moved to Texas for the rodeo circuit."
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 33,
+        "question": "Who did you date before you got married?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          50020,
+          50018,
+          50023,
+          50007,
+          50008,
+          50010,
+          50009,
+          50011,
+          50012
+        ],
+        "actual_memory_ids": [
+          50020,
+          50007,
+          50023,
+          50010,
+          50011
+        ],
+        "predicted_texts": [
+          "Dated Kyle before meeting Mike.",
+          "Had a high school sweetheart named Peter",
+          "Has an ex-husband named Mike.",
+          "Started dating Tom after the events with Mike and Rachel.",
+          "Current boyfriend James is grounded, supportive, and 6'5\" tall"
+        ],
+        "accuracy": 1.0
+      }
+    ]
+  },
+  {
+    "person_id": 8,
+    "questions": [
+      {
+        "question_id": 1,
+        "question": "What is your name?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          60013,
+          60014,
+          60011,
+          60008,
+          60015
+        ],
+        "actual_memory_ids": [
+          60001
+        ],
+        "predicted_texts": [
+          "User's mother is named Isabella",
+          "User's father is named Carlos",
+          "Son's name is Pedro",
+          "Jo\u00e3o is a friend of the user"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 2,
+        "question": "How old are you?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          60002,
+          60009,
+          60005
+        ],
+        "actual_memory_ids": [
+          60002
+        ],
+        "predicted_texts": [
+          "Is 45 years old",
+          "Pedro is 15 years old",
+          "User came out six months ago"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 3,
+        "question": "Where do you live?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          60003
+        ],
+        "actual_memory_ids": [
+          60003
+        ],
+        "predicted_texts": [
+          "Lives in S\u00e3o Paulo"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 4,
+        "question": "What is your profession?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          60002,
+          60022,
+          60004,
+          60020
+        ],
+        "actual_memory_ids": [
+          60004
+        ],
+        "predicted_texts": [
+          "Is 45 years old",
+          "Seeing a therapist named Dr. Santos",
+          "Is a partner at Silva & Martinez Law"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 5,
+        "question": "When did you come out as gay?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          60005,
+          60010,
+          60021,
+          60012
+        ],
+        "actual_memory_ids": [
+          60005
+        ],
+        "predicted_texts": [
+          "User came out six months ago",
+          "Pedro has been struggling to accept user's coming out",
+          "User is anxious about potentially losing clients if they find out about their sexuality.",
+          "Carlos hasn't spoken to user since they came out"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 6,
+        "question": "What is the name of your ex-wife?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          60013,
+          60014,
+          60008,
+          60022,
+          60007,
+          60006
+        ],
+        "actual_memory_ids": [
+          60006
+        ],
+        "predicted_texts": [
+          "User's mother is named Isabella",
+          "Son's name is Pedro",
+          "Seeing a therapist named Dr. Santos",
+          "Is on good terms with Maria"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 7,
+        "question": "How is your relationship with Maria?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          60007,
+          60006,
+          60007,
+          60006,
+          60008,
+          60013,
+          60014,
+          60011
+        ],
+        "actual_memory_ids": [
+          60007
+        ],
+        "predicted_texts": [
+          "Is on good terms with Maria",
+          "Maria is very supportive",
+          "Is nervous about talking to Pedro",
+          "User's mother is named Isabella",
+          "User's father is named Carlos"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 8,
+        "question": "What is your son's name?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          60008,
+          60011,
+          60013,
+          60014,
+          60009,
+          60015
+        ],
+        "actual_memory_ids": [
+          60008
+        ],
+        "predicted_texts": [
+          "Son's name is Pedro",
+          "User's father is named Carlos",
+          "User's mother is named Isabella",
+          "Pedro is 15 years old",
+          "Jo\u00e3o is a friend of the user"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 9,
+        "question": "How old is Pedro?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          60009,
+          60008,
+          60008,
+          60010,
+          60010
+        ],
+        "actual_memory_ids": [
+          60009
+        ],
+        "predicted_texts": [
+          "Pedro is 15 years old",
+          "Son's name is Pedro",
+          "Is nervous about talking to Pedro",
+          "Pedro has been struggling to accept user's coming out",
+          "Feels the longer they wait, the more distant they become from Pedro"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 10,
+        "question": "How does Pedro feel about your sexuality?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          60010,
+          60008,
+          60009,
+          60008,
+          60010
+        ],
+        "actual_memory_ids": [
+          60010
+        ],
+        "predicted_texts": [
+          "Pedro has been struggling to accept user's coming out",
+          "Is nervous about talking to Pedro",
+          "Pedro is 15 years old",
+          "Son's name is Pedro",
+          "Feels the longer they wait, the more distant they become from Pedro"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 11,
+        "question": "What is your father's name?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          60011,
+          60008,
+          60013,
+          60014
+        ],
+        "actual_memory_ids": [
+          60011
+        ],
+        "predicted_texts": [
+          "User's father is named Carlos",
+          "Son's name is Pedro",
+          "User's mother is named Isabella"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 12,
+        "question": "How has your father reacted since you came out?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          60010,
+          60005,
+          60012,
+          60011,
+          60021
+        ],
+        "actual_memory_ids": [
+          60012
+        ],
+        "predicted_texts": [
+          "Pedro has been struggling to accept user's coming out",
+          "User came out six months ago",
+          "Carlos hasn't spoken to user since they came out",
+          "User's father is named Carlos",
+          "User is anxious about potentially losing clients if they find out about their sexuality."
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 13,
+        "question": "What is your mother's name?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          60013,
+          60014,
+          60011,
+          60007,
+          60006,
+          60008
+        ],
+        "actual_memory_ids": [
+          60013
+        ],
+        "predicted_texts": [
+          "User's mother is named Isabella",
+          "User's father is named Carlos",
+          "Maria is very supportive",
+          "Son's name is Pedro"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 14,
+        "question": "How has Isabella reacted to your coming out?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          60013,
+          60014,
+          60010,
+          60005,
+          60007,
+          60006,
+          60012
+        ],
+        "actual_memory_ids": [
+          60014
+        ],
+        "predicted_texts": [
+          "User's mother is named Isabella",
+          "Pedro has been struggling to accept user's coming out",
+          "User came out six months ago",
+          "Maria is very supportive",
+          "Carlos hasn't spoken to user since they came out"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 15,
+        "question": "Who is your best friend?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          60015,
+          60007,
+          60006,
+          60007,
+          60006,
+          60013,
+          60014
+        ],
+        "actual_memory_ids": [
+          60015
+        ],
+        "predicted_texts": [
+          "Jo\u00e3o is a friend of the user",
+          "Is on good terms with Maria",
+          "Maria is very supportive",
+          "User's mother is named Isabella"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 16,
+        "question": "How did Jo\u00e3o help you?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          60016,
+          60015,
+          60007,
+          60006,
+          60003,
+          60011
+        ],
+        "actual_memory_ids": [
+          60016
+        ],
+        "predicted_texts": [
+          "Jo\u00e3o has been a great help to the user",
+          "Jo\u00e3o is a friend of the user",
+          "Maria is very supportive",
+          "Lives in S\u00e3o Paulo",
+          "User's father is named Carlos"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 17,
+        "question": "What is your area of specialization in law?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          60004,
+          60020
+        ],
+        "actual_memory_ids": [
+          60020
+        ],
+        "predicted_texts": [
+          "Is a partner at Silva & Martinez Law"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 18,
+        "question": "What are you afraid of losing due to your sexuality?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          60021,
+          60010,
+          60005,
+          60024
+        ],
+        "actual_memory_ids": [
+          60021
+        ],
+        "predicted_texts": [
+          "User is anxious about potentially losing clients if they find out about their sexuality.",
+          "Pedro has been struggling to accept user's coming out",
+          "User came out six months ago",
+          "Having panic attacks before important court dates"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 19,
+        "question": "Who is your therapist?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          60022,
+          60024,
+          60021,
+          60007,
+          60006,
+          60004,
+          60020
+        ],
+        "actual_memory_ids": [
+          60022
+        ],
+        "predicted_texts": [
+          "Seeing a therapist named Dr. Santos",
+          "Having panic attacks before important court dates",
+          "User is anxious about potentially losing clients if they find out about their sexuality.",
+          "Maria is very supportive",
+          "Is a partner at Silva & Martinez Law"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 20,
+        "question": "How do court dates affect your mental health?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          60024,
+          60022
+        ],
+        "actual_memory_ids": [
+          60024
+        ],
+        "predicted_texts": [
+          "Having panic attacks before important court dates",
+          "Seeing a therapist named Dr. Santos"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 21,
+        "question": "How has your coming out affected your relationship with your parents?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          60010,
+          60005,
+          60021,
+          60012
+        ],
+        "actual_memory_ids": [
+          60012,
+          60014,
+          60011,
+          60013,
+          60016,
+          60015
+        ],
+        "predicted_texts": [
+          "Pedro has been struggling to accept user's coming out",
+          "User came out six months ago",
+          "User is anxious about potentially losing clients if they find out about their sexuality.",
+          "Carlos hasn't spoken to user since they came out"
+        ],
+        "accuracy": 0.16666666666666666
+      },
+      {
+        "question_id": 23,
+        "question": "What are some challenges you face at work?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          60021
+        ],
+        "actual_memory_ids": [
+          60021,
+          60024,
+          60004,
+          60020
+        ],
+        "predicted_texts": [
+          "User is anxious about potentially losing clients if they find out about their sexuality."
+        ],
+        "accuracy": 0.25
+      },
+      {
+        "question_id": 24,
+        "question": "How has your relationship with your dad changed since you came out?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          60010,
+          60005,
+          60012,
+          60011,
+          60021
+        ],
+        "actual_memory_ids": [
+          60011,
+          60012
+        ],
+        "predicted_texts": [
+          "Pedro has been struggling to accept user's coming out",
+          "User came out six months ago",
+          "Carlos hasn't spoken to user since they came out",
+          "User's father is named Carlos",
+          "User is anxious about potentially losing clients if they find out about their sexuality."
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 25,
+        "question": "How has your relationship with your mom changed since you came out?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          60005,
+          60010,
+          60013,
+          60014,
+          60007,
+          60006,
+          60012
+        ],
+        "actual_memory_ids": [
+          60013,
+          60014
+        ],
+        "predicted_texts": [
+          "User came out six months ago",
+          "Pedro has been struggling to accept user's coming out",
+          "User's mother is named Isabella",
+          "Maria is very supportive",
+          "Carlos hasn't spoken to user since they came out"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 26,
+        "question": "How has your relationship with your son changed since you came out?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          60010,
+          60005,
+          60008,
+          60021,
+          60012
+        ],
+        "actual_memory_ids": [
+          60008,
+          60009,
+          60010
+        ],
+        "predicted_texts": [
+          "Pedro has been struggling to accept user's coming out",
+          "User came out six months ago",
+          "Son's name is Pedro",
+          "User is anxious about potentially losing clients if they find out about their sexuality.",
+          "Carlos hasn't spoken to user since they came out"
+        ],
+        "accuracy": 0.6666666666666666
+      },
+      {
+        "question_id": 27,
+        "question": "How long has it been since you've talked to your dad?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          60012,
+          60008,
+          60010,
+          60011
+        ],
+        "actual_memory_ids": [
+          60005,
+          60011,
+          60012
+        ],
+        "predicted_texts": [
+          "Carlos hasn't spoken to user since they came out",
+          "Is nervous about talking to Pedro",
+          "Feels the longer they wait, the more distant they become from Pedro",
+          "User's father is named Carlos"
+        ],
+        "accuracy": 0.6666666666666666
+      },
+      {
+        "question_id": 28,
+        "question": "What mental health issues do you face and how do you deal with them?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          60024,
+          60022
+        ],
+        "actual_memory_ids": [
+          60022,
+          60024
+        ],
+        "predicted_texts": [
+          "Having panic attacks before important court dates",
+          "Seeing a therapist named Dr. Santos"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 29,
+        "question": "Who in your family has reacted positively to your coming out?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          60005,
+          60010,
+          60007,
+          60006,
+          60021,
+          60013,
+          60014
+        ],
+        "actual_memory_ids": [
+          60013,
+          60014
+        ],
+        "predicted_texts": [
+          "User came out six months ago",
+          "Pedro has been struggling to accept user's coming out",
+          "Maria is very supportive",
+          "User is anxious about potentially losing clients if they find out about their sexuality.",
+          "User's mother is named Isabella"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 30,
+        "question": "How do your fears about your career and your relationship with Pedro intersect?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          60008,
+          60010,
+          60010,
+          60021,
+          60008
+        ],
+        "actual_memory_ids": [
+          60010,
+          60021
+        ],
+        "predicted_texts": [
+          "Is nervous about talking to Pedro",
+          "Feels the longer they wait, the more distant they become from Pedro",
+          "Pedro has been struggling to accept user's coming out",
+          "User is anxious about potentially losing clients if they find out about their sexuality.",
+          "Son's name is Pedro"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 31,
+        "question": "When did your friend help you through coming out?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          60005,
+          60010,
+          60007,
+          60006,
+          60021,
+          60012
+        ],
+        "actual_memory_ids": [
+          60005,
+          60015,
+          60016
+        ],
+        "predicted_texts": [
+          "User came out six months ago",
+          "Pedro has been struggling to accept user's coming out",
+          "Maria is very supportive",
+          "User is anxious about potentially losing clients if they find out about their sexuality.",
+          "Carlos hasn't spoken to user since they came out"
+        ],
+        "accuracy": 0.3333333333333333
+      },
+      {
+        "question_id": 32,
+        "question": "Is your son closer to his mom or his dad?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          60008,
+          60011,
+          60013,
+          60014,
+          60010
+        ],
+        "actual_memory_ids": [
+          60008,
+          60009,
+          60010,
+          60006
+        ],
+        "predicted_texts": [
+          "Son's name is Pedro",
+          "User's father is named Carlos",
+          "User's mother is named Isabella",
+          "Feels the longer they wait, the more distant they become from Pedro"
+        ],
+        "accuracy": 0.5
+      }
+    ]
+  },
+  {
+    "person_id": 9,
+    "questions": [
+      {
+        "question_id": 1,
+        "question": "What is your name?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          70001,
+          70010,
+          70011,
+          70015,
+          70008
+        ],
+        "actual_memory_ids": [
+          70001
+        ],
+        "predicted_texts": [
+          "Name is Mei",
+          "Mom's name is Linda",
+          "Best friend is named Kai",
+          "Dad's name is James"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 2,
+        "question": "How old are you?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          70002,
+          70001
+        ],
+        "actual_memory_ids": [
+          70002
+        ],
+        "predicted_texts": [
+          "Is 22 years old",
+          "Name is Mei"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 3,
+        "question": "Where do you live?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          70003
+        ],
+        "actual_memory_ids": [
+          70003
+        ],
+        "predicted_texts": [
+          "Lives in Singapore"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 4,
+        "question": "Did you complete your university education?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          70005,
+          70004
+        ],
+        "actual_memory_ids": [
+          70004
+        ],
+        "predicted_texts": [
+          "Studied Computer Science at NUS"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 5,
+        "question": "What did you study at NUS?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          70005,
+          70004,
+          70003
+        ],
+        "actual_memory_ids": [
+          70005
+        ],
+        "predicted_texts": [
+          "Studied Computer Science at NUS",
+          "Lives in Singapore"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 6,
+        "question": "What is your role in your startup?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          70007,
+          70006,
+          70025,
+          70007,
+          70006,
+          70025,
+          70016,
+          1300,
+          70005,
+          70004
+        ],
+        "actual_memory_ids": [
+          70006
+        ],
+        "predicted_texts": [
+          "Has a startup named BridgeAI",
+          "Is the founder of BridgeAI",
+          "Best friend Kai works as a software engineer",
+          "Dreams of taking BridgeAI to places like San Francisco",
+          "Studied Computer Science at NUS"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 7,
+        "question": "What is the name of your startup?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          70007,
+          70006,
+          70025,
+          70007,
+          70006,
+          70025,
+          1300,
+          70001,
+          70016
+        ],
+        "actual_memory_ids": [
+          70007
+        ],
+        "predicted_texts": [
+          "Has a startup named BridgeAI",
+          "Is the founder of BridgeAI",
+          "Dreams of taking BridgeAI to places like San Francisco",
+          "Name is Mei",
+          "Best friend Kai works as a software engineer"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 8,
+        "question": "What is your father's name?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          70008,
+          70010,
+          70011,
+          70009,
+          70001,
+          70015
+        ],
+        "actual_memory_ids": [
+          70008
+        ],
+        "predicted_texts": [
+          "Dad's name is James",
+          "Mom's name is Linda",
+          "Dad is supportive of their work",
+          "Name is Mei",
+          "Best friend is named Kai"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 9,
+        "question": "Does your father support your startup dreams?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          70009,
+          70008,
+          70007,
+          70006,
+          70025,
+          1300,
+          70016
+        ],
+        "actual_memory_ids": [
+          70009
+        ],
+        "predicted_texts": [
+          "Dad is supportive of their work",
+          "Dad's name is James",
+          "Has a startup named BridgeAI",
+          "Dreams of taking BridgeAI to places like San Francisco",
+          "Best friend Kai works as a software engineer"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 10,
+        "question": "What is your mother's name?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          70010,
+          70011,
+          70008,
+          70001
+        ],
+        "actual_memory_ids": [
+          70010
+        ],
+        "predicted_texts": [
+          "Mom's name is Linda",
+          "Dad's name is James",
+          "Name is Mei"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 11,
+        "question": "What does your mother want you to do regarding university?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          70010,
+          70011,
+          70009,
+          70005,
+          70004
+        ],
+        "actual_memory_ids": [
+          70011
+        ],
+        "predicted_texts": [
+          "Mom's name is Linda",
+          "Dad is supportive of their work",
+          "Studied Computer Science at NUS"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 12,
+        "question": "How much money do you have in your bank account?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          70013
+        ],
+        "actual_memory_ids": [
+          70013
+        ],
+        "predicted_texts": [
+          "Has less than $1000 in their bank account"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 13,
+        "question": "What is your dream city?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          1300,
+          70003
+        ],
+        "actual_memory_ids": [
+          70014
+        ],
+        "predicted_texts": [
+          "Dreams of taking BridgeAI to places like San Francisco",
+          "Lives in Singapore"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 14,
+        "question": "What is your best friend's name?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          70015,
+          70016,
+          70008,
+          70010,
+          70011,
+          70001
+        ],
+        "actual_memory_ids": [
+          70015
+        ],
+        "predicted_texts": [
+          "Best friend is named Kai",
+          "Best friend Kai works as a software engineer",
+          "Dad's name is James",
+          "Mom's name is Linda",
+          "Name is Mei"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 15,
+        "question": "What is Kai's profession?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          70016,
+          70015,
+          70003,
+          70007,
+          70006,
+          70025,
+          70005,
+          70004
+        ],
+        "actual_memory_ids": [
+          70016
+        ],
+        "predicted_texts": [
+          "Best friend Kai works as a software engineer",
+          "Best friend is named Kai",
+          "Lives in Singapore",
+          "Is the founder of BridgeAI",
+          "Studied Computer Science at NUS"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 16,
+        "question": "How long are your workdays typically?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          70017,
+          70018,
+          70016
+        ],
+        "actual_memory_ids": [
+          70017
+        ],
+        "predicted_texts": [
+          "Works 16-hour workdays",
+          "Best friend Kai works as a software engineer"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 17,
+        "question": "How do you think you're a workoholic?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          70017,
+          70018
+        ],
+        "actual_memory_ids": [
+          70018
+        ],
+        "predicted_texts": [
+          "Works 16-hour workdays"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 18,
+        "question": "What is your favorite anime?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          70019,
+          70015,
+          70001
+        ],
+        "actual_memory_ids": [
+          70019
+        ],
+        "predicted_texts": [
+          "Enjoys watching 'Attack on Titan'",
+          "Best friend is named Kai",
+          "Name is Mei"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 19,
+        "question": "How often do you hang out with friends?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          70021,
+          70015,
+          70016
+        ],
+        "actual_memory_ids": [
+          70021
+        ],
+        "predicted_texts": [
+          "Hangs out with friends once every two weeks",
+          "Best friend is named Kai",
+          "Best friend Kai works as a software engineer"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 20,
+        "question": "How is your product performing in the market?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          70007,
+          70006,
+          70025,
+          1300,
+          70016
+        ],
+        "actual_memory_ids": [
+          70025
+        ],
+        "predicted_texts": [
+          "Has a startup named BridgeAI",
+          "Dreams of taking BridgeAI to places like San Francisco",
+          "Best friend Kai works as a software engineer"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 21,
+        "question": "What do you do to make money?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          70017,
+          70018,
+          70013
+        ],
+        "actual_memory_ids": [
+          70004,
+          70006,
+          70007,
+          70013
+        ],
+        "predicted_texts": [
+          "Works 16-hour workdays",
+          "Has less than $1000 in their bank account"
+        ],
+        "accuracy": 0.25
+      },
+      {
+        "question_id": 22,
+        "question": "Who are your parents, and how do they feel about your decision to drop out of university?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          70009,
+          70005,
+          70004,
+          70010,
+          70011,
+          70008
+        ],
+        "actual_memory_ids": [
+          70008,
+          70009,
+          70010,
+          70011
+        ],
+        "predicted_texts": [
+          "Dad is supportive of their work",
+          "Studied Computer Science at NUS",
+          "Mom's name is Linda",
+          "Dad's name is James"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 23,
+        "question": "What do your friends do for work?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          70016,
+          70021,
+          70015,
+          70009,
+          70017,
+          70018
+        ],
+        "actual_memory_ids": [
+          70015,
+          70016
+        ],
+        "predicted_texts": [
+          "Best friend Kai works as a software engineer",
+          "Hangs out with friends once every two weeks",
+          "Best friend is named Kai",
+          "Dad is supportive of their work",
+          "Works 16-hour workdays"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 24,
+        "question": "Tell me about your work life balance??",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          70017,
+          70018,
+          70016,
+          70009
+        ],
+        "actual_memory_ids": [
+          70017,
+          70018,
+          70021,
+          70019,
+          70007,
+          70006
+        ],
+        "predicted_texts": [
+          "Works 16-hour workdays",
+          "Best friend Kai works as a software engineer",
+          "Dad is supportive of their work"
+        ],
+        "accuracy": 0.3333333333333333
+      },
+      {
+        "question_id": 25,
+        "question": "Where would you ideally want to live and what's stopping you from moving?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          1300,
+          70003
+        ],
+        "actual_memory_ids": [
+          70013,
+          70014
+        ],
+        "predicted_texts": [
+          "Dreams of taking BridgeAI to places like San Francisco",
+          "Lives in Singapore"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 26,
+        "question": "What is your educational background, and how does it relate to your current entrepreneurial venture?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          70005,
+          70004,
+          70007,
+          70006,
+          70025,
+          70007,
+          70006,
+          70025
+        ],
+        "actual_memory_ids": [
+          70004,
+          70005,
+          70006,
+          70007
+        ],
+        "predicted_texts": [
+          "Studied Computer Science at NUS",
+          "Has a startup named BridgeAI",
+          "Is the founder of BridgeAI"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 27,
+        "question": "What do you do for fun?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          70021,
+          70019
+        ],
+        "actual_memory_ids": [
+          70021,
+          70019
+        ],
+        "predicted_texts": [
+          "Hangs out with friends once every two weeks",
+          "Enjoys watching 'Attack on Titan'"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 28,
+        "question": "What challenges are you facing with your startup?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          70007,
+          70006,
+          70025,
+          1300,
+          70007,
+          70006,
+          70025
+        ],
+        "actual_memory_ids": [
+          70006,
+          70007,
+          70025,
+          70013
+        ],
+        "predicted_texts": [
+          "Has a startup named BridgeAI",
+          "Dreams of taking BridgeAI to places like San Francisco",
+          "Is the founder of BridgeAI"
+        ],
+        "accuracy": 0.75
+      },
+      {
+        "question_id": 29,
+        "question": "How far away is your dream city to live in from where you are now?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          1300,
+          70003
+        ],
+        "actual_memory_ids": [
+          70003,
+          70014
+        ],
+        "predicted_texts": [
+          "Dreams of taking BridgeAI to places like San Francisco",
+          "Lives in Singapore"
+        ],
+        "accuracy": 0.5
+      }
+    ]
+  },
+  {
+    "person_id": 10,
+    "questions": [
+      {
+        "question_id": 1,
+        "question": "What is your name?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          80001,
+          80004,
+          80011
+        ],
+        "actual_memory_ids": [
+          80001
+        ],
+        "predicted_texts": [
+          "User's name is Zara"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 2,
+        "question": "How old are you?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          80002,
+          3086
+        ],
+        "actual_memory_ids": [
+          80002
+        ],
+        "predicted_texts": [
+          "Is 24 years old",
+          "Has been modeling since teenage years"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 3,
+        "question": "Where do you live?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          80003
+        ],
+        "actual_memory_ids": [
+          80003
+        ],
+        "predicted_texts": [
+          "Lives in New York City"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 4,
+        "question": "What is your profession?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          80025,
+          80003
+        ],
+        "actual_memory_ids": [
+          80004
+        ],
+        "predicted_texts": [
+          "Is contemplating a career change",
+          "Lives in New York City"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 5,
+        "question": "What is your best friend's name?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          4772,
+          8694,
+          8447,
+          80001,
+          80004,
+          80011,
+          83123
+        ],
+        "actual_memory_ids": [
+          80005
+        ],
+        "predicted_texts": [
+          "Has a best friend named Lily who is also a model",
+          "Friend named Ava is involved in personal drama with Madison",
+          "Friend named Sophie is also involved in personal drama with Madison",
+          "User's name is Zara",
+          "Has known Lily since middle school"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 6,
+        "question": "What does Lily do?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          9009,
+          2445,
+          83123,
+          4772,
+          83124
+        ],
+        "actual_memory_ids": [
+          80006
+        ],
+        "predicted_texts": [
+          "Lily is upset about Liam's actions",
+          "Lily has been supportive and encouraging during their difficult times",
+          "Has known Lily since middle school",
+          "Has a best friend named Lily who is also a model",
+          "Liam tried sliding into Lily's DMs"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 7,
+        "question": "What does Madison do for work?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          80420,
+          80020,
+          80013,
+          8694,
+          8447,
+          5391
+        ],
+        "actual_memory_ids": [
+          80009
+        ],
+        "predicted_texts": [
+          "Madison is dating a guy named Liam",
+          "Caught Madison talking badly about them to Vogue editors",
+          "Friend named Ava is involved in personal drama with Madison",
+          "Friend named Sophie is also involved in personal drama with Madison",
+          "Madison and Sophie are unknowingly dating the same guy"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 8,
+        "question": "What does Madison say about you?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          80420,
+          80020,
+          80013,
+          8694,
+          8447,
+          5391
+        ],
+        "actual_memory_ids": [
+          80010,
+          80009
+        ],
+        "predicted_texts": [
+          "Madison is dating a guy named Liam",
+          "Caught Madison talking badly about them to Vogue editors",
+          "Friend named Ava is involved in personal drama with Madison",
+          "Friend named Sophie is also involved in personal drama with Madison",
+          "Madison and Sophie are unknowingly dating the same guy"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 9,
+        "question": "What does Ava do for work?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          8694,
+          80022,
+          3897,
+          80424,
+          4772
+        ],
+        "actual_memory_ids": [
+          80011
+        ],
+        "predicted_texts": [
+          "Friend named Ava is involved in personal drama with Madison",
+          "Is the only person who knows about Ava kissing Liam",
+          "Feels stressed about being in an awkward position due to Ava and Madison's situation",
+          "Ava secretly kissed Liam last week",
+          "Has a best friend named Lily who is also a model"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 10,
+        "question": "How does Ava feel about Madison?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          8694,
+          3897,
+          80420,
+          8447,
+          80022
+        ],
+        "actual_memory_ids": [
+          80013,
+          80009
+        ],
+        "predicted_texts": [
+          "Friend named Ava is involved in personal drama with Madison",
+          "Feels stressed about being in an awkward position due to Ava and Madison's situation",
+          "Madison is dating a guy named Liam",
+          "Friend named Sophie is also involved in personal drama with Madison",
+          "Is the only person who knows about Ava kissing Liam"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 11,
+        "question": "What did Madision tell you about Vogue Editors?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          80020,
+          80013,
+          80010,
+          80009,
+          80013,
+          80420,
+          8447,
+          8694
+        ],
+        "actual_memory_ids": [
+          80020,
+          80009
+        ],
+        "predicted_texts": [
+          "Caught Madison talking badly about them to Vogue editors",
+          "A fellow model named Madison has been spreading rumors about their eating habits",
+          "Madison is dating a guy named Liam",
+          "Friend named Sophie is also involved in personal drama with Madison",
+          "Friend named Ava is involved in personal drama with Madison"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 12,
+        "question": "Who is Madison dating?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          80420,
+          5391,
+          80020,
+          80013,
+          8447,
+          8694
+        ],
+        "actual_memory_ids": [
+          80420,
+          80009
+        ],
+        "predicted_texts": [
+          "Madison is dating a guy named Liam",
+          "Madison and Sophie are unknowingly dating the same guy",
+          "Caught Madison talking badly about them to Vogue editors",
+          "Friend named Sophie is also involved in personal drama with Madison",
+          "Friend named Ava is involved in personal drama with Madison"
+        ],
+        "accuracy": 0.5
+      },
+      {
+        "question_id": 13,
+        "question": "Who secretly kissed Liam last week?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          80424,
+          80022,
+          83124,
+          80420,
+          9009
+        ],
+        "actual_memory_ids": [
+          80424,
+          80009,
+          80011
+        ],
+        "predicted_texts": [
+          "Ava secretly kissed Liam last week",
+          "Is the only person who knows about Ava kissing Liam",
+          "Liam tried sliding into Lily's DMs",
+          "Madison is dating a guy named Liam",
+          "Lily is upset about Liam's actions"
+        ],
+        "accuracy": 0.3333333333333333
+      },
+      {
+        "question_id": 15,
+        "question": "What secret do you know about Ava?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          80022,
+          80424,
+          8694,
+          3897,
+          8447
+        ],
+        "actual_memory_ids": [
+          80022,
+          80011
+        ],
+        "predicted_texts": [
+          "Is the only person who knows about Ava kissing Liam",
+          "Ava secretly kissed Liam last week",
+          "Friend named Ava is involved in personal drama with Madison",
+          "Feels stressed about being in an awkward position due to Ava and Madison's situation",
+          "Friend named Sophie is also involved in personal drama with Madison"
+        ],
+        "accuracy": 0.5
+      },
+      {
+        "question_id": 16,
+        "question": "What are you thinking of quitting?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          80025,
+          83022,
+          8247
+        ],
+        "actual_memory_ids": [
+          80025
+        ],
+        "predicted_texts": [
+          "Is contemplating a career change",
+          "Is considering starting therapy",
+          "Used to love playing hockey and is considering picking it up again"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 17,
+        "question": "What might you do to improve your mental health?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          83022,
+          80025
+        ],
+        "actual_memory_ids": [
+          83022
+        ],
+        "predicted_texts": [
+          "Is considering starting therapy",
+          "Is contemplating a career change"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 18,
+        "question": "What sport do you play?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          8247
+        ],
+        "actual_memory_ids": [
+          83122
+        ],
+        "predicted_texts": [
+          "Used to love playing hockey and is considering picking it up again"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 19,
+        "question": "How long have you known Lily?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          83123,
+          2445,
+          4772,
+          9009,
+          83124
+        ],
+        "actual_memory_ids": [
+          83123
+        ],
+        "predicted_texts": [
+          "Has known Lily since middle school",
+          "Lily has been supportive and encouraging during their difficult times",
+          "Has a best friend named Lily who is also a model",
+          "Lily is upset about Liam's actions",
+          "Liam tried sliding into Lily's DMs"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 20,
+        "question": "Who tried sliding into Lily's DMs?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          83124,
+          83123,
+          9009,
+          2445,
+          4772
+        ],
+        "actual_memory_ids": [
+          83124,
+          80005
+        ],
+        "predicted_texts": [
+          "Liam tried sliding into Lily's DMs",
+          "Has known Lily since middle school",
+          "Lily is upset about Liam's actions",
+          "Lily has been supportive and encouraging during their difficult times",
+          "Has a best friend named Lily who is also a model"
+        ],
+        "accuracy": 0.5
+      }
+    ]
+  }
+]

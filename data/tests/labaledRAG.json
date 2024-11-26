@@ -1,0 +1,6409 @@
+[
+  {
+    "person_id": 1,
+    "questions": [
+      {
+        "question_id": 1,
+        "question": "What is your name?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          78932
+        ],
+        "actual_memory_ids": [
+          34521
+        ],
+        "predicted_texts": [
+          "Navid<user> is 24<age>"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 2,
+        "question": "How old are you?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          78932
+        ],
+        "actual_memory_ids": [
+          78932
+        ],
+        "predicted_texts": [
+          "Navid<user> is 24<age>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 3,
+        "question": "Where do you live?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          67890,
+          56789,
+          12453,
+          90123,
+          56123
+        ],
+        "actual_memory_ids": [
+          12453
+        ],
+        "predicted_texts": [
+          "John<best_friend> grew up in LA<city>",
+          "Navid<user> moved to San Francisco<city> two years ago for work",
+          "Navid<user> grew up in LA<city>",
+          "Neha<romantic_interest> is from LA<city>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 4,
+        "question": "What is your profession?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          89234,
+          65789,
+          89123,
+          23451
+        ],
+        "actual_memory_ids": [
+          90128
+        ],
+        "predicted_texts": [
+          "Neha<romantic_interest> is a doctor<profession>",
+          "Navid<user> works at Dribble<company>",
+          "Navid<user> majored in CS<major>",
+          "Neha<romantic_interest> has insights on balancing a demanding career with personal life"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 5,
+        "question": "What is your husband's name?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          12345,
+          34567,
+          78901
+        ],
+        "actual_memory_ids": [
+          90129
+        ],
+        "predicted_texts": [
+          "John<best_friend> is Navid's best friend",
+          "John<best_friend> is smart",
+          "Navid<user> went on a date last week"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 6,
+        "question": "How long have you been married?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          89012
+        ],
+        "actual_memory_ids": [
+          90130
+        ],
+        "predicted_texts": [
+          "Navid<user> dated Neha<romantic_interest> after two years"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 7,
+        "question": "What is your daughter's name?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          56123,
+          89234,
+          23451
+        ],
+        "actual_memory_ids": [
+          90131
+        ],
+        "predicted_texts": [
+          "Neha<romantic_interest> is from LA<city>",
+          "Neha<romantic_interest> is a doctor<profession>",
+          "Neha<romantic_interest> has insights on balancing a demanding career with personal life"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 8,
+        "question": "How old is Emma?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          78932
+        ],
+        "actual_memory_ids": [
+          45679
+        ],
+        "predicted_texts": [
+          "Navid<user> is 24<age>"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 9,
+        "question": "What is your son's name?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          67890,
+          12345,
+          34567
+        ],
+        "actual_memory_ids": [
+          90132
+        ],
+        "predicted_texts": [
+          "John<best_friend> grew up in LA<city>",
+          "John<best_friend> is Navid's best friend",
+          "John<best_friend> is smart"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 10,
+        "question": "How old is Jake?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          78932,
+          34567,
+          67890
+        ],
+        "actual_memory_ids": [
+          90124
+        ],
+        "predicted_texts": [
+          "Navid<user> is 24<age>",
+          "John<best_friend> is smart",
+          "John<best_friend> grew up in LA<city>"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 11,
+        "question": "Do you have any chronic health conditions?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          89234,
+          23451,
+          78932
+        ],
+        "actual_memory_ids": [
+          90133
+        ],
+        "predicted_texts": [
+          "Neha<romantic_interest> is a doctor<profession>",
+          "Neha<romantic_interest> has insights on balancing a demanding career with personal life",
+          "Navid<user> is 24<age>"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 12,
+        "question": "What physical activity do you do often?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          12678,
+          12678
+        ],
+        "actual_memory_ids": [
+          90134
+        ],
+        "predicted_texts": [
+          "Navid<user> used to play a lot of basketball",
+          "Navid<user> gained energy from basketball"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 13,
+        "question": "What does Emma study in college?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          89123,
+          89234,
+          23456,
+          23451,
+          34567
+        ],
+        "actual_memory_ids": [
+          90135
+        ],
+        "predicted_texts": [
+          "Navid<user> majored in CS<major>",
+          "Neha<romantic_interest> is a doctor<profession>",
+          "Navid<user> attended Stanford<university>",
+          "Neha<romantic_interest> has insights on balancing a demanding career with personal life",
+          "John<best_friend> is smart"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 14,
+        "question": "What kind of art do you create?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          65789,
+          7812,
+          3296
+        ],
+        "actual_memory_ids": [
+          90136
+        ],
+        "predicted_texts": [
+          "Navid<user> works at Dribble<company>",
+          "Navid<user> wants to organize informal \"get to know you\" sessions at Dribble<company>",
+          "Navid<user> finds meeting someone new inspiring"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 15,
+        "question": "Where does your mother live?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          67890,
+          56123,
+          56789,
+          12453
+        ],
+        "actual_memory_ids": [
+          90137
+        ],
+        "predicted_texts": [
+          "John<best_friend> grew up in LA<city>",
+          "Neha<romantic_interest> is from LA<city>",
+          "Navid<user> moved to San Francisco<city> two years ago for work"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 16,
+        "question": "Where do you volunteer?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          7812,
+          12678,
+          67890
+        ],
+        "actual_memory_ids": [
+          90138
+        ],
+        "predicted_texts": [
+          "Navid<user> wants to organize informal \"get to know you\" sessions at Dribble<company>",
+          "Navid<user> considers joining a local basketball team",
+          "John<best_friend> grew up in LA<city>"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 17,
+        "question": "What is your husband's occupation?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          89234,
+          23451
+        ],
+        "actual_memory_ids": [
+          90139
+        ],
+        "predicted_texts": [
+          "Neha<romantic_interest> is a doctor<profession>",
+          "Neha<romantic_interest> has insights on balancing a demanding career with personal life"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 18,
+        "question": "Who is Jake close with?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          34567,
+          12345,
+          12345,
+          67890,
+          45678
+        ],
+        "actual_memory_ids": [
+          90140
+        ],
+        "predicted_texts": [
+          "John<best_friend> is smart",
+          "John<best_friend> is Navid's best friend",
+          "John<best_friend> encourages Navid<user> to play basketball",
+          "John<best_friend> grew up in LA<city>",
+          "Navid<user> played basketball with John<best_friend> in high school in Palo Alto<city>"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 19,
+        "question": "What health issue does your mother have?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          89234,
+          23451,
+          56123
+        ],
+        "actual_memory_ids": [
+          90141
+        ],
+        "predicted_texts": [
+          "Neha<romantic_interest> is a doctor<profession>",
+          "Neha<romantic_interest> has insights on balancing a demanding career with personal life",
+          "Neha<romantic_interest> is from LA<city>"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 20,
+        "question": "What club are you a member of?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          12678,
+          7812
+        ],
+        "actual_memory_ids": [
+          90142
+        ],
+        "predicted_texts": [
+          "Navid<user> considers joining a local basketball team",
+          "Navid<user> wants to organize informal \"get to know you\" sessions at Dribble<company>"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 21,
+        "question": "How old were you when you got married?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          78932,
+          89012,
+          23451
+        ],
+        "actual_memory_ids": [
+          90126,
+          90130
+        ],
+        "predicted_texts": [
+          "Navid<user> is 24<age>",
+          "Navid<user> dated Neha<romantic_interest> after two years",
+          "Neha<romantic_interest> has insights on balancing a demanding career with personal life"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 22,
+        "question": "What is the age difference between Emma and Jake?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          89012,
+          78932
+        ],
+        "actual_memory_ids": [
+          45679,
+          90124
+        ],
+        "predicted_texts": [
+          "Navid<user> dated Neha<romantic_interest> after two years",
+          "Navid<user> is 24<age>"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 23,
+        "question": "Who in your family works in the healthcare industry?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          89234,
+          23451
+        ],
+        "actual_memory_ids": [
+          90135,
+          90139
+        ],
+        "predicted_texts": [
+          "Neha<romantic_interest> is a doctor<profession>",
+          "Neha<romantic_interest> has insights on balancing a demanding career with personal life"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 24,
+        "question": "Which family members have chronic health conditions?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          89234,
+          23451,
+          78932
+        ],
+        "actual_memory_ids": [
+          90133,
+          90141
+        ],
+        "predicted_texts": [
+          "Neha<romantic_interest> is a doctor<profession>",
+          "Neha<romantic_interest> has insights on balancing a demanding career with personal life",
+          "Navid<user> is 24<age>"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 25,
+        "question": "How many generations are living in your home?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          56789,
+          12453,
+          67890,
+          78932
+        ],
+        "actual_memory_ids": [
+          90137,
+          90131
+        ],
+        "predicted_texts": [
+          "Navid<user> moved to San Francisco<city> two years ago for work",
+          "John<best_friend> grew up in LA<city>",
+          "Navid<user> is 24<age>"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 27,
+        "question": "Did you have Emma before or after you got married?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          89012,
+          23451
+        ],
+        "actual_memory_ids": [
+          90130,
+          45679
+        ],
+        "predicted_texts": [
+          "Navid<user> dated Neha<romantic_interest> after two years",
+          "Neha<romantic_interest> has insights on balancing a demanding career with personal life"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 28,
+        "question": "How old were you when you had your first child?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          78932,
+          67890,
+          23451
+        ],
+        "actual_memory_ids": [
+          90126,
+          45679
+        ],
+        "predicted_texts": [
+          "Navid<user> is 24<age>",
+          "John<best_friend> grew up in LA<city>",
+          "Neha<romantic_interest> has insights on balancing a demanding career with personal life"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 30,
+        "question": "What do you do in your free time?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          23451
+        ],
+        "actual_memory_ids": [
+          90142,
+          90136,
+          90134,
+          90138
+        ],
+        "predicted_texts": [
+          "Neha<romantic_interest> has insights on balancing a demanding career with personal life"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 31,
+        "question": "At what ages did Patricia marry, have Emma, and have Jake?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          89012
+        ],
+        "actual_memory_ids": [
+          90126,
+          90130,
+          45679,
+          90124
+        ],
+        "predicted_texts": [
+          "Navid<user> dated Neha<romantic_interest> after two years"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 32,
+        "question": "How many years after getting married did Patricia have each of her children?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          89012
+        ],
+        "actual_memory_ids": [
+          90130,
+          45679,
+          90124
+        ],
+        "predicted_texts": [
+          "Navid<user> dated Neha<romantic_interest> after two years"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 33,
+        "question": "Which family members are usually receiving medical help and which family memberes are usually providing medical help?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          89234,
+          23451,
+          78932
+        ],
+        "actual_memory_ids": [
+          90135,
+          90139,
+          90133,
+          90141
+        ],
+        "predicted_texts": [
+          "Neha<romantic_interest> is a doctor<profession>",
+          "Neha<romantic_interest> has insights on balancing a demanding career with personal life",
+          "Navid<user> is 24<age>"
+        ],
+        "accuracy": 0.0
+      }
+    ]
+  },
+  {
+    "person_id": 2,
+    "questions": [
+      {
+        "question_id": 1,
+        "question": "What is your name?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          45679,
+          90131,
+          90126,
+          45679,
+          90131
+        ],
+        "actual_memory_ids": [
+          90125
+        ],
+        "predicted_texts": [
+          "Emma<daughter> would be happy to join Navid<user> for yoga",
+          "Navid<user> is 50<age>",
+          "Emma<daughter> is 21<age>"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 2,
+        "question": "How old are you?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          45679,
+          90131,
+          90124,
+          90126
+        ],
+        "actual_memory_ids": [
+          90126
+        ],
+        "predicted_texts": [
+          "Emma<daughter> is 21<age>",
+          "Jake<son> is 17<age>",
+          "Navid<user> is 50<age>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 3,
+        "question": "Where do you live?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          90127,
+          90137,
+          20012,
+          90138
+        ],
+        "actual_memory_ids": [
+          90127
+        ],
+        "predicted_texts": [
+          "Navid<user> lives in Seattle<city>",
+          "Navid<user>'s mother<family_member> lives with Navid<user>",
+          "Navid<user> volunteers at a food bank<place>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 4,
+        "question": "What is your profession?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          90128,
+          3601
+        ],
+        "actual_memory_ids": [
+          90128
+        ],
+        "predicted_texts": [
+          "Navid<user> is a high school counselor<profession>",
+          "Navid<user> is balancing work<activity>, family<responsibility>, and personal interests<activity>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 5,
+        "question": "What is your husband's name?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          90139,
+          90130,
+          90140,
+          90129,
+          90125
+        ],
+        "actual_memory_ids": [
+          90129
+        ],
+        "predicted_texts": [
+          "Navid<user>'s husband<spouse> leaves early for his job at the hospital",
+          "Navid<user> has been married to David<spouse> for 23 years",
+          "Jake<son> is very close with Navid<user>'s husband<spouse>",
+          "David<spouse> is supportive of Patricia<user>'s hobbies"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 6,
+        "question": "How long have you been married?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          90130,
+          90129,
+          90125,
+          90139,
+          45679,
+          90131
+        ],
+        "actual_memory_ids": [
+          90130
+        ],
+        "predicted_texts": [
+          "Navid<user> has been married to David<spouse> for 23 years",
+          "David<spouse> is supportive of Patricia<user>'s hobbies",
+          "Navid<user>'s husband<spouse> leaves early for his job at the hospital",
+          "Emma<daughter> is 21<age>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 7,
+        "question": "What is your daughter's name?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          45679,
+          90131,
+          90135,
+          90131,
+          45679,
+          90131,
+          90129,
+          90125,
+          90141
+        ],
+        "actual_memory_ids": [
+          90131
+        ],
+        "predicted_texts": [
+          "Emma<daughter> is 21<age>",
+          "Emma<daughter> is studying nursing<degree> in college<institution>",
+          "Emma<daughter> would be happy to join Navid<user> for yoga",
+          "David<spouse> is supportive of Patricia<user>'s hobbies",
+          "Navid<user>'s mother<family_member> has chronic knee pain"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 8,
+        "question": "How old is Emma?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          45679,
+          90131,
+          90135,
+          90131,
+          45679,
+          90131,
+          90124,
+          90126
+        ],
+        "actual_memory_ids": [
+          45679
+        ],
+        "predicted_texts": [
+          "Emma<daughter> is 21<age>",
+          "Emma<daughter> is studying nursing<degree> in college<institution>",
+          "Emma<daughter> would be happy to join Navid<user> for yoga",
+          "Jake<son> is 17<age>",
+          "Navid<user> is 50<age>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 9,
+        "question": "What is your son's name?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          90124,
+          90132,
+          90140,
+          8949,
+          3182
+        ],
+        "actual_memory_ids": [
+          90132
+        ],
+        "predicted_texts": [
+          "Jake<son> is 17<age>",
+          "Jake<son> plays baseball",
+          "Jake<son> is very close with Navid<user>'s husband<spouse>",
+          "Jake<son> has free evenings during the week",
+          "Navid<user> is considering attending a beginner's yoga class with Jake<son>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 10,
+        "question": "How old is Jake?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          90124,
+          90132,
+          8949,
+          90140,
+          45679,
+          90131
+        ],
+        "actual_memory_ids": [
+          90124
+        ],
+        "predicted_texts": [
+          "Jake<son> is 17<age>",
+          "Jake<son> plays baseball",
+          "Jake<son> has free evenings during the week",
+          "Jake<son> is very close with Navid<user>'s husband<spouse>",
+          "Emma<daughter> is 21<age>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 11,
+        "question": "Do you have any chronic health conditions?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          90133,
+          90141
+        ],
+        "actual_memory_ids": [
+          90133
+        ],
+        "predicted_texts": [
+          "Navid<user> has type 2 diabetes<condition>",
+          "Navid<user>'s mother<family_member> has chronic knee pain"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 12,
+        "question": "What physical activity do you do often?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          90134,
+          7034,
+          3601,
+          90132,
+          90134
+        ],
+        "actual_memory_ids": [
+          90134
+        ],
+        "predicted_texts": [
+          "Navid<user> practices yoga often",
+          "Navid<user> wakes up early for a short yoga session",
+          "Navid<user> is balancing work<activity>, family<responsibility>, and personal interests<activity>",
+          "Navid<user> is looking into poses like Pigeon Pose and Downward-Facing Dog for Jake<son>'s hamstrings and flexibility",
+          "Navid<user> is still learning yoga poses"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 13,
+        "question": "What does Emma study in college?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          90135,
+          90131,
+          45679,
+          90131,
+          45679,
+          90131
+        ],
+        "actual_memory_ids": [
+          90135
+        ],
+        "predicted_texts": [
+          "Emma<daughter> is studying nursing<degree> in college<institution>",
+          "Emma<daughter> is 21<age>",
+          "Emma<daughter> would be happy to join Navid<user> for yoga"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 14,
+        "question": "What kind of art do you create?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          90136,
+          90136,
+          2803,
+          90136
+        ],
+        "actual_memory_ids": [
+          90136
+        ],
+        "predicted_texts": [
+          "Navid<user> wants to send watercolors to local hospitals or senior centers",
+          "Navid<user> paints watercolors with Navid<user>'s mother<family_member>",
+          "Navid<user> plans to package and deliver watercolors with Jake<son> on Saturdays",
+          "Navid<user> plans to paint watercolors with Navid<user>'s mother<family_member> on Wednesday evenings"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 15,
+        "question": "Where does your mother live?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          90137,
+          20012,
+          90135,
+          90131,
+          4526,
+          90141,
+          45679,
+          90131
+        ],
+        "actual_memory_ids": [
+          90137
+        ],
+        "predicted_texts": [
+          "Navid<user>'s mother<family_member> lives with Navid<user>",
+          "Emma<daughter> is studying nursing<degree> in college<institution>",
+          "Navid<user>'s mother<family_member> wakes up later",
+          "Navid<user>'s mother<family_member> has chronic knee pain",
+          "Emma<daughter> is 21<age>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 16,
+        "question": "Where do you volunteer?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          90138,
+          90136
+        ],
+        "actual_memory_ids": [
+          90138
+        ],
+        "predicted_texts": [
+          "Navid<user> volunteers at a food bank<place>",
+          "Navid<user> wants to send watercolors to local hospitals or senior centers"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 17,
+        "question": "What is your husband's occupation?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          90139,
+          90129,
+          90125,
+          90130,
+          90140,
+          3601
+        ],
+        "actual_memory_ids": [
+          90139
+        ],
+        "predicted_texts": [
+          "Navid<user>'s husband<spouse> leaves early for his job at the hospital",
+          "David<spouse> is supportive of Patricia<user>'s hobbies",
+          "Navid<user> has been married to David<spouse> for 23 years",
+          "Jake<son> is very close with Navid<user>'s husband<spouse>",
+          "Navid<user> is balancing work<activity>, family<responsibility>, and personal interests<activity>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 18,
+        "question": "Who is Jake close with?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          90140,
+          90132,
+          90124,
+          8949,
+          3182
+        ],
+        "actual_memory_ids": [
+          90140
+        ],
+        "predicted_texts": [
+          "Jake<son> is very close with Navid<user>'s husband<spouse>",
+          "Jake<son> plays baseball",
+          "Jake<son> is 17<age>",
+          "Jake<son> has free evenings during the week",
+          "Navid<user> is considering attending a beginner's yoga class with Jake<son>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 19,
+        "question": "What health issue does your mother have?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          90141,
+          4526,
+          90137,
+          20012,
+          90133,
+          90135,
+          90131
+        ],
+        "actual_memory_ids": [
+          90141
+        ],
+        "predicted_texts": [
+          "Navid<user>'s mother<family_member> has chronic knee pain",
+          "Navid<user>'s mother<family_member> wakes up later",
+          "Navid<user>'s mother<family_member> lives with Navid<user>",
+          "Navid<user> has type 2 diabetes<condition>",
+          "Emma<daughter> is studying nursing<degree> in college<institution>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 20,
+        "question": "What club are you a member of?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          90142
+        ],
+        "actual_memory_ids": [
+          90142
+        ],
+        "predicted_texts": [
+          "Navid<user> has a book club<activity_group>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 21,
+        "question": "How old were you when you got married?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          45679,
+          90131,
+          90130
+        ],
+        "actual_memory_ids": [
+          90126,
+          90130
+        ],
+        "predicted_texts": [
+          "Emma<daughter> is 21<age>",
+          "Navid<user> has been married to David<spouse> for 23 years"
+        ],
+        "accuracy": 0.5
+      },
+      {
+        "question_id": 22,
+        "question": "What is the age difference between Emma and Jake?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          45679,
+          90131,
+          90124,
+          90140,
+          90132,
+          90135,
+          90131
+        ],
+        "actual_memory_ids": [
+          45679,
+          90124
+        ],
+        "predicted_texts": [
+          "Emma<daughter> is 21<age>",
+          "Jake<son> is 17<age>",
+          "Jake<son> is very close with Navid<user>'s husband<spouse>",
+          "Jake<son> plays baseball",
+          "Emma<daughter> is studying nursing<degree> in college<institution>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 23,
+        "question": "Who in your family works in the healthcare industry?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          90135,
+          90131,
+          90141,
+          90137,
+          20012,
+          90139,
+          4526
+        ],
+        "actual_memory_ids": [
+          90135,
+          90139
+        ],
+        "predicted_texts": [
+          "Emma<daughter> is studying nursing<degree> in college<institution>",
+          "Navid<user>'s mother<family_member> has chronic knee pain",
+          "Navid<user>'s mother<family_member> lives with Navid<user>",
+          "Navid<user>'s husband<spouse> leaves early for his job at the hospital",
+          "Navid<user>'s mother<family_member> wakes up later"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 24,
+        "question": "Which family members have chronic health conditions?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          90141,
+          90133,
+          90137,
+          20012,
+          4526,
+          90136
+        ],
+        "actual_memory_ids": [
+          90133,
+          90141
+        ],
+        "predicted_texts": [
+          "Navid<user>'s mother<family_member> has chronic knee pain",
+          "Navid<user> has type 2 diabetes<condition>",
+          "Navid<user>'s mother<family_member> lives with Navid<user>",
+          "Navid<user>'s mother<family_member> wakes up later",
+          "Navid<user> paints watercolors with Navid<user>'s mother<family_member>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 25,
+        "question": "How many generations are living in your home?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          45679,
+          90131,
+          90137,
+          20012
+        ],
+        "actual_memory_ids": [
+          90137,
+          90131
+        ],
+        "predicted_texts": [
+          "Emma<daughter> is 21<age>",
+          "Navid<user>'s mother<family_member> lives with Navid<user>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 27,
+        "question": "Did you have Emma before or after you got married?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          45679,
+          90131,
+          90135,
+          90131,
+          45679,
+          90131,
+          90130,
+          90140
+        ],
+        "actual_memory_ids": [
+          90130,
+          45679
+        ],
+        "predicted_texts": [
+          "Emma<daughter> is 21<age>",
+          "Emma<daughter> is studying nursing<degree> in college<institution>",
+          "Emma<daughter> would be happy to join Navid<user> for yoga",
+          "Navid<user> has been married to David<spouse> for 23 years",
+          "Jake<son> is very close with Navid<user>'s husband<spouse>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 28,
+        "question": "How old were you when you had your first child?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          45679,
+          90131,
+          90124
+        ],
+        "actual_memory_ids": [
+          90126,
+          45679
+        ],
+        "predicted_texts": [
+          "Emma<daughter> is 21<age>",
+          "Jake<son> is 17<age>"
+        ],
+        "accuracy": 0.5
+      },
+      {
+        "question_id": 30,
+        "question": "What do you do in your free time?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          8949,
+          3601,
+          90138,
+          90136,
+          90134
+        ],
+        "actual_memory_ids": [
+          90142,
+          90136,
+          90134,
+          90138
+        ],
+        "predicted_texts": [
+          "Jake<son> has free evenings during the week",
+          "Navid<user> is balancing work<activity>, family<responsibility>, and personal interests<activity>",
+          "Navid<user> volunteers at a food bank<place>",
+          "Navid<user> plans to paint watercolors with Navid<user>'s mother<family_member> on Wednesday evenings",
+          "Navid<user> practices yoga often"
+        ],
+        "accuracy": 0.75
+      },
+      {
+        "question_id": 31,
+        "question": "At what ages did Patricia marry, have Emma, and have Jake?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          45679,
+          90131,
+          90129,
+          90125,
+          90124,
+          90140,
+          90135,
+          90131
+        ],
+        "actual_memory_ids": [
+          90126,
+          90130,
+          45679,
+          90124
+        ],
+        "predicted_texts": [
+          "Emma<daughter> is 21<age>",
+          "David<spouse> is supportive of Patricia<user>'s hobbies",
+          "Jake<son> is 17<age>",
+          "Jake<son> is very close with Navid<user>'s husband<spouse>",
+          "Emma<daughter> is studying nursing<degree> in college<institution>"
+        ],
+        "accuracy": 0.5
+      },
+      {
+        "question_id": 32,
+        "question": "How many years after getting married did Patricia have each of her children?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          45679,
+          90131,
+          90129,
+          90125,
+          90130,
+          90135,
+          90131
+        ],
+        "actual_memory_ids": [
+          90130,
+          45679,
+          90124
+        ],
+        "predicted_texts": [
+          "Emma<daughter> is 21<age>",
+          "David<spouse> is supportive of Patricia<user>'s hobbies",
+          "Navid<user> has been married to David<spouse> for 23 years",
+          "Emma<daughter> is studying nursing<degree> in college<institution>"
+        ],
+        "accuracy": 0.6666666666666666
+      },
+      {
+        "question_id": 33,
+        "question": "Which family members are usually receiving medical help and which family memberes are usually providing medical help?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          90141,
+          90137,
+          20012,
+          4526,
+          90135,
+          90131,
+          90136
+        ],
+        "actual_memory_ids": [
+          90135,
+          90139,
+          90133,
+          90141
+        ],
+        "predicted_texts": [
+          "Navid<user>'s mother<family_member> has chronic knee pain",
+          "Navid<user>'s mother<family_member> lives with Navid<user>",
+          "Navid<user>'s mother<family_member> wakes up later",
+          "Emma<daughter> is studying nursing<degree> in college<institution>",
+          "Navid<user> paints watercolors with Navid<user>'s mother<family_member>"
+        ],
+        "accuracy": 0.5
+      },
+      {
+        "question_id": 34,
+        "question": "Who is probably your husbands favorite child?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          90140,
+          45679,
+          90131,
+          90129,
+          90125,
+          90130,
+          90139
+        ],
+        "actual_memory_ids": [
+          90140,
+          90129
+        ],
+        "predicted_texts": [
+          "Jake<son> is very close with Navid<user>'s husband<spouse>",
+          "Emma<daughter> is 21<age>",
+          "David<spouse> is supportive of Patricia<user>'s hobbies",
+          "Navid<user> has been married to David<spouse> for 23 years",
+          "Navid<user>'s husband<spouse> leaves early for his job at the hospital"
+        ],
+        "accuracy": 1.0
+      }
+    ]
+  },
+  {
+    "person_id": 3,
+    "questions": [
+      {
+        "question_id": 1,
+        "question": "What is your name?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          7759,
+          10018,
+          10008,
+          10007,
+          10015,
+          9856
+        ],
+        "actual_memory_ids": [
+          10001
+        ],
+        "predicted_texts": [
+          "Patricia<user> is 35<age>",
+          "Patricia<user> has a golden retriever<pet> named Max<pet_name>",
+          "Sophie<daughter> is 7<age>",
+          "Sophie<daughter> is Patricia<user>'s daughter",
+          "Patricia<user> takes short walks in the afternoon"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 2,
+        "question": "How old are you?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          7759,
+          10008
+        ],
+        "actual_memory_ids": [
+          10002
+        ],
+        "predicted_texts": [
+          "Patricia<user> is 35<age>",
+          "Sophie<daughter> is 7<age>"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 3,
+        "question": "What city do you currently live in?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          10011,
+          10003
+        ],
+        "actual_memory_ids": [
+          10003
+        ],
+        "predicted_texts": [
+          "Patricia<user> moved from San Francisco<city> to Austin<city> two years ago"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 4,
+        "question": "What is the name of the company you founded?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          10004,
+          10006
+        ],
+        "actual_memory_ids": [
+          10004
+        ],
+        "predicted_texts": [
+          "Patricia<user> is the founder of TechMind AI<company>",
+          "Patricia<user> has 50 employees at TechMind AI<company>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 5,
+        "question": "When did you get divorced?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          10005,
+          10002,
+          10016,
+          10014
+        ],
+        "actual_memory_ids": [
+          10005
+        ],
+        "predicted_texts": [
+          "Patricia<user> went through a divorce six months ago",
+          "Patricia<user> is considering reconnecting with Sarah<ex>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 6,
+        "question": "How many employees does your company have?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          10006,
+          10004
+        ],
+        "actual_memory_ids": [
+          10006
+        ],
+        "predicted_texts": [
+          "Patricia<user> has 50 employees at TechMind AI<company>",
+          "Patricia<user> is the founder of TechMind AI<company>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 7,
+        "question": "What is your daughter's name?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          10007,
+          10015,
+          10008,
+          10007,
+          10015,
+          10007,
+          10015,
+          10008
+        ],
+        "actual_memory_ids": [
+          10007
+        ],
+        "predicted_texts": [
+          "Sophie<daughter> is Patricia<user>'s daughter",
+          "Sophie<daughter> is 7<age>",
+          "Sophie<daughter> loves animals",
+          "Sophie<daughter> enjoys being active outdoors",
+          "Sophie<daughter> has shown interest in learning Spanish<language>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 8,
+        "question": "How old is your daughter?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          10008,
+          10007,
+          10015,
+          10007,
+          10015,
+          10008,
+          10007,
+          10015
+        ],
+        "actual_memory_ids": [
+          10008
+        ],
+        "predicted_texts": [
+          "Sophie<daughter> is 7<age>",
+          "Sophie<daughter> enjoys being active outdoors",
+          "Sophie<daughter> is Patricia<user>'s daughter",
+          "Sophie<daughter> has shown interest in learning Spanish<language>",
+          "Sophie<daughter> loves animals"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 9,
+        "question": "How often do you go to therapy?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          10009,
+          10010,
+          10010,
+          10005,
+          10002
+        ],
+        "actual_memory_ids": [
+          10009
+        ],
+        "predicted_texts": [
+          "Patricia<user> goes to therapy weekly",
+          "Patricia<user> practices meditation to manage stress",
+          "Patricia<user> has been meditating for about a month",
+          "Patricia<user> went through a divorce six months ago"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 10,
+        "question": "What have you started practicing?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          10010,
+          10010,
+          10012,
+          9357,
+          10005,
+          10002
+        ],
+        "actual_memory_ids": [
+          10010
+        ],
+        "predicted_texts": [
+          "Patricia<user> has been meditating for about a month",
+          "Patricia<user> practices meditation to manage stress",
+          "Patricia<user> has been trying to learn Spanish<language>",
+          "Patricia<user> is focusing on overall health",
+          "Alex<colleague> noticed that Patricia<user> is more reflective lately"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 11,
+        "question": "When did you move from San Francisco?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          10011,
+          10003,
+          10005,
+          10002
+        ],
+        "actual_memory_ids": [
+          10011
+        ],
+        "predicted_texts": [
+          "Patricia<user> moved from San Francisco<city> to Austin<city> two years ago",
+          "Patricia<user> went through a divorce six months ago"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 12,
+        "question": "What language are you trying to learn?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          10012,
+          10008
+        ],
+        "actual_memory_ids": [
+          10012
+        ],
+        "predicted_texts": [
+          "Patricia<user> has been trying to learn Spanish<language>",
+          "Sophie<daughter> has shown interest in learning Spanish<language>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 13,
+        "question": "At what time do you work out every morning?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          10013
+        ],
+        "actual_memory_ids": [
+          10013
+        ],
+        "predicted_texts": [
+          "Patricia<user> works out at 6 AM every day"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 14,
+        "question": "What is your ex's name?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          10016,
+          10014,
+          10005,
+          10002,
+          10018,
+          10011,
+          10003,
+          7759
+        ],
+        "actual_memory_ids": [
+          10014
+        ],
+        "predicted_texts": [
+          "Patricia<user> is considering reconnecting with Sarah<ex>",
+          "Patricia<user> went through a divorce six months ago",
+          "Patricia<user> has a golden retriever<pet> named Max<pet_name>",
+          "Patricia<user> moved from San Francisco<city> to Austin<city> two years ago",
+          "Patricia<user> is 35<age>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 15,
+        "question": "What is your custody arrangement for Sophie?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          10007,
+          10015,
+          10008,
+          10007,
+          10015,
+          10007,
+          10015,
+          10008
+        ],
+        "actual_memory_ids": [
+          10015
+        ],
+        "predicted_texts": [
+          "Sophie<daughter> enjoys being active outdoors",
+          "Sophie<daughter> is 7<age>",
+          "Sophie<daughter> loves animals",
+          "Sophie<daughter> is Patricia<user>'s daughter",
+          "Sophie<daughter> has shown interest in learning Spanish<language>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 16,
+        "question": "Are you considering getting back together with your ex?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          10016,
+          10014,
+          10005,
+          10002
+        ],
+        "actual_memory_ids": [
+          10016
+        ],
+        "predicted_texts": [
+          "Patricia<user> is considering reconnecting with Sarah<ex>",
+          "Patricia<user> went through a divorce six months ago"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 17,
+        "question": "What are you passionate about?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          10017,
+          10017,
+          10017,
+          9357,
+          10007,
+          10015
+        ],
+        "actual_memory_ids": [
+          10017
+        ],
+        "predicted_texts": [
+          "Patricia<user> is passionate about renewable energy<field>",
+          "Patricia<user> is considering getting involved in renewable energy<field> through volunteering",
+          "Patricia<user> is looking into local initiatives focusing on renewable energy education for families",
+          "Patricia<user> is focusing on overall health",
+          "Sophie<daughter> enjoys being active outdoors"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 18,
+        "question": "What is your dog's name?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          10018,
+          10007,
+          10015
+        ],
+        "actual_memory_ids": [
+          10018
+        ],
+        "predicted_texts": [
+          "Patricia<user> has a golden retriever<pet> named Max<pet_name>",
+          "Sophie<daughter> loves animals"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 19,
+        "question": "What are you trying to cut back on?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          9357,
+          10010
+        ],
+        "actual_memory_ids": [
+          10019
+        ],
+        "predicted_texts": [
+          "Patricia<user> is focusing on overall health",
+          "Patricia<user> practices meditation to manage stress"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 20,
+        "question": "What sport do you play?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          10020,
+          10007,
+          10015
+        ],
+        "actual_memory_ids": [
+          10020
+        ],
+        "predicted_texts": [
+          "Patricia<user> plays tennis on the weekends",
+          "Sophie<daughter> enjoys being active outdoors"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 21,
+        "question": "What are you trying to cut back on?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          9357,
+          10010
+        ],
+        "actual_memory_ids": [
+          10019
+        ],
+        "predicted_texts": [
+          "Patricia<user> is focusing on overall health",
+          "Patricia<user> practices meditation to manage stress"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 22,
+        "question": "What is the name of your ex-wife, and how long ago did you get divorced?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          10005,
+          10002,
+          10016,
+          10014,
+          10011,
+          10003
+        ],
+        "actual_memory_ids": [
+          10014,
+          10005
+        ],
+        "predicted_texts": [
+          "Patricia<user> went through a divorce six months ago",
+          "Patricia<user> is considering reconnecting with Sarah<ex>",
+          "Patricia<user> moved from San Francisco<city> to Austin<city> two years ago"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 23,
+        "question": "Where do you live and where did you move from?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          10011,
+          10003
+        ],
+        "actual_memory_ids": [
+          10011,
+          10003
+        ],
+        "predicted_texts": [
+          "Patricia<user> moved from San Francisco<city> to Austin<city> two years ago"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 24,
+        "question": "What is your daughter's name, and how old is she?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          10008,
+          10007,
+          10015,
+          10007,
+          10015,
+          10007,
+          10015,
+          10008
+        ],
+        "actual_memory_ids": [
+          10007,
+          10008
+        ],
+        "predicted_texts": [
+          "Sophie<daughter> is 7<age>",
+          "Sophie<daughter> is Patricia<user>'s daughter",
+          "Sophie<daughter> enjoys being active outdoors",
+          "Sophie<daughter> loves animals",
+          "Sophie<daughter> has shown interest in learning Spanish<language>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 47,
+        "question": "Does your company's size make sense for the industry it's in?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          10006
+        ],
+        "actual_memory_ids": [
+          10006,
+          10004
+        ],
+        "predicted_texts": [
+          "Patricia<user> has 50 employees at TechMind AI<company>"
+        ],
+        "accuracy": 0.5
+      },
+      {
+        "question_id": 50,
+        "question": "Are you thinking of getting back with Sarah?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          10016,
+          10014,
+          10005,
+          10002,
+          10017,
+          10005,
+          10002
+        ],
+        "actual_memory_ids": [
+          10014,
+          10016
+        ],
+        "predicted_texts": [
+          "Patricia<user> is considering reconnecting with Sarah<ex>",
+          "Patricia<user> went through a divorce six months ago",
+          "Patricia<user> is considering getting involved in renewable energy<field> through volunteering",
+          "Alex<colleague> noticed that Patricia<user> is more reflective lately"
+        ],
+        "accuracy": 1.0
+      }
+    ]
+  },
+  {
+    "person_id": 4,
+    "questions": [
+      {
+        "question_id": 1,
+        "question": "What is your name?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          5368,
+          20002,
+          20001,
+          20013,
+          20005,
+          20006
+        ],
+        "actual_memory_ids": [
+          20001
+        ],
+        "predicted_texts": [
+          "Patricia<user> is 19<age>",
+          "Maya<user> is 19<age>",
+          "Patricia<user> struggles with anxiety in social situations",
+          "Patricia<user> is in the first year of university",
+          "Patricia<user> is studying environmental science<subject>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 2,
+        "question": "How old are you?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          20002,
+          20001,
+          5368,
+          20005
+        ],
+        "actual_memory_ids": [
+          20002
+        ],
+        "predicted_texts": [
+          "Maya<user> is 19<age>",
+          "Patricia<user> is 19<age>",
+          "Patricia<user> is in the first year of university"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 3,
+        "question": "Where do you live?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          20003,
+          20016,
+          4045
+        ],
+        "actual_memory_ids": [
+          20003
+        ],
+        "predicted_texts": [
+          "Patricia<user> has moved to London<city>",
+          "Patricia<user> has a mother<mom> in Chicago<city>",
+          "Patricia<user> is a student at a university<place>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 4,
+        "question": "Where are you originally from?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          20003,
+          20016
+        ],
+        "actual_memory_ids": [
+          20004
+        ],
+        "predicted_texts": [
+          "Patricia<user> has moved to London<city>",
+          "Patricia<user> has a mother<mom> in Chicago<city>"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 5,
+        "question": "What year of university are you in?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          20005,
+          4045,
+          20006,
+          20010,
+          20020
+        ],
+        "actual_memory_ids": [
+          20005
+        ],
+        "predicted_texts": [
+          "Patricia<user> is in the first year of university",
+          "Patricia<user> is a student at a university<place>",
+          "Patricia<user> is studying environmental science<subject>",
+          "Patricia<user> met Emma<friend> during the first week at university",
+          "Patricia<user> is considering switching major to marine biology<subject>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 6,
+        "question": "What do you study?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          20006,
+          4045,
+          20020,
+          20005,
+          20018
+        ],
+        "actual_memory_ids": [
+          20006
+        ],
+        "predicted_texts": [
+          "Patricia<user> is studying environmental science<subject>",
+          "Patricia<user> is a student at a university<place>",
+          "Patricia<user> is considering switching major to marine biology<subject>",
+          "Patricia<user> is in the first year of university",
+          "Doing well academically is very important to Patricia<user>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 7,
+        "question": "What is your job?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          20007,
+          20019,
+          20006
+        ],
+        "actual_memory_ids": [
+          20007
+        ],
+        "predicted_texts": [
+          "Patricia<user> has a part-time job at a caf\u00e9<place>",
+          "James<customer> is a regular customer at Maya<user>'s workplace",
+          "Patricia<user> is studying environmental science<subject>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 8,
+        "question": "What are you passionate about?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          20008,
+          20006,
+          20020,
+          20018
+        ],
+        "actual_memory_ids": [
+          20008
+        ],
+        "predicted_texts": [
+          "Patricia<user> is passionate about climate activism",
+          "Patricia<user> is studying environmental science<subject>",
+          "Patricia<user> is considering switching major to marine biology<subject>",
+          "Doing well academically is very important to Patricia<user>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 9,
+        "question": "Who is your best friend?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          20121,
+          20009,
+          20010,
+          20019,
+          20013
+        ],
+        "actual_memory_ids": [
+          20121
+        ],
+        "predicted_texts": [
+          "Patricia<user> has a close friend named Emma<friend>",
+          "Emma<friend> has health issues",
+          "Patricia<user> met Emma<friend> during the first week at university",
+          "Maya<user> has a crush on James<romantic_interest>",
+          "Patricia<user> struggles with anxiety in social situations"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 10,
+        "question": "Hows Emma's health?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          20009,
+          20121,
+          20010,
+          20015,
+          20013
+        ],
+        "actual_memory_ids": [
+          20009
+        ],
+        "predicted_texts": [
+          "Emma<friend> has health issues",
+          "Patricia<user> has a close friend named Emma<friend>",
+          "Patricia<user> met Emma<friend> during the first week at university",
+          "Patricia<user> hasn't visited mother<mom> in eight months",
+          "Patricia<user> struggles with anxiety in social situations"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 11,
+        "question": "When did you meet Emma?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          20010,
+          20009,
+          20121,
+          20019,
+          20005
+        ],
+        "actual_memory_ids": [
+          20010
+        ],
+        "predicted_texts": [
+          "Patricia<user> met Emma<friend> during the first week at university",
+          "Emma<friend> has health issues",
+          "Patricia<user> has a close friend named Emma<friend>",
+          "Maya<user> has a crush on James<romantic_interest>",
+          "Patricia<user> is in the first year of university"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 12,
+        "question": "Hows your relationship with your mom?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          20015,
+          20016,
+          20009,
+          20013,
+          20121
+        ],
+        "actual_memory_ids": [
+          20012,
+          20016
+        ],
+        "predicted_texts": [
+          "Patricia<user> hasn't visited mother<mom> in eight months",
+          "Patricia<user> has a mother<mom> in Chicago<city>",
+          "Emma<friend> has health issues",
+          "Patricia<user> struggles with anxiety in social situations",
+          "Patricia<user> has a close friend named Emma<friend>"
+        ],
+        "accuracy": 0.5
+      },
+      {
+        "question_id": 13,
+        "question": "How are you in social situations?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          20013
+        ],
+        "actual_memory_ids": [
+          20013
+        ],
+        "predicted_texts": [
+          "Patricia<user> struggles with anxiety in social situations"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 14,
+        "question": "When was the last time you were in Chicago?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          20016,
+          20015
+        ],
+        "actual_memory_ids": [
+          20015
+        ],
+        "predicted_texts": [
+          "Patricia<user> has a mother<mom> in Chicago<city>",
+          "Patricia<user> hasn't visited mother<mom> in eight months"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 15,
+        "question": "How do you feel about leaving your family for university?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          20005,
+          4045,
+          20010,
+          20018,
+          20020
+        ],
+        "actual_memory_ids": [
+          20016
+        ],
+        "predicted_texts": [
+          "Patricia<user> is in the first year of university",
+          "Patricia<user> is a student at a university<place>",
+          "Patricia<user> met Emma<friend> during the first week at university",
+          "Doing well academically is very important to Patricia<user>",
+          "Patricia<user> is considering switching major to marine biology<subject>"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 16,
+        "question": "Who is your roommate?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          24017,
+          20017,
+          20005,
+          4045,
+          20010
+        ],
+        "actual_memory_ids": [
+          20017
+        ],
+        "predicted_texts": [
+          "Sarah<roommate> is often inconsiderate",
+          "Patricia<user> wants to tell Sarah<roommate> that noise and constant disruptions make it hard to focus on studies",
+          "Patricia<user> is in the first year of university",
+          "Patricia<user> is a student at a university<place>",
+          "Patricia<user> met Emma<friend> during the first week at university"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 17,
+        "question": "What is Sarah like?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          24017,
+          20013,
+          20017,
+          20009,
+          20121
+        ],
+        "actual_memory_ids": [
+          24017
+        ],
+        "predicted_texts": [
+          "Sarah<roommate> is often inconsiderate",
+          "Patricia<user> struggles with anxiety in social situations",
+          "Patricia<user> wants to tell Sarah<roommate> that noise and constant disruptions make it hard to focus on studies",
+          "Emma<friend> has health issues",
+          "Patricia<user> has a close friend named Emma<friend>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 18,
+        "question": "What class are you falling behind in?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          20006,
+          20020,
+          20018,
+          20005,
+          20017
+        ],
+        "actual_memory_ids": [
+          20018
+        ],
+        "predicted_texts": [
+          "Patricia<user> is studying environmental science<subject>",
+          "Patricia<user> is considering switching major to marine biology<subject>",
+          "Doing well academically is very important to Patricia<user>",
+          "Patricia<user> is in the first year of university",
+          "Patricia<user> wants to tell Sarah<roommate> that noise and constant disruptions make it hard to focus on studies"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 19,
+        "question": "Who do you have a crush on?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          20019,
+          20121,
+          20009
+        ],
+        "actual_memory_ids": [
+          20019
+        ],
+        "predicted_texts": [
+          "Maya<user> has a crush on James<romantic_interest>",
+          "Patricia<user> has a close friend named Emma<friend>",
+          "Emma<friend> has health issues"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 20,
+        "question": "What degree are you considering switching to?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          20020,
+          20006,
+          20018,
+          20005,
+          4045
+        ],
+        "actual_memory_ids": [
+          20020
+        ],
+        "predicted_texts": [
+          "Patricia<user> is considering switching major to marine biology<subject>",
+          "Patricia<user> is studying environmental science<subject>",
+          "Doing well academically is very important to Patricia<user>",
+          "Patricia<user> is in the first year of university",
+          "Patricia<user> is a student at a university<place>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 21,
+        "question": "How far away are you now from where you grew up?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          20003,
+          20015,
+          20016
+        ],
+        "actual_memory_ids": [
+          20003,
+          20004
+        ],
+        "predicted_texts": [
+          "Patricia<user> has moved to London<city>",
+          "Patricia<user> hasn't visited mother<mom> in eight months",
+          "Patricia<user> has a mother<mom> in Chicago<city>"
+        ],
+        "accuracy": 0.5
+      },
+      {
+        "question_id": 22,
+        "question": "How long have you been in university and wha are you studying?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          20005,
+          20006,
+          4045,
+          20020,
+          20010
+        ],
+        "actual_memory_ids": [
+          20006,
+          20005
+        ],
+        "predicted_texts": [
+          "Patricia<user> is in the first year of university",
+          "Patricia<user> is studying environmental science<subject>",
+          "Patricia<user> is a student at a university<place>",
+          "Patricia<user> is considering switching major to marine biology<subject>",
+          "Patricia<user> met Emma<friend> during the first week at university"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 23,
+        "question": "Describe your best friend's health condition.",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          20009,
+          20121,
+          20013,
+          20015,
+          20010
+        ],
+        "actual_memory_ids": [
+          20121,
+          20009
+        ],
+        "predicted_texts": [
+          "Emma<friend> has health issues",
+          "Patricia<user> has a close friend named Emma<friend>",
+          "Patricia<user> struggles with anxiety in social situations",
+          "Patricia<user> hasn't visited mother<mom> in eight months",
+          "Patricia<user> met Emma<friend> during the first week at university"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 24,
+        "question": "Whats a good place for you to meet new people to possibly date?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          20007,
+          20010
+        ],
+        "actual_memory_ids": [
+          20007,
+          20019
+        ],
+        "predicted_texts": [
+          "Patricia<user> has a part-time job at a caf\u00e9<place>",
+          "Patricia<user> met Emma<friend> during the first week at university"
+        ],
+        "accuracy": 0.5
+      },
+      {
+        "question_id": 25,
+        "question": "Does your job relate to your personal interests?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          20007,
+          20006,
+          20020,
+          20008,
+          20018
+        ],
+        "actual_memory_ids": [
+          20007,
+          20008
+        ],
+        "predicted_texts": [
+          "Patricia<user> has a part-time job at a caf\u00e9<place>",
+          "Patricia<user> is studying environmental science<subject>",
+          "Patricia<user> is considering switching major to marine biology<subject>",
+          "Patricia<user> is passionate about climate activism",
+          "Doing well academically is very important to Patricia<user>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 27,
+        "question": "What academic challenges are you facing and what are you doing about it?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          20018,
+          20017,
+          20020,
+          20006,
+          4045
+        ],
+        "actual_memory_ids": [
+          20018,
+          20020
+        ],
+        "predicted_texts": [
+          "Doing well academically is very important to Patricia<user>",
+          "Patricia<user> wants to tell Sarah<roommate> that noise and constant disruptions make it hard to focus on studies",
+          "Patricia<user> is considering switching major to marine biology<subject>",
+          "Patricia<user> is studying environmental science<subject>",
+          "Patricia<user> is a student at a university<place>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 32,
+        "question": "What are the challenges you face in your academic, personal and social life?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          20013,
+          20018,
+          20017,
+          4045,
+          20005
+        ],
+        "actual_memory_ids": [
+          20018,
+          20013,
+          24017
+        ],
+        "predicted_texts": [
+          "Patricia<user> struggles with anxiety in social situations",
+          "Doing well academically is very important to Patricia<user>",
+          "Patricia<user> wants to tell Sarah<roommate> that noise and constant disruptions make it hard to focus on studies",
+          "Patricia<user> is a student at a university<place>",
+          "Patricia<user> is in the first year of university"
+        ],
+        "accuracy": 0.6666666666666666
+      },
+      {
+        "question_id": 33,
+        "question": "Describe the key friends in your life and what is going on with them?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          20121,
+          20009,
+          20010,
+          20013,
+          20019
+        ],
+        "actual_memory_ids": [
+          20121,
+          20009,
+          20017,
+          24017
+        ],
+        "predicted_texts": [
+          "Patricia<user> has a close friend named Emma<friend>",
+          "Emma<friend> has health issues",
+          "Patricia<user> met Emma<friend> during the first week at university",
+          "Patricia<user> struggles with anxiety in social situations",
+          "Maya<user> has a crush on James<romantic_interest>"
+        ],
+        "accuracy": 0.5
+      },
+      {
+        "question_id": 35,
+        "question": "What are your feelings about your family and your academic future?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          20018,
+          20020,
+          20006,
+          4045,
+          20005
+        ],
+        "actual_memory_ids": [
+          20016,
+          20015,
+          20020
+        ],
+        "predicted_texts": [
+          "Doing well academically is very important to Patricia<user>",
+          "Patricia<user> is considering switching major to marine biology<subject>",
+          "Patricia<user> is studying environmental science<subject>",
+          "Patricia<user> is a student at a university<place>",
+          "Patricia<user> is in the first year of university"
+        ],
+        "accuracy": 0.3333333333333333
+      },
+      {
+        "question_id": 36,
+        "question": "What are your passions, and how do they relate to your studies and work?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          20006,
+          20008,
+          20018,
+          20020,
+          4045
+        ],
+        "actual_memory_ids": [
+          20008,
+          20006,
+          20007
+        ],
+        "predicted_texts": [
+          "Patricia<user> is studying environmental science<subject>",
+          "Patricia<user> is passionate about climate activism",
+          "Doing well academically is very important to Patricia<user>",
+          "Patricia<user> is considering switching major to marine biology<subject>",
+          "Patricia<user> is a student at a university<place>"
+        ],
+        "accuracy": 0.6666666666666666
+      }
+    ]
+  },
+  {
+    "person_id": 5,
+    "questions": [
+      {
+        "question_id": 1,
+        "question": "What is your name?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          30002,
+          30019,
+          30013
+        ],
+        "actual_memory_ids": [
+          30001
+        ],
+        "predicted_texts": [
+          "Maya<user> is 28 years old",
+          "Jima<father> is Maya<user>'s father"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 2,
+        "question": "How old are you?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          30002
+        ],
+        "actual_memory_ids": [
+          30002
+        ],
+        "predicted_texts": [
+          "Maya<user> is 28 years old"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 3,
+        "question": "Where do you live?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          30016,
+          30003
+        ],
+        "actual_memory_ids": [
+          30003
+        ],
+        "predicted_texts": [
+          "Maya<user> studied communications in university<place>",
+          "Maya<user> is considering meeting up with Carolina<friend> in Buenos Aires<city>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 4,
+        "question": "What sport do you play professionally?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          30004,
+          30018,
+          30017,
+          30005,
+          3290,
+          30012,
+          30020
+        ],
+        "actual_memory_ids": [
+          30004
+        ],
+        "predicted_texts": [
+          "Maya<user> plays for Argentina's national team<team>",
+          "Maya<user> is considering retiring from playing soccer",
+          "Maya<user> is afraid of losing the connection to soccer as a player",
+          "Maya<user> is a midfielder<position>",
+          "Simon<physiotherapist> is Maya<user>'s team's physiotherapist"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 5,
+        "question": "What position do you play?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          3290,
+          30017,
+          30005,
+          30004,
+          30008,
+          30017,
+          30005
+        ],
+        "actual_memory_ids": [
+          30005
+        ],
+        "predicted_texts": [
+          "Maya<user> is a midfielder<position>",
+          "Maya<user> is worried about losing the starting position in soccer",
+          "Maya<user> plays for Argentina's national team<team>",
+          "Maya<user> wears the number 10 jersey<number> in memory of Jenna<sister>",
+          "Maya<user> is afraid of losing the connection to soccer as a player"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 6,
+        "question": "What new role did you start at ESPN?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          30006,
+          30009,
+          3290
+        ],
+        "actual_memory_ids": [
+          30006
+        ],
+        "predicted_texts": [
+          "Maya<user> is starting new broadcasting work",
+          "Maya<user>'s father<coach> was her first coach<role>",
+          "Maya<user> is a midfielder<position>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 7,
+        "question": "What happened to your younger sister?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          30007,
+          30014,
+          30008,
+          30015,
+          30011,
+          30011
+        ],
+        "actual_memory_ids": [
+          30007
+        ],
+        "predicted_texts": [
+          "Jenna<sister> passed away in a car accident three years ago",
+          "Maya<user> wears the number 10 jersey<number> in memory of Jenna<sister>",
+          "Maya<user> mentors young girls from poor neighborhoods",
+          "Carolina<friend> has been distant lately",
+          "Maya<user> and Carolina<friend> have known each other since they were kids"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 8,
+        "question": "What jersey number do you wear?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          30008,
+          30004,
+          30018
+        ],
+        "actual_memory_ids": [
+          30008
+        ],
+        "predicted_texts": [
+          "Maya<user> wears the number 10 jersey<number> in memory of Jenna<sister>",
+          "Maya<user> plays for Argentina's national team<team>",
+          "Maya<user> is considering retiring from playing soccer"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 9,
+        "question": "Who was your first soccer coach?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          30009,
+          30017,
+          30005,
+          30018,
+          30009,
+          30017,
+          30005
+        ],
+        "actual_memory_ids": [
+          30009
+        ],
+        "predicted_texts": [
+          "Maya<user>'s father<coach> was her first coach<role>",
+          "Maya<user> is afraid of losing the connection to soccer as a player",
+          "Maya<user> is considering retiring from playing soccer",
+          "Jima<father> knew how to calm Maya<user>'s nerves before big games",
+          "Maya<user> is worried about losing the starting position in soccer"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 10,
+        "question": "What health condition does your father have?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          30019,
+          30013,
+          30009
+        ],
+        "actual_memory_ids": [
+          30010
+        ],
+        "predicted_texts": [
+          "Jima<father> is Maya<user>'s father",
+          "Jima<father> knew how to calm Maya<user>'s nerves before big games"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 11,
+        "question": "Who is jealous of your success?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          30011,
+          30019,
+          30013
+        ],
+        "actual_memory_ids": [
+          30011
+        ],
+        "predicted_texts": [
+          "Carolina<friend> might be feeling jealous of Maya<user>'s opportunities",
+          "Lucia<user> was told by Jima<father> to stay true to herself"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 12,
+        "question": "Who are you dating?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          30011,
+          30012,
+          30020,
+          30011,
+          30011,
+          30003
+        ],
+        "actual_memory_ids": [
+          30012
+        ],
+        "predicted_texts": [
+          "Carolina<friend> has been distant lately",
+          "Maya<user> has been leaning on Simon<physiotherapist> for support",
+          "Carolina<friend> is Maya<user>'s best friend",
+          "Maya<user> and Carolina<friend> have known each other since they were kids",
+          "Maya<user> is considering meeting up with Carolina<friend> in Buenos Aires<city>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 13,
+        "question": "What do you feel guilty about?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          30011
+        ],
+        "actual_memory_ids": [
+          30013
+        ],
+        "predicted_texts": [
+          "Carolina<friend> might be feeling jealous of Maya<user>'s opportunities"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 14,
+        "question": "What is your younger sister's name?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          30007,
+          30014,
+          30008,
+          30015,
+          30011,
+          30002
+        ],
+        "actual_memory_ids": [
+          30014
+        ],
+        "predicted_texts": [
+          "Jenna<sister> passed away in a car accident three years ago",
+          "Maya<user> wears the number 10 jersey<number> in memory of Jenna<sister>",
+          "Maya<user> mentors young girls from poor neighborhoods",
+          "Maya<user> and Carolina<friend> have known each other since they were kids",
+          "Maya<user> is 28 years old"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 15,
+        "question": "Who do you mentor?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          30015,
+          30009,
+          30012,
+          30020,
+          30017,
+          30005,
+          30011
+        ],
+        "actual_memory_ids": [
+          30015
+        ],
+        "predicted_texts": [
+          "Maya<user> mentors young girls from poor neighborhoods",
+          "Maya<user>'s father<coach> was her first coach<role>",
+          "Maya<user> has been leaning on Simon<physiotherapist> for support",
+          "Maya<user> is afraid of letting down the team",
+          "Maya<user> and Carolina<friend> have known each other since they were kids"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 16,
+        "question": "What did you study in university?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          30016
+        ],
+        "actual_memory_ids": [
+          30016
+        ],
+        "predicted_texts": [
+          "Maya<user> studied communications in university<place>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 17,
+        "question": "How do you feel about your position on the team?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          30017,
+          30005,
+          30017,
+          30005,
+          3290,
+          30017,
+          30005,
+          30004
+        ],
+        "actual_memory_ids": [
+          30017
+        ],
+        "predicted_texts": [
+          "Maya<user> is worried about losing the starting position in soccer",
+          "Maya<user> is afraid of letting down the team",
+          "Maya<user> is a midfielder<position>",
+          "Maya<user> is afraid of losing the connection to soccer as a player",
+          "Maya<user> plays for Argentina's national team<team>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 18,
+        "question": "What would you do after retiring?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          30018
+        ],
+        "actual_memory_ids": [
+          30018
+        ],
+        "predicted_texts": [
+          "Maya<user> is considering retiring from playing soccer"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 19,
+        "question": "What is your dad's name?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          30019,
+          30013,
+          30009,
+          30009,
+          30019,
+          30013
+        ],
+        "actual_memory_ids": [
+          30019
+        ],
+        "predicted_texts": [
+          "Jima<father> is Maya<user>'s father",
+          "Jima<father> knew how to calm Maya<user>'s nerves before big games",
+          "Maya<user>'s father<coach> was her first coach<role>",
+          "Lucia<user> was told by Jima<father> to stay true to herself"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 20,
+        "question": "What is your boyfriend's name?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          30012,
+          30020,
+          30019,
+          30013
+        ],
+        "actual_memory_ids": [
+          30020
+        ],
+        "predicted_texts": [
+          "Maya<user> has been leaning on Simon<physiotherapist> for support",
+          "Jima<father> is Maya<user>'s father"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 21,
+        "question": "What position do you play for your sport?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          3290,
+          30017,
+          30005,
+          30004,
+          30008,
+          30018
+        ],
+        "actual_memory_ids": [
+          30004,
+          30005
+        ],
+        "predicted_texts": [
+          "Maya<user> is a midfielder<position>",
+          "Maya<user> is worried about losing the starting position in soccer",
+          "Maya<user> plays for Argentina's national team<team>",
+          "Maya<user> wears the number 10 jersey<number> in memory of Jenna<sister>",
+          "Maya<user> is considering retiring from playing soccer"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 22,
+        "question": "What role did you start at ESPN and what is a con with working at ESPN?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          30006,
+          30009,
+          30016
+        ],
+        "actual_memory_ids": [
+          30006,
+          30013
+        ],
+        "predicted_texts": [
+          "Maya<user> is starting new broadcasting work",
+          "Maya<user>'s father<coach> was her first coach<role>",
+          "Maya<user> studied communications in university<place>"
+        ],
+        "accuracy": 0.5
+      },
+      {
+        "question_id": 23,
+        "question": "What is your father's health condition and what was his role in your soccer career?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          30009,
+          30009,
+          30018,
+          30017,
+          30005,
+          30012,
+          30020
+        ],
+        "actual_memory_ids": [
+          30009,
+          30010
+        ],
+        "predicted_texts": [
+          "Maya<user>'s father<coach> was her first coach<role>",
+          "Jima<father> knew how to calm Maya<user>'s nerves before big games",
+          "Maya<user> is considering retiring from playing soccer",
+          "Maya<user> is afraid of losing the connection to soccer as a player",
+          "Simon<physiotherapist> is Maya<user>'s team's physiotherapist"
+        ],
+        "accuracy": 0.5
+      },
+      {
+        "question_id": 24,
+        "question": "What is your jersey number and why do you wear it?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          30008,
+          30018
+        ],
+        "actual_memory_ids": [
+          30008,
+          30007
+        ],
+        "predicted_texts": [
+          "Maya<user> wears the number 10 jersey<number> in memory of Jenna<sister>",
+          "Maya<user> is considering retiring from playing soccer"
+        ],
+        "accuracy": 0.5
+      },
+      {
+        "question_id": 25,
+        "question": "Who is jealous of your success and who are you dating?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          30011,
+          30019,
+          30013
+        ],
+        "actual_memory_ids": [
+          30011,
+          30012
+        ],
+        "predicted_texts": [
+          "Carolina<friend> might be feeling jealous of Maya<user>'s opportunities",
+          "Lucia<user> was told by Jima<father> to stay true to herself"
+        ],
+        "accuracy": 0.5
+      },
+      {
+        "question_id": 26,
+        "question": "What did you study in university and what is your new role at ESPN?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          30016,
+          30009,
+          30006,
+          30018,
+          3290
+        ],
+        "actual_memory_ids": [
+          30016,
+          30006
+        ],
+        "predicted_texts": [
+          "Maya<user> studied communications in university<place>",
+          "Maya<user>'s father<coach> was her first coach<role>",
+          "Maya<user> is starting new broadcasting work",
+          "Maya<user> is interested in broadcasting<field>",
+          "Maya<user> is a midfielder<position>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 27,
+        "question": "How is your career, how long do you plan to stay and what do you plan to do afterwards?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          30016,
+          30018
+        ],
+        "actual_memory_ids": [
+          30017,
+          30018
+        ],
+        "predicted_texts": [
+          "Maya<user> studied communications in university<place>",
+          "Maya<user> is considering retiring from playing soccer"
+        ],
+        "accuracy": 0.5
+      },
+      {
+        "question_id": 32,
+        "question": "How did your education and career shape the work you do at ESPN?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          30016,
+          30009
+        ],
+        "actual_memory_ids": [
+          30006,
+          30016,
+          30013
+        ],
+        "predicted_texts": [
+          "Maya<user> studied communications in university<place>",
+          "Maya<user>'s father<coach> was her first coach<role>"
+        ],
+        "accuracy": 0.3333333333333333
+      },
+      {
+        "question_id": 33,
+        "question": "What is your father's name, his health condition, and his role in your soccer career?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          30009,
+          30009,
+          30018,
+          30017,
+          30005,
+          30019,
+          30013
+        ],
+        "actual_memory_ids": [
+          30019,
+          30010,
+          30009
+        ],
+        "predicted_texts": [
+          "Maya<user>'s father<coach> was her first coach<role>",
+          "Jima<father> knew how to calm Maya<user>'s nerves before big games",
+          "Maya<user> is considering retiring from playing soccer",
+          "Maya<user> is afraid of losing the connection to soccer as a player",
+          "Jima<father> is Maya<user>'s father"
+        ],
+        "accuracy": 0.6666666666666666
+      },
+      {
+        "question_id": 34,
+        "question": "What does  jersey number, why do you wear it, and what happened to your sister?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          30008,
+          30007,
+          30014,
+          30018,
+          30019,
+          30013,
+          30017,
+          30005
+        ],
+        "actual_memory_ids": [
+          30008,
+          30007,
+          30014
+        ],
+        "predicted_texts": [
+          "Maya<user> wears the number 10 jersey<number> in memory of Jenna<sister>",
+          "Jenna<sister> passed away in a car accident three years ago",
+          "Maya<user> is considering retiring from playing soccer",
+          "Lucia<user> was told by Jima<father> to stay true to herself",
+          "Maya<user> is afraid of losing the connection to soccer as a player"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 36,
+        "question": "Your performance has been getting worse over the years, any thoughts on that and what you would do next?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          30018
+        ],
+        "actual_memory_ids": [
+          30017,
+          30018,
+          30006
+        ],
+        "predicted_texts": [
+          "Maya<user> is considering retiring from playing soccer"
+        ],
+        "accuracy": 0.3333333333333333
+      },
+      {
+        "question_id": 37,
+        "question": "Tell me all about your dad?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          30019,
+          30013,
+          30009,
+          30019,
+          30013,
+          30009
+        ],
+        "actual_memory_ids": [
+          30010,
+          30019,
+          30009
+        ],
+        "predicted_texts": [
+          "Jima<father> is Maya<user>'s father",
+          "Jima<father> knew how to calm Maya<user>'s nerves before big games",
+          "Lucia<user> was told by Jima<father> to stay true to herself",
+          "Maya<user>'s father<coach> was her first coach<role>"
+        ],
+        "accuracy": 0.6666666666666666
+      }
+    ]
+  },
+  {
+    "person_id": 6,
+    "questions": [
+      {
+        "question_id": 1,
+        "question": "What is your name?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          40002,
+          40023,
+          40008
+        ],
+        "actual_memory_ids": [
+          40001
+        ],
+        "predicted_texts": [
+          "Lucia<user> is 42 years old",
+          "Rosa<mother> taught Lucia<user> recipes",
+          "Sofia<wife> is 38 years old"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 2,
+        "question": "How old are you?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          40002,
+          40008,
+          40010,
+          40006
+        ],
+        "actual_memory_ids": [
+          40002
+        ],
+        "predicted_texts": [
+          "Lucia<user> is 42 years old",
+          "Sofia<wife> is 38 years old",
+          "Luca<son> is 7 years old",
+          "Lucia<user> came to America<country> 15 years ago"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 3,
+        "question": "What is the name of your restaurant?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          5795,
+          40004,
+          40003,
+          40019,
+          30001,
+          40007,
+          1819,
+          5313
+        ],
+        "actual_memory_ids": [
+          40003
+        ],
+        "predicted_texts": [
+          "Lucia<user> runs a restaurant<business>",
+          "Lucia<user> specializes in Neapolitan cuisine",
+          "Sofia<wife> helps manage the restaurant's finances",
+          "Lucia<user> plans to start with homemade pasta<recipe>",
+          "Esposito<family> family's pasta<recipe> has been passed down for generations"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 4,
+        "question": "What type of cuisine does your restaurant specialize in?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          40004,
+          40003,
+          5795,
+          1819,
+          40019,
+          30001,
+          40007,
+          5313
+        ],
+        "actual_memory_ids": [
+          40004
+        ],
+        "predicted_texts": [
+          "Lucia<user> specializes in Neapolitan cuisine",
+          "Lucia<user> runs a restaurant<business>",
+          "Lucia<user> plans to start with homemade pasta<recipe>",
+          "Sofia<wife> helps manage the restaurant's finances",
+          "Esposito<family> family's pasta<recipe> has been passed down for generations"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 5,
+        "question": "Where did you immigrate from?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          40006,
+          40102,
+          43403,
+          40105,
+          40101,
+          40005
+        ],
+        "actual_memory_ids": [
+          40005
+        ],
+        "predicted_texts": [
+          "Lucia<user> came to America<country> 15 years ago",
+          "Lucia<user> moved to Chicago<city> after living in Boston<city>",
+          "Lucia<user> moved to Brooklyn<city> seven years ago",
+          "Lucia<user> lived in Boston<city> for two years",
+          "Lucia<user> is from Naples<city>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 6,
+        "question": "How many years ago did you move to America?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          40006,
+          40105,
+          40101,
+          40102,
+          43403
+        ],
+        "actual_memory_ids": [
+          40006
+        ],
+        "predicted_texts": [
+          "Lucia<user> came to America<country> 15 years ago",
+          "Lucia<user> moved to Brooklyn<city> seven years ago",
+          "Lucia<user> lived in Boston<city> for two years",
+          "Lucia<user> moved to Chicago<city> after living in Boston<city>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 7,
+        "question": "Which city did you first live in when you came to America?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          40102,
+          43403,
+          40006,
+          40101,
+          40105,
+          40005
+        ],
+        "actual_memory_ids": [
+          40101
+        ],
+        "predicted_texts": [
+          "Lucia<user> moved to Chicago<city> after living in Boston<city>",
+          "Lucia<user> came to America<country> 15 years ago",
+          "Lucia<user> lived in Boston<city> for two years",
+          "Lucia<user> moved to Brooklyn<city> seven years ago",
+          "Lucia<user> is from Naples<city>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 8,
+        "question": "After living in Boston, which city did you move to?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          40102,
+          43403,
+          40101,
+          40105,
+          40006,
+          40005
+        ],
+        "actual_memory_ids": [
+          40102
+        ],
+        "predicted_texts": [
+          "Lucia<user> moved to Chicago<city> after living in Boston<city>",
+          "Lucia<user> lived in Boston<city> for two years",
+          "Lucia<user> moved to Brooklyn<city> seven years ago",
+          "Lucia<user> came to America<country> 15 years ago",
+          "Lucia<user> is from Naples<city>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 9,
+        "question": "What was your job in Chicago?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          40102,
+          43403,
+          40101,
+          40105
+        ],
+        "actual_memory_ids": [
+          43403
+        ],
+        "predicted_texts": [
+          "Lucia<user> moved to Chicago<city> after living in Boston<city>",
+          "Lucia<user> lived in Boston<city> for two years",
+          "Lucia<user> moved to Brooklyn<city> seven years ago"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 10,
+        "question": "How many years ago did you move to Brooklyn?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          40105,
+          40101,
+          40006,
+          40102,
+          43403
+        ],
+        "actual_memory_ids": [
+          40105
+        ],
+        "predicted_texts": [
+          "Lucia<user> moved to Brooklyn<city> seven years ago",
+          "Lucia<user> lived in Boston<city> for two years",
+          "Lucia<user> came to America<country> 15 years ago",
+          "Lucia<user> moved to Chicago<city> after living in Boston<city>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 11,
+        "question": "What is your wife's name?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          40008,
+          40019,
+          30001,
+          40007,
+          40023
+        ],
+        "actual_memory_ids": [
+          40007
+        ],
+        "predicted_texts": [
+          "Sofia<wife> is 38 years old",
+          "Sofia<wife> helps manage the restaurant's finances",
+          "Rosa<mother> taught Lucia<user> recipes"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 12,
+        "question": "How old is Sofia?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          40008,
+          40019,
+          30001,
+          40007,
+          40010,
+          40002,
+          40006
+        ],
+        "actual_memory_ids": [
+          40008
+        ],
+        "predicted_texts": [
+          "Sofia<wife> is 38 years old",
+          "Sofia<wife> helps manage the restaurant's finances",
+          "Luca<son> is 7 years old",
+          "Lucia<user> is 42 years old",
+          "Lucia<user> came to America<country> 15 years ago"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 13,
+        "question": "What is your son's name?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          40010,
+          40010,
+          40009
+        ],
+        "actual_memory_ids": [
+          40009
+        ],
+        "predicted_texts": [
+          "Luca<son> is 7 years old",
+          "Luca<son> is showing an interest in cooking",
+          "Lucia<user> plans to dedicate Sunday afternoons to cooking with Luca<son>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 14,
+        "question": "How old is Luca?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          40010,
+          40010,
+          40002,
+          40009,
+          40006
+        ],
+        "actual_memory_ids": [
+          40010
+        ],
+        "predicted_texts": [
+          "Luca<son> is 7 years old",
+          "Luca<son> is showing an interest in cooking",
+          "Lucia<user> is 42 years old",
+          "Lucia<user> plans to dedicate Sunday afternoons to cooking with Luca<son>",
+          "Lucia<user> came to America<country> 15 years ago"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 15,
+        "question": "Outside of your family who is your friend?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          40014,
+          40005,
+          40019,
+          30001,
+          40007
+        ],
+        "actual_memory_ids": [
+          40014
+        ],
+        "predicted_texts": [
+          "Antonio<friend> is a close friend<friend> of Lucia<user> from childhood",
+          "Lucia<user> wants to find someone who reminds her of Antonio<friend> from Naples<city>",
+          "Sofia<wife> helps manage the restaurant's finances"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 16,
+        "question": "From whom did you learn cooking?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          40015,
+          40023,
+          40010,
+          40009,
+          40023
+        ],
+        "actual_memory_ids": [
+          40015
+        ],
+        "predicted_texts": [
+          "Lucia<user> learned recipes from her grandmother<relative>",
+          "Rosa<mother> taught Lucia<user> recipes",
+          "Luca<son> is showing an interest in cooking",
+          "Lucia<user> plans to dedicate Sunday afternoons to cooking with Luca<son>",
+          "Lucia<user> plans to video call Rosa<mother> in Italy<country> during cooking sessions"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 17,
+        "question": "What role does your wife have in the restaurant?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          40019,
+          30001,
+          40007,
+          5795,
+          40004,
+          40003,
+          40008,
+          40023
+        ],
+        "actual_memory_ids": [
+          40019
+        ],
+        "predicted_texts": [
+          "Sofia<wife> helps manage the restaurant's finances",
+          "Lucia<user> runs a restaurant<business>",
+          "Lucia<user> specializes in Neapolitan cuisine",
+          "Sofia<wife> is 38 years old",
+          "Rosa<mother> taught Lucia<user> recipes"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 18,
+        "question": "How old is your wife?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          40008,
+          40002,
+          40019,
+          30001,
+          40007,
+          40010
+        ],
+        "actual_memory_ids": [
+          40020
+        ],
+        "predicted_texts": [
+          "Sofia<wife> is 38 years old",
+          "Lucia<user> is 42 years old",
+          "Sofia<wife> helps manage the restaurant's finances",
+          "Luca<son> is 7 years old"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 19,
+        "question": "What do you do to help your mother?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          40023,
+          40022,
+          40023,
+          40019,
+          30001,
+          40007,
+          40009
+        ],
+        "actual_memory_ids": [
+          40022
+        ],
+        "predicted_texts": [
+          "Rosa<mother> taught Lucia<user> recipes",
+          "Lucia<user> sends money to support Rosa<mother> back in Naples<city>",
+          "Lucia<user> plans to video call Rosa<mother> in Italy<country> during cooking sessions",
+          "Sofia<wife> helps manage the restaurant's finances",
+          "Lucia<user> plans to dedicate Sunday afternoons to cooking with Luca<son>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 20,
+        "question": "What is your mother's name?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          40023,
+          40023,
+          40015,
+          40022,
+          40008
+        ],
+        "actual_memory_ids": [
+          40023
+        ],
+        "predicted_texts": [
+          "Rosa<mother> taught Lucia<user> recipes",
+          "Lucia<user> plans to video call Rosa<mother> in Italy<country> during cooking sessions",
+          "Lucia<user> learned recipes from her grandmother<relative>",
+          "Lucia<user> sends money to support Rosa<mother> back in Naples<city>",
+          "Sofia<wife> is 38 years old"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 21,
+        "question": "What is the age difference between you and your wife?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          40008,
+          40019,
+          30001,
+          40007,
+          40002,
+          40010
+        ],
+        "actual_memory_ids": [
+          40002,
+          40020
+        ],
+        "predicted_texts": [
+          "Sofia<wife> is 38 years old",
+          "Sofia<wife> helps manage the restaurant's finances",
+          "Lucia<user> is 42 years old",
+          "Luca<son> is 7 years old"
+        ],
+        "accuracy": 0.5
+      },
+      {
+        "question_id": 22,
+        "question": "Which cities have you lived in since moving to America?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          40102,
+          43403,
+          40101,
+          40105,
+          40006,
+          40005
+        ],
+        "actual_memory_ids": [
+          40101,
+          40102,
+          40105
+        ],
+        "predicted_texts": [
+          "Lucia<user> moved to Chicago<city> after living in Boston<city>",
+          "Lucia<user> lived in Boston<city> for two years",
+          "Lucia<user> moved to Brooklyn<city> seven years ago",
+          "Lucia<user> came to America<country> 15 years ago",
+          "Lucia<user> is from Naples<city>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 23,
+        "question": "Who in your family helps manage the restaurant, and what is their relation to you?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          40019,
+          30001,
+          40007,
+          5795,
+          40015,
+          5313,
+          40023
+        ],
+        "actual_memory_ids": [
+          40007,
+          40019
+        ],
+        "predicted_texts": [
+          "Sofia<wife> helps manage the restaurant's finances",
+          "Lucia<user> runs a restaurant<business>",
+          "Lucia<user> learned recipes from her grandmother<relative>",
+          "Esposito<family> family's pasta<recipe> has been passed down for generations",
+          "Rosa<mother> taught Lucia<user> recipes"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 24,
+        "question": "What is the name and cuisine of your restaurant?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          40004,
+          40003,
+          5795,
+          1819,
+          40019,
+          30001,
+          40007,
+          40010
+        ],
+        "actual_memory_ids": [
+          40003,
+          40004
+        ],
+        "predicted_texts": [
+          "Lucia<user> specializes in Neapolitan cuisine",
+          "Lucia<user> runs a restaurant<business>",
+          "Lucia<user> plans to start with homemade pasta<recipe>",
+          "Sofia<wife> helps manage the restaurant's finances",
+          "Luca<son> is showing an interest in cooking"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 25,
+        "question": "How long have you lived in Chicago?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          40102,
+          43403,
+          40101,
+          40105,
+          40006
+        ],
+        "actual_memory_ids": [
+          40101,
+          40006,
+          40102,
+          40105
+        ],
+        "predicted_texts": [
+          "Lucia<user> moved to Chicago<city> after living in Boston<city>",
+          "Lucia<user> lived in Boston<city> for two years",
+          "Lucia<user> moved to Brooklyn<city> seven years ago",
+          "Lucia<user> came to America<country> 15 years ago"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 26,
+        "question": "What are all of the places you've worked?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          40101,
+          40102,
+          43403
+        ],
+        "actual_memory_ids": [
+          43403,
+          40003
+        ],
+        "predicted_texts": [
+          "Lucia<user> lived in Boston<city> for two years",
+          "Lucia<user> moved to Chicago<city> after living in Boston<city>"
+        ],
+        "accuracy": 0.5
+      },
+      {
+        "question_id": 27,
+        "question": "What is your son's name, and how old is he?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          40010,
+          40010,
+          40009,
+          40008,
+          40002
+        ],
+        "actual_memory_ids": [
+          40009,
+          40010
+        ],
+        "predicted_texts": [
+          "Luca<son> is 7 years old",
+          "Luca<son> is showing an interest in cooking",
+          "Lucia<user> plans to dedicate Sunday afternoons to cooking with Luca<son>",
+          "Sofia<wife> is 38 years old",
+          "Lucia<user> is 42 years old"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 28,
+        "question": "Around how long ago did you learn how to cook?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          40015,
+          40010,
+          1819,
+          40009,
+          40023
+        ],
+        "actual_memory_ids": [
+          40015,
+          40002
+        ],
+        "predicted_texts": [
+          "Lucia<user> learned recipes from her grandmother<relative>",
+          "Luca<son> is showing an interest in cooking",
+          "Lucia<user> plans to start with homemade pasta<recipe>",
+          "Lucia<user> plans to dedicate Sunday afternoons to cooking with Luca<son>",
+          "Rosa<mother> taught Lucia<user> recipes"
+        ],
+        "accuracy": 0.5
+      },
+      {
+        "question_id": 29,
+        "question": "Does your mom live in the same city you grew up in?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          40102,
+          43403,
+          40101,
+          40105,
+          40022,
+          40005
+        ],
+        "actual_memory_ids": [
+          40005,
+          40022
+        ],
+        "predicted_texts": [
+          "Lucia<user> moved to Chicago<city> after living in Boston<city>",
+          "Lucia<user> lived in Boston<city> for two years",
+          "Lucia<user> moved to Brooklyn<city> seven years ago",
+          "Lucia<user> sends money to support Rosa<mother> back in Naples<city>",
+          "Lucia<user> is from Naples<city>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 30,
+        "question": "Where are all of the places you've lived in America?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          40102,
+          43403,
+          40101,
+          40006,
+          40105
+        ],
+        "actual_memory_ids": [
+          40006,
+          40101,
+          40102,
+          40105
+        ],
+        "predicted_texts": [
+          "Lucia<user> moved to Chicago<city> after living in Boston<city>",
+          "Lucia<user> lived in Boston<city> for two years",
+          "Lucia<user> came to America<country> 15 years ago",
+          "Lucia<user> moved to Brooklyn<city> seven years ago"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 32,
+        "question": "What are the influences on your cooking style?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          40010,
+          40015,
+          40009,
+          40004,
+          40003,
+          5313
+        ],
+        "actual_memory_ids": [
+          40015,
+          40005,
+          40004,
+          43403
+        ],
+        "predicted_texts": [
+          "Luca<son> is showing an interest in cooking",
+          "Lucia<user> learned recipes from her grandmother<relative>",
+          "Lucia<user> plans to dedicate Sunday afternoons to cooking with Luca<son>",
+          "Lucia<user> specializes in Neapolitan cuisine",
+          "Esposito<family> family's pasta<recipe> has been passed down for generations"
+        ],
+        "accuracy": 0.5
+      },
+      {
+        "question_id": 33,
+        "question": "How old were you and your wife when you had your first child?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          40008,
+          40010
+        ],
+        "actual_memory_ids": [
+          40002,
+          40010,
+          40008
+        ],
+        "predicted_texts": [
+          "Sofia<wife> is 38 years old",
+          "Luca<son> is 7 years old"
+        ],
+        "accuracy": 0.6666666666666666
+      },
+      {
+        "question_id": 36,
+        "question": "Make an encanto style rap about all of the people in your blood-related family and their age and lives",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          40023,
+          5313,
+          40015,
+          40010,
+          40022
+        ],
+        "actual_memory_ids": [
+          40009,
+          40010,
+          40019,
+          40008,
+          40020,
+          40001,
+          40002,
+          40022,
+          40023
+        ],
+        "predicted_texts": [
+          "Rosa<mother> taught Lucia<user> recipes",
+          "Esposito<family> family's pasta<recipe> has been passed down for generations",
+          "Lucia<user> learned recipes from her grandmother<relative>",
+          "Luca<son> is 7 years old",
+          "Lucia<user> sends money to support Rosa<mother> back in Naples<city>"
+        ],
+        "accuracy": 0.3333333333333333
+      }
+    ]
+  },
+  {
+    "person_id": 7,
+    "questions": [
+      {
+        "question_id": 1,
+        "question": "What is your name?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          50001,
+          50002,
+          50003
+        ],
+        "actual_memory_ids": [
+          50001
+        ],
+        "predicted_texts": [
+          "Oyo<nickname> is Lucia<user>'s nickname",
+          "Lucia<user> is 31"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 2,
+        "question": "How old are you?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          50002,
+          50003
+        ],
+        "actual_memory_ids": [
+          50002
+        ],
+        "predicted_texts": [
+          "Lucia<user> is 31"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 3,
+        "question": "Where do you live?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          5981,
+          5284,
+          50019,
+          6896
+        ],
+        "actual_memory_ids": [
+          50003
+        ],
+        "predicted_texts": [
+          "Lucia<user> works in Calgary<city>, Alberta<province>",
+          "Lucia<user> has a passion for painting landscapes around Calgary<city>",
+          "Kyle<ex-boyfriend> moved to Texas<state> for the rodeo circuit",
+          "Lucia<user> is considering getting involved with local farming communities or horse riding clubs"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 4,
+        "question": "What is your profession?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          50005,
+          50004,
+          50017,
+          50005,
+          50004,
+          50017,
+          5981,
+          6896,
+          50014
+        ],
+        "actual_memory_ids": [
+          50004
+        ],
+        "predicted_texts": [
+          "Lucia<user> is a large animal vet<profession>",
+          "Lucia<user> specializes in large animal care",
+          "Lucia<user> works in Calgary<city>, Alberta<province>",
+          "Lucia<user> is considering getting involved with local farming communities or horse riding clubs",
+          "Lucia<user> graduated from the University<institution> of Calgary"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 5,
+        "question": "What is your area of specialization in your profession?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          50005,
+          50004,
+          50017,
+          50005,
+          50004,
+          50017,
+          5981
+        ],
+        "actual_memory_ids": [
+          50005
+        ],
+        "predicted_texts": [
+          "Lucia<user> specializes in large animal care",
+          "Lucia<user> is a large animal vet<profession>",
+          "Lucia<user> works in Calgary<city>, Alberta<province>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 6,
+        "question": "What is the name of your ex-husband?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          50007,
+          50007,
+          50020,
+          50008,
+          50018
+        ],
+        "actual_memory_ids": [
+          50007
+        ],
+        "predicted_texts": [
+          "Mike<ex-husband> is Lucia<user>'s ex-husband",
+          "Mike<ex-husband> shared a sense of adventure and unpredictability",
+          "Lucia<user> dated Kyle<ex-boyfriend> before meeting Mike<ex-husband>",
+          "Rachel<friend> had an affair with Mike<ex-husband>",
+          "Kyle<ex-boyfriend> shared a sense of adventure and unpredictability"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 7,
+        "question": "What did Mike do that affected your relationship with him?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          50008,
+          50008,
+          50020,
+          50007,
+          50007
+        ],
+        "actual_memory_ids": [
+          50008
+        ],
+        "predicted_texts": [
+          "Rachel<friend> had an affair with Mike<ex-husband>",
+          "Lucia<user> feels betrayed by Rachel<friend> and Mike<ex-husband>",
+          "Lucia<user> dated Kyle<ex-boyfriend> before meeting Mike<ex-husband>",
+          "Mike<ex-husband> shared a sense of adventure and unpredictability",
+          "Mike<ex-husband> is Lucia<user>'s ex-husband"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 8,
+        "question": "What is the name of one of your exes?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          50007,
+          50020,
+          50018,
+          50008,
+          50007
+        ],
+        "actual_memory_ids": [
+          50009
+        ],
+        "predicted_texts": [
+          "Mike<ex-husband> is Lucia<user>'s ex-husband",
+          "Lucia<user> dated Kyle<ex-boyfriend> before meeting Mike<ex-husband>",
+          "Kyle<ex-boyfriend> shared a sense of adventure and unpredictability",
+          "Rachel<friend> had an affair with Mike<ex-husband>",
+          "Mike<ex-husband> shared a sense of adventure and unpredictability"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 9,
+        "question": "Who did you start dating after breaking up with Mike?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          50020,
+          50008,
+          50007,
+          50009,
+          50010,
+          50008
+        ],
+        "actual_memory_ids": [
+          50010
+        ],
+        "predicted_texts": [
+          "Lucia<user> dated Kyle<ex-boyfriend> before meeting Mike<ex-husband>",
+          "Rachel<friend> had an affair with Mike<ex-husband>",
+          "Mike<ex-husband> shared a sense of adventure and unpredictability",
+          "Tom<romantic_interest> is someone Lucia<user> started dating",
+          "Lucia<user> feels betrayed by Rachel<friend> and Mike<ex-husband>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 10,
+        "question": "What is the name of your current boyfriend?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          50012,
+          50011,
+          50018,
+          50020,
+          50009,
+          50010
+        ],
+        "actual_memory_ids": [
+          50011
+        ],
+        "predicted_texts": [
+          "James<boyfriend> is 6'5\"",
+          "James<boyfriend> is grounded and supportive",
+          "Kyle<ex-boyfriend> shared a sense of adventure and unpredictability",
+          "Lucia<user> dated Kyle<ex-boyfriend> before meeting Mike<ex-husband>",
+          "Tom<romantic_interest> is someone Lucia<user> started dating"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 11,
+        "question": "How tall is James?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          50012,
+          50011,
+          50012,
+          50011,
+          50011
+        ],
+        "actual_memory_ids": [
+          50012
+        ],
+        "predicted_texts": [
+          "James<boyfriend> is 6'5\"",
+          "James<boyfriend> is grounded and supportive",
+          "Lucia<user> acknowledges that James<boyfriend>'s height helps with carrying supplies",
+          "Lucia<user> is planning a weekend getaway with James<boyfriend>",
+          "Lucia<user> and James<boyfriend> might visit scenic spots on weekends"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 12,
+        "question": "How many horses do you have?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          50013,
+          50005,
+          50004,
+          50017,
+          6896,
+          50005,
+          50004,
+          50017
+        ],
+        "actual_memory_ids": [
+          50013
+        ],
+        "predicted_texts": [
+          "Lucia<user> owns three horses",
+          "Lucia<user> specializes in large animal care",
+          "Lucia<user> is considering getting involved with local farming communities or horse riding clubs",
+          "Lucia<user> is a large animal vet<profession>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 13,
+        "question": "From which university did you graduate?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          50014
+        ],
+        "actual_memory_ids": [
+          50014
+        ],
+        "predicted_texts": [
+          "Lucia<user> graduated from the University<institution> of Calgary"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 14,
+        "question": "What is the name of your former best friend?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          50015,
+          50008,
+          50008,
+          50015,
+          50018
+        ],
+        "actual_memory_ids": [
+          50015
+        ],
+        "predicted_texts": [
+          "Lucia<user> had a fallout with Rachel<friend>",
+          "Rachel<friend> had an affair with Mike<ex-husband>",
+          "Lucia<user> feels betrayed by Rachel<friend> and Mike<ex-husband>",
+          "Lucia<user> was really close to Rachel<friend>",
+          "Kyle<ex-boyfriend> shared a sense of adventure and unpredictability"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 15,
+        "question": "What does Rachel do for a living?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          50016,
+          50008,
+          50008,
+          50015,
+          50015
+        ],
+        "actual_memory_ids": [
+          50016
+        ],
+        "predicted_texts": [
+          "Rachel<friend> runs the local feed store",
+          "Rachel<friend> had an affair with Mike<ex-husband>",
+          "Lucia<user> feels betrayed by Rachel<friend> and Mike<ex-husband>",
+          "Lucia<user> had a fallout with Rachel<friend>",
+          "Lucia<user> was really close to Rachel<friend>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 16,
+        "question": "How far is the nearest large animal vet from you?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          50005,
+          50004,
+          50017,
+          50005,
+          50004,
+          50017,
+          50016,
+          6896
+        ],
+        "actual_memory_ids": [
+          50017
+        ],
+        "predicted_texts": [
+          "Lucia<user> is a large animal vet<profession>",
+          "Lucia<user> specializes in large animal care",
+          "Rachel<friend> runs the local feed store",
+          "Lucia<user> is considering getting involved with local farming communities or horse riding clubs"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 17,
+        "question": "What is the name of another ex of yours?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          50007,
+          50020,
+          50018,
+          50008,
+          50007
+        ],
+        "actual_memory_ids": [
+          50018
+        ],
+        "predicted_texts": [
+          "Mike<ex-husband> is Lucia<user>'s ex-husband",
+          "Lucia<user> dated Kyle<ex-boyfriend> before meeting Mike<ex-husband>",
+          "Kyle<ex-boyfriend> shared a sense of adventure and unpredictability",
+          "Rachel<friend> had an affair with Mike<ex-husband>",
+          "Mike<ex-husband> shared a sense of adventure and unpredictability"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 18,
+        "question": "Where did Kyle move to?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          50019,
+          50018,
+          50020,
+          50007,
+          5284
+        ],
+        "actual_memory_ids": [
+          50019
+        ],
+        "predicted_texts": [
+          "Kyle<ex-boyfriend> moved to Texas<state> for the rodeo circuit",
+          "Kyle<ex-boyfriend> shared a sense of adventure and unpredictability",
+          "Lucia<user> dated Kyle<ex-boyfriend> before meeting Mike<ex-husband>",
+          "Mike<ex-husband> shared a sense of adventure and unpredictability",
+          "Lucia<user> has a passion for painting landscapes around Calgary<city>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 19,
+        "question": "Who did you date before meeting Mike?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          50020,
+          50008,
+          50007,
+          50007,
+          50008
+        ],
+        "actual_memory_ids": [
+          50020
+        ],
+        "predicted_texts": [
+          "Lucia<user> dated Kyle<ex-boyfriend> before meeting Mike<ex-husband>",
+          "Rachel<friend> had an affair with Mike<ex-husband>",
+          "Mike<ex-husband> shared a sense of adventure and unpredictability",
+          "Mike<ex-husband> is Lucia<user>'s ex-husband",
+          "Lucia<user> feels betrayed by Rachel<friend> and Mike<ex-husband>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 20,
+        "question": "What is the name of your high school sweetheart?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          50023,
+          50018,
+          50009,
+          50010,
+          50008,
+          50020
+        ],
+        "actual_memory_ids": [
+          50023
+        ],
+        "predicted_texts": [
+          "Peter<high_school_sweetheart> was kind and steady",
+          "Kyle<ex-boyfriend> shared a sense of adventure and unpredictability",
+          "Tom<romantic_interest> is someone Lucia<user> started dating",
+          "Rachel<friend> had an affair with Mike<ex-husband>",
+          "Lucia<user> dated Kyle<ex-boyfriend> before meeting Mike<ex-husband>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 21,
+        "question": "Do you have any children?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          50024
+        ],
+        "actual_memory_ids": [
+          50024
+        ],
+        "predicted_texts": [
+          "Lucia<user> does not have any children"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 22,
+        "question": "How far is the city you live in now from where you went to university?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          50014,
+          5981,
+          50019,
+          5284
+        ],
+        "actual_memory_ids": [
+          50003,
+          50014
+        ],
+        "predicted_texts": [
+          "Lucia<user> graduated from the University<institution> of Calgary",
+          "Lucia<user> works in Calgary<city>, Alberta<province>",
+          "Kyle<ex-boyfriend> moved to Texas<state> for the rodeo circuit",
+          "Lucia<user> has a passion for painting landscapes around Calgary<city>"
+        ],
+        "accuracy": 0.5
+      },
+      {
+        "question_id": 23,
+        "question": "Why are you no longer friends with Rachel?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          50015,
+          50008,
+          50008,
+          50015,
+          50016
+        ],
+        "actual_memory_ids": [
+          50008,
+          50015,
+          50007
+        ],
+        "predicted_texts": [
+          "Lucia<user> had a fallout with Rachel<friend>",
+          "Rachel<friend> had an affair with Mike<ex-husband>",
+          "Lucia<user> feels betrayed by Rachel<friend> and Mike<ex-husband>",
+          "Lucia<user> was really close to Rachel<friend>",
+          "Rachel<friend> runs the local feed store"
+        ],
+        "accuracy": 0.6666666666666666
+      },
+      {
+        "question_id": 26,
+        "question": "Did any of your exs move cities after you?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          50019,
+          50018,
+          50020,
+          50007,
+          50007
+        ],
+        "actual_memory_ids": [
+          50018,
+          50019
+        ],
+        "predicted_texts": [
+          "Kyle<ex-boyfriend> moved to Texas<state> for the rodeo circuit",
+          "Kyle<ex-boyfriend> shared a sense of adventure and unpredictability",
+          "Lucia<user> dated Kyle<ex-boyfriend> before meeting Mike<ex-husband>",
+          "Mike<ex-husband> shared a sense of adventure and unpredictability",
+          "Mike<ex-husband> is Lucia<user>'s ex-husband"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 27,
+        "question": "Who do you know that runs their own business?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          50016,
+          6896
+        ],
+        "actual_memory_ids": [
+          50016,
+          50015
+        ],
+        "predicted_texts": [
+          "Rachel<friend> runs the local feed store",
+          "Lucia<user> is considering getting involved with local farming communities or horse riding clubs"
+        ],
+        "accuracy": 0.5
+      },
+      {
+        "question_id": 28,
+        "question": "If your pets get sick who do you know that can help them?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          50005,
+          50004,
+          50017,
+          50005,
+          50004,
+          50017,
+          50016
+        ],
+        "actual_memory_ids": [
+          50004,
+          50005,
+          50013
+        ],
+        "predicted_texts": [
+          "Lucia<user> specializes in large animal care",
+          "Lucia<user> is a large animal vet<profession>",
+          "Rachel<friend> runs the local feed store"
+        ],
+        "accuracy": 0.6666666666666666
+      },
+      {
+        "question_id": 30,
+        "question": "Do you like tall guys?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          50012,
+          50012
+        ],
+        "actual_memory_ids": [
+          50011,
+          50012
+        ],
+        "predicted_texts": [
+          "James<boyfriend> is 6'5\"",
+          "Lucia<user> acknowledges that James<boyfriend>'s height helps with carrying supplies"
+        ],
+        "accuracy": 0.5
+      },
+      {
+        "question_id": 31,
+        "question": "In order, name every single person you have dated?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          50020,
+          50009,
+          50010,
+          50012,
+          50008,
+          50023
+        ],
+        "actual_memory_ids": [
+          50023,
+          50018,
+          50011,
+          50009,
+          50007
+        ],
+        "predicted_texts": [
+          "Lucia<user> dated Kyle<ex-boyfriend> before meeting Mike<ex-husband>",
+          "Tom<romantic_interest> is someone Lucia<user> started dating",
+          "James<boyfriend> is 6'5\"",
+          "Rachel<friend> had an affair with Mike<ex-husband>",
+          "Peter<high_school_sweetheart> was kind and steady"
+        ],
+        "accuracy": 0.4
+      },
+      {
+        "question_id": 32,
+        "question": "Around how long have you been in Calgary?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          5284,
+          5981,
+          50014,
+          50019
+        ],
+        "actual_memory_ids": [
+          50003,
+          50014,
+          50004
+        ],
+        "predicted_texts": [
+          "Lucia<user> has a passion for painting landscapes around Calgary<city>",
+          "Lucia<user> works in Calgary<city>, Alberta<province>",
+          "Lucia<user> graduated from the University<institution> of Calgary",
+          "Kyle<ex-boyfriend> moved to Texas<state> for the rodeo circuit"
+        ],
+        "accuracy": 0.3333333333333333
+      },
+      {
+        "question_id": 33,
+        "question": "Who did you date before you got married?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          50020,
+          50007,
+          50023,
+          50007,
+          50008
+        ],
+        "actual_memory_ids": [
+          50020,
+          50007,
+          50023,
+          50010,
+          50011
+        ],
+        "predicted_texts": [
+          "Lucia<user> dated Kyle<ex-boyfriend> before meeting Mike<ex-husband>",
+          "Mike<ex-husband> shared a sense of adventure and unpredictability",
+          "Peter<high_school_sweetheart> was kind and steady",
+          "Mike<ex-husband> is Lucia<user>'s ex-husband",
+          "Rachel<friend> had an affair with Mike<ex-husband>"
+        ],
+        "accuracy": 0.6
+      }
+    ]
+  },
+  {
+    "person_id": 8,
+    "questions": [
+      {
+        "question_id": 1,
+        "question": "What is your name?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          60002,
+          60014,
+          9253
+        ],
+        "actual_memory_ids": [
+          60001
+        ],
+        "predicted_texts": [
+          "Lucia<user> is 45<age>",
+          "Isabella<mother> has been supportive",
+          "Lucia<user> feels they are getting to know Rafael<self>"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 2,
+        "question": "How old are you?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          60002,
+          60009
+        ],
+        "actual_memory_ids": [
+          60002
+        ],
+        "predicted_texts": [
+          "Lucia<user> is 45<age>",
+          "Pedro<son> is 15<age>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 3,
+        "question": "Where do you live?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          60003
+        ],
+        "actual_memory_ids": [
+          60003
+        ],
+        "predicted_texts": [
+          "Lucia<user> lives in S\u00e3o Paulo<city>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 4,
+        "question": "What is your profession?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          60004,
+          60010
+        ],
+        "actual_memory_ids": [
+          60004
+        ],
+        "predicted_texts": [
+          "Lucia<user> is a partner at Silva & Martinez Law<company>",
+          "Lucia<user> is considering exploring options for support from professional counselors or support groups"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 5,
+        "question": "When did you come out as gay?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          60005,
+          60012,
+          60011,
+          60021
+        ],
+        "actual_memory_ids": [
+          60005
+        ],
+        "predicted_texts": [
+          "Lucia<user> came out six months ago",
+          "Carlos<father> hasn't spoken to Lucia<user> since Lucia<user> came out",
+          "Lucia<user> is anxious about potentially losing clients<clients> due to her sexuality"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 6,
+        "question": "What is the name of your ex-wife?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          60014,
+          60004,
+          60007
+        ],
+        "actual_memory_ids": [
+          60006
+        ],
+        "predicted_texts": [
+          "Isabella<mother> has been supportive",
+          "Lucia<user> is a partner at Silva & Martinez Law<company>",
+          "Lucia<user> is on good terms with Maria<mother>"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 7,
+        "question": "How is your relationship with Maria?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          60007,
+          7492,
+          9253,
+          60015,
+          60016,
+          60010
+        ],
+        "actual_memory_ids": [
+          60007
+        ],
+        "predicted_texts": [
+          "Lucia<user> is on good terms with Maria<mother>",
+          "Maria<mother> has been supportive",
+          "Lucia<user> feels they are getting to know Rafael<self>",
+          "Lucia<user> considers Jo\u00e3o<friend> a great help",
+          "Lucia<user> wants to talk to Jo\u00e3o<friend> about approaching Pedro<son>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 8,
+        "question": "What is your son's name?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          60010,
+          60009,
+          60008,
+          60014,
+          60010
+        ],
+        "actual_memory_ids": [
+          60008
+        ],
+        "predicted_texts": [
+          "Pedro<son> seems distant",
+          "Pedro<son> is 15<age>",
+          "Pedro<son> is Lucia<user>'s son<relationship>",
+          "Isabella<mother> suggested giving Pedro<son> some time",
+          "Lucia<user> wants to talk to Jo\u00e3o<friend> about approaching Pedro<son>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 9,
+        "question": "How old is Pedro?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          60009,
+          60010,
+          60008,
+          60002,
+          60014
+        ],
+        "actual_memory_ids": [
+          60009
+        ],
+        "predicted_texts": [
+          "Pedro<son> is 15<age>",
+          "Pedro<son> seems distant",
+          "Pedro<son> is Lucia<user>'s son<relationship>",
+          "Lucia<user> is 45<age>",
+          "Isabella<mother> suggested giving Pedro<son> some time"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 10,
+        "question": "How does Pedro feel about your sexuality?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          60010,
+          60009,
+          60008,
+          60010,
+          60021
+        ],
+        "actual_memory_ids": [
+          60010
+        ],
+        "predicted_texts": [
+          "Pedro<son> seems distant",
+          "Pedro<son> is 15<age>",
+          "Pedro<son> is Lucia<user>'s son<relationship>",
+          "Lucia<user> wants to talk to Jo\u00e3o<friend> about approaching Pedro<son>",
+          "Lucia<user> is anxious about potentially losing clients<clients> due to her sexuality"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 11,
+        "question": "What is your father's name?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          60012,
+          60011,
+          60010,
+          60014,
+          60009,
+          60008
+        ],
+        "actual_memory_ids": [
+          60011
+        ],
+        "predicted_texts": [
+          "Carlos<father> hasn't spoken to Lucia<user> since Lucia<user> came out",
+          "Pedro<son> seems distant",
+          "Isabella<mother> has been supportive",
+          "Pedro<son> is 15<age>",
+          "Pedro<son> is Lucia<user>'s son<relationship>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 12,
+        "question": "How has your father reacted since you came out?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          60012,
+          60011,
+          60014,
+          7492,
+          60005,
+          60010
+        ],
+        "actual_memory_ids": [
+          60012
+        ],
+        "predicted_texts": [
+          "Carlos<father> hasn't spoken to Lucia<user> since Lucia<user> came out",
+          "Isabella<mother> has been supportive",
+          "Maria<mother> has been supportive",
+          "Lucia<user> came out six months ago",
+          "Pedro<son> seems distant"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 13,
+        "question": "What is your mother's name?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          7492,
+          60014,
+          60007,
+          60014,
+          60012,
+          60011
+        ],
+        "actual_memory_ids": [
+          60013
+        ],
+        "predicted_texts": [
+          "Maria<mother> has been supportive",
+          "Isabella<mother> has been supportive",
+          "Lucia<user> is on good terms with Maria<mother>",
+          "Isabella<mother> suggested giving Pedro<son> some time",
+          "Carlos<father> hasn't spoken to Lucia<user> since Lucia<user> came out"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 14,
+        "question": "How has Isabella reacted to your coming out?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          60014,
+          60012,
+          60011,
+          60014,
+          7492,
+          60005
+        ],
+        "actual_memory_ids": [
+          60014
+        ],
+        "predicted_texts": [
+          "Isabella<mother> has been supportive",
+          "Carlos<father> hasn't spoken to Lucia<user> since Lucia<user> came out",
+          "Isabella<mother> suggested giving Pedro<son> some time",
+          "Maria<mother> has been supportive",
+          "Lucia<user> came out six months ago"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 15,
+        "question": "Who is your best friend?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          60015,
+          60016,
+          60010,
+          9253,
+          60007,
+          60014
+        ],
+        "actual_memory_ids": [
+          60015
+        ],
+        "predicted_texts": [
+          "Lucia<user> considers Jo\u00e3o<friend> a great help",
+          "Lucia<user> wants to talk to Jo\u00e3o<friend> about approaching Pedro<son>",
+          "Lucia<user> feels they are getting to know Rafael<self>",
+          "Lucia<user> is on good terms with Maria<mother>",
+          "Isabella<mother> has been supportive"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 16,
+        "question": "How did Jo\u00e3o help you?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          60015,
+          60016,
+          60010,
+          60003,
+          7492,
+          60010
+        ],
+        "actual_memory_ids": [
+          60016
+        ],
+        "predicted_texts": [
+          "Lucia<user> considers Jo\u00e3o<friend> a great help",
+          "Lucia<user> wants to talk to Jo\u00e3o<friend> about approaching Pedro<son>",
+          "Lucia<user> lives in S\u00e3o Paulo<city>",
+          "Maria<mother> has been supportive",
+          "Pedro<son> seems distant"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 17,
+        "question": "What is your area of specialization in law?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          60004
+        ],
+        "actual_memory_ids": [
+          60020
+        ],
+        "predicted_texts": [
+          "Lucia<user> is a partner at Silva & Martinez Law<company>"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 18,
+        "question": "What are you afraid of losing due to your sexuality?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          60021,
+          60024,
+          60012,
+          60011,
+          60010
+        ],
+        "actual_memory_ids": [
+          60021
+        ],
+        "predicted_texts": [
+          "Lucia<user> is anxious about potentially losing clients<clients> due to her sexuality",
+          "Lucia<user> experiences panic attacks before important court dates",
+          "Carlos<father> hasn't spoken to Lucia<user> since Lucia<user> came out",
+          "Lucia<user> is considering exploring options for support from professional counselors or support groups"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 19,
+        "question": "Who is your therapist?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          60022,
+          60010,
+          60024,
+          60021,
+          9253
+        ],
+        "actual_memory_ids": [
+          60022
+        ],
+        "predicted_texts": [
+          "Lucia<user> sees Dr. Santos<therapist> to manage anxiety",
+          "Lucia<user> is considering exploring options for support from professional counselors or support groups",
+          "Lucia<user> experiences panic attacks before important court dates",
+          "Lucia<user> is anxious about potentially losing clients<clients> due to her sexuality",
+          "Lucia<user> feels they are getting to know Rafael<self>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 20,
+        "question": "How do court dates affect your mental health?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          60024,
+          60022
+        ],
+        "actual_memory_ids": [
+          60024
+        ],
+        "predicted_texts": [
+          "Lucia<user> experiences panic attacks before important court dates",
+          "Lucia<user> sees Dr. Santos<therapist> to manage anxiety"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 21,
+        "question": "How has your coming out affected your relationship with your parents?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          60012,
+          60011,
+          60014,
+          7492,
+          60005,
+          60021
+        ],
+        "actual_memory_ids": [
+          60012,
+          60014,
+          60011,
+          60013,
+          60016,
+          60015
+        ],
+        "predicted_texts": [
+          "Carlos<father> hasn't spoken to Lucia<user> since Lucia<user> came out",
+          "Isabella<mother> has been supportive",
+          "Maria<mother> has been supportive",
+          "Lucia<user> came out six months ago",
+          "Lucia<user> is anxious about potentially losing clients<clients> due to her sexuality"
+        ],
+        "accuracy": 0.5
+      },
+      {
+        "question_id": 23,
+        "question": "What are some challenges you face at work?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          60021
+        ],
+        "actual_memory_ids": [
+          60021,
+          60024,
+          60004,
+          60020
+        ],
+        "predicted_texts": [
+          "Lucia<user> is anxious about potentially losing clients<clients> due to her sexuality"
+        ],
+        "accuracy": 0.25
+      },
+      {
+        "question_id": 24,
+        "question": "How has your relationship with your dad changed since you came out?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          60012,
+          60011,
+          60014,
+          60010,
+          7492,
+          60005
+        ],
+        "actual_memory_ids": [
+          60011,
+          60012
+        ],
+        "predicted_texts": [
+          "Carlos<father> hasn't spoken to Lucia<user> since Lucia<user> came out",
+          "Isabella<mother> has been supportive",
+          "Pedro<son> seems distant",
+          "Maria<mother> has been supportive",
+          "Lucia<user> came out six months ago"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 25,
+        "question": "How has your relationship with your mom changed since you came out?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          60014,
+          60012,
+          60011,
+          7492,
+          60005,
+          60007
+        ],
+        "actual_memory_ids": [
+          60013,
+          60014
+        ],
+        "predicted_texts": [
+          "Isabella<mother> has been supportive",
+          "Carlos<father> hasn't spoken to Lucia<user> since Lucia<user> came out",
+          "Maria<mother> has been supportive",
+          "Lucia<user> came out six months ago",
+          "Lucia<user> is on good terms with Maria<mother>"
+        ],
+        "accuracy": 0.5
+      },
+      {
+        "question_id": 26,
+        "question": "How has your relationship with your son changed since you came out?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          60012,
+          60011,
+          60010,
+          60014,
+          60008,
+          7492
+        ],
+        "actual_memory_ids": [
+          60008,
+          60009,
+          60010
+        ],
+        "predicted_texts": [
+          "Carlos<father> hasn't spoken to Lucia<user> since Lucia<user> came out",
+          "Pedro<son> seems distant",
+          "Isabella<mother> has been supportive",
+          "Pedro<son> is Lucia<user>'s son<relationship>",
+          "Maria<mother> has been supportive"
+        ],
+        "accuracy": 0.6666666666666666
+      },
+      {
+        "question_id": 27,
+        "question": "How long has it been since you've talked to your dad?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          60012,
+          60011,
+          60010,
+          60010,
+          60014
+        ],
+        "actual_memory_ids": [
+          60005,
+          60011,
+          60012
+        ],
+        "predicted_texts": [
+          "Carlos<father> hasn't spoken to Lucia<user> since Lucia<user> came out",
+          "Pedro<son> seems distant",
+          "Lucia<user> wants to talk to Jo\u00e3o<friend> about approaching Pedro<son>",
+          "Isabella<mother> has been supportive"
+        ],
+        "accuracy": 0.6666666666666666
+      },
+      {
+        "question_id": 28,
+        "question": "What mental health issues do you face and how do you deal with them?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          60022,
+          60024,
+          60010
+        ],
+        "actual_memory_ids": [
+          60022,
+          60024
+        ],
+        "predicted_texts": [
+          "Lucia<user> sees Dr. Santos<therapist> to manage anxiety",
+          "Lucia<user> experiences panic attacks before important court dates",
+          "Lucia<user> is considering exploring options for support from professional counselors or support groups"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 29,
+        "question": "Who in your family has reacted positively to your coming out?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          60014,
+          60012,
+          60011,
+          7492,
+          60005,
+          60007
+        ],
+        "actual_memory_ids": [
+          60013,
+          60014
+        ],
+        "predicted_texts": [
+          "Isabella<mother> has been supportive",
+          "Carlos<father> hasn't spoken to Lucia<user> since Lucia<user> came out",
+          "Maria<mother> has been supportive",
+          "Lucia<user> came out six months ago",
+          "Lucia<user> is on good terms with Maria<mother>"
+        ],
+        "accuracy": 0.5
+      },
+      {
+        "question_id": 30,
+        "question": "How do your fears about your career and your relationship with Pedro intersect?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          60010,
+          60008,
+          60021,
+          60010,
+          60009
+        ],
+        "actual_memory_ids": [
+          60010,
+          60021
+        ],
+        "predicted_texts": [
+          "Pedro<son> seems distant",
+          "Pedro<son> is Lucia<user>'s son<relationship>",
+          "Lucia<user> is anxious about potentially losing clients<clients> due to her sexuality",
+          "Lucia<user> wants to talk to Jo\u00e3o<friend> about approaching Pedro<son>",
+          "Pedro<son> is 15<age>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 31,
+        "question": "When did your friend help you through coming out?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          60005,
+          60015,
+          60016,
+          60012,
+          60011,
+          60014,
+          60010
+        ],
+        "actual_memory_ids": [
+          60005,
+          60015,
+          60016
+        ],
+        "predicted_texts": [
+          "Lucia<user> came out six months ago",
+          "Lucia<user> considers Jo\u00e3o<friend> a great help",
+          "Carlos<father> hasn't spoken to Lucia<user> since Lucia<user> came out",
+          "Isabella<mother> has been supportive",
+          "Lucia<user> is considering exploring options for support from professional counselors or support groups"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 32,
+        "question": "Is your son closer to his mom or his dad?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          60010,
+          60008,
+          60012,
+          60011,
+          60009,
+          60014
+        ],
+        "actual_memory_ids": [
+          60008,
+          60009,
+          60010,
+          60006
+        ],
+        "predicted_texts": [
+          "Pedro<son> seems distant",
+          "Pedro<son> is Lucia<user>'s son<relationship>",
+          "Carlos<father> hasn't spoken to Lucia<user> since Lucia<user> came out",
+          "Pedro<son> is 15<age>",
+          "Isabella<mother> has been supportive"
+        ],
+        "accuracy": 0.75
+      }
+    ]
+  },
+  {
+    "person_id": 9,
+    "questions": [
+      {
+        "question_id": 1,
+        "question": "What is your name?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          70001,
+          70002,
+          70010,
+          70019,
+          70010,
+          70019,
+          7821
+        ],
+        "actual_memory_ids": [
+          70001
+        ],
+        "predicted_texts": [
+          "Mei<alias> is Lucia<user>'s alias",
+          "Linda<mother> is Lucia<user>'s mom",
+          "Linda<mother> and Lucia<user> both love watching Attack on Titan<television_show>",
+          "Lucia<user> is a 22-year-old founder"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 2,
+        "question": "How old are you?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          7821
+        ],
+        "actual_memory_ids": [
+          70002
+        ],
+        "predicted_texts": [
+          "Lucia<user> is a 22-year-old founder"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 3,
+        "question": "Where do you live?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          70003,
+          70014,
+          70007
+        ],
+        "actual_memory_ids": [
+          70003
+        ],
+        "predicted_texts": [
+          "Lucia<user> lives in Singapore<city>",
+          "Lucia<user>'s dream is to take BridgeAI<company> to places like San Francisco<city>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 4,
+        "question": "Did you complete your university education?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          70005,
+          70004,
+          70011
+        ],
+        "actual_memory_ids": [
+          70004
+        ],
+        "predicted_texts": [
+          "Lucia<user> studied Computer Science<subject> at NUS<university>",
+          "Lucia<user>'s mom wants Lucia<user> to return to university"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 5,
+        "question": "What did you study at NUS?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          70005,
+          70004,
+          70003
+        ],
+        "actual_memory_ids": [
+          70005
+        ],
+        "predicted_texts": [
+          "Lucia<user> studied Computer Science<subject> at NUS<university>",
+          "Lucia<user> lives in Singapore<city>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 6,
+        "question": "What is your role in your startup?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          70006,
+          70007,
+          70025,
+          7821,
+          70016,
+          70014,
+          70007
+        ],
+        "actual_memory_ids": [
+          70006
+        ],
+        "predicted_texts": [
+          "Lucia<user> is passionate about growing an AI startup",
+          "Lucia<user> is a 22-year-old founder",
+          "Kai<friend> works as a software engineer<profession>",
+          "Lucia<user>'s dream is to take BridgeAI<company> to places like San Francisco<city>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 7,
+        "question": "What is the name of your startup?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          70006,
+          70007,
+          70025,
+          7821,
+          70014,
+          70007
+        ],
+        "actual_memory_ids": [
+          70007
+        ],
+        "predicted_texts": [
+          "Lucia<user> is passionate about growing an AI startup",
+          "Lucia<user> is a 22-year-old founder",
+          "Lucia<user>'s dream is to take BridgeAI<company> to places like San Francisco<city>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 8,
+        "question": "What is your father's name?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          70009,
+          70008,
+          70010,
+          70019,
+          70010,
+          70019
+        ],
+        "actual_memory_ids": [
+          70008
+        ],
+        "predicted_texts": [
+          "James<father> has been really supportive",
+          "Linda<mother> is Lucia<user>'s mom",
+          "Linda<mother> and Lucia<user> both love watching Attack on Titan<television_show>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 9,
+        "question": "Does your father support your startup dreams?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          70009,
+          70008,
+          70006,
+          70007,
+          70025,
+          70014,
+          70007,
+          70011,
+          7821
+        ],
+        "actual_memory_ids": [
+          70009
+        ],
+        "predicted_texts": [
+          "James<father> has been really supportive",
+          "Lucia<user> is passionate about growing an AI startup",
+          "Lucia<user>'s dream is to take BridgeAI<company> to places like San Francisco<city>",
+          "Lucia<user>'s mom wants Lucia<user> to return to university",
+          "Lucia<user> is a 22-year-old founder"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 10,
+        "question": "What is your mother's name?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          70010,
+          70019,
+          70010,
+          70019,
+          70011,
+          70001,
+          70002,
+          70009,
+          70008
+        ],
+        "actual_memory_ids": [
+          70010
+        ],
+        "predicted_texts": [
+          "Linda<mother> is Lucia<user>'s mom",
+          "Linda<mother> and Lucia<user> both love watching Attack on Titan<television_show>",
+          "Lucia<user>'s mom wants Lucia<user> to return to university",
+          "Mei<alias> is Lucia<user>'s alias",
+          "James<father> has been really supportive"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 11,
+        "question": "What does your mother want you to do regarding university?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          70011,
+          70005,
+          70004,
+          70010,
+          70019,
+          70010,
+          70019,
+          70009,
+          70008
+        ],
+        "actual_memory_ids": [
+          70011
+        ],
+        "predicted_texts": [
+          "Lucia<user>'s mom wants Lucia<user> to return to university",
+          "Lucia<user> studied Computer Science<subject> at NUS<university>",
+          "Linda<mother> is Lucia<user>'s mom",
+          "Linda<mother> and Lucia<user> both love watching Attack on Titan<television_show>",
+          "James<father> has been really supportive"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 12,
+        "question": "How much money do you have in your bank account?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          70013
+        ],
+        "actual_memory_ids": [
+          70013
+        ],
+        "predicted_texts": [
+          "Lucia<user> has less than $1000 in her bank account"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 13,
+        "question": "What is your dream city?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          70014,
+          70007,
+          70003
+        ],
+        "actual_memory_ids": [
+          70014
+        ],
+        "predicted_texts": [
+          "Lucia<user>'s dream is to take BridgeAI<company> to places like San Francisco<city>",
+          "Lucia<user> lives in Singapore<city>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 14,
+        "question": "What is your best friend's name?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          70015,
+          70021,
+          70016,
+          70001,
+          70002,
+          70010,
+          70019
+        ],
+        "actual_memory_ids": [
+          70015
+        ],
+        "predicted_texts": [
+          "Kai<friend> is Lucia<user>'s best friend",
+          "Lucia<user> usually hangs out with friends once every two weeks",
+          "Kai<friend> works as a software engineer<profession>",
+          "Mei<alias> is Lucia<user>'s alias",
+          "Linda<mother> and Lucia<user> both love watching Attack on Titan<television_show>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 15,
+        "question": "What is Kai's profession?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          70016,
+          70015,
+          70006,
+          70007,
+          70025,
+          7821,
+          70005,
+          70004
+        ],
+        "actual_memory_ids": [
+          70016
+        ],
+        "predicted_texts": [
+          "Kai<friend> works as a software engineer<profession>",
+          "Kai<friend> is Lucia<user>'s best friend",
+          "Lucia<user> is passionate about growing an AI startup",
+          "Lucia<user> is a 22-year-old founder",
+          "Lucia<user> studied Computer Science<subject> at NUS<university>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 16,
+        "question": "How long are your workdays typically?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          70017,
+          70018
+        ],
+        "actual_memory_ids": [
+          70017
+        ],
+        "predicted_texts": [
+          "Lucia<user> has been pulling 16-hour workdays"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 17,
+        "question": "How do you think you're a workoholic?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          70017,
+          70018
+        ],
+        "actual_memory_ids": [
+          70018
+        ],
+        "predicted_texts": [
+          "Lucia<user> has been pulling 16-hour workdays"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 18,
+        "question": "What is your favorite anime?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          70010,
+          70019
+        ],
+        "actual_memory_ids": [
+          70019
+        ],
+        "predicted_texts": [
+          "Linda<mother> and Lucia<user> both love watching Attack on Titan<television_show>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 19,
+        "question": "How often do you hang out with friends?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          70021,
+          70015
+        ],
+        "actual_memory_ids": [
+          70021
+        ],
+        "predicted_texts": [
+          "Lucia<user> usually hangs out with friends once every two weeks",
+          "Kai<friend> is Lucia<user>'s best friend"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 20,
+        "question": "How is your product performing in the market?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          70006,
+          70007,
+          70025
+        ],
+        "actual_memory_ids": [
+          70025
+        ],
+        "predicted_texts": [
+          "Lucia<user> is passionate about growing an AI startup"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 21,
+        "question": "What do you do to make money?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          70016,
+          70013,
+          70017,
+          70018
+        ],
+        "actual_memory_ids": [
+          70004,
+          70006,
+          70007,
+          70013
+        ],
+        "predicted_texts": [
+          "Kai<friend> works as a software engineer<profession>",
+          "Lucia<user> has less than $1000 in her bank account",
+          "Lucia<user> has been pulling 16-hour workdays"
+        ],
+        "accuracy": 0.25
+      },
+      {
+        "question_id": 22,
+        "question": "Who are your parents, and how do they feel about your decision to drop out of university?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          70011,
+          70005,
+          70004,
+          70009,
+          70008
+        ],
+        "actual_memory_ids": [
+          70008,
+          70009,
+          70010,
+          70011
+        ],
+        "predicted_texts": [
+          "Lucia<user>'s mom wants Lucia<user> to return to university",
+          "Lucia<user> studied Computer Science<subject> at NUS<university>",
+          "James<father> has been really supportive"
+        ],
+        "accuracy": 0.75
+      },
+      {
+        "question_id": 23,
+        "question": "What do your friends do for work?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          70016,
+          70021,
+          70015,
+          70017,
+          70018
+        ],
+        "actual_memory_ids": [
+          70015,
+          70016
+        ],
+        "predicted_texts": [
+          "Kai<friend> works as a software engineer<profession>",
+          "Lucia<user> usually hangs out with friends once every two weeks",
+          "Kai<friend> is Lucia<user>'s best friend",
+          "Lucia<user> has been pulling 16-hour workdays"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 24,
+        "question": "Tell me about your work life balance??",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          70017,
+          70018,
+          70016
+        ],
+        "actual_memory_ids": [
+          70017,
+          70018,
+          70021,
+          70019,
+          70007,
+          70006
+        ],
+        "predicted_texts": [
+          "Lucia<user> has been pulling 16-hour workdays",
+          "Kai<friend> works as a software engineer<profession>"
+        ],
+        "accuracy": 0.3333333333333333
+      },
+      {
+        "question_id": 25,
+        "question": "Where would you ideally want to live and what's stopping you from moving?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          70014,
+          70007,
+          70003
+        ],
+        "actual_memory_ids": [
+          70013,
+          70014
+        ],
+        "predicted_texts": [
+          "Lucia<user>'s dream is to take BridgeAI<company> to places like San Francisco<city>",
+          "Lucia<user> lives in Singapore<city>"
+        ],
+        "accuracy": 0.5
+      },
+      {
+        "question_id": 26,
+        "question": "What is your educational background, and how does it relate to your current entrepreneurial venture?",
+        "difficulty": "hard",
+        "predicted_memory_ids": [
+          70006,
+          70007,
+          70025,
+          70005,
+          70004,
+          7821
+        ],
+        "actual_memory_ids": [
+          70004,
+          70005,
+          70006,
+          70007
+        ],
+        "predicted_texts": [
+          "Lucia<user> is passionate about growing an AI startup",
+          "Lucia<user> studied Computer Science<subject> at NUS<university>",
+          "Lucia<user> is a 22-year-old founder"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 27,
+        "question": "What do you do for fun?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          70021
+        ],
+        "actual_memory_ids": [
+          70021,
+          70019
+        ],
+        "predicted_texts": [
+          "Lucia<user> usually hangs out with friends once every two weeks"
+        ],
+        "accuracy": 0.5
+      },
+      {
+        "question_id": 28,
+        "question": "What challenges are you facing with your startup?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          70006,
+          70007,
+          70025,
+          7821
+        ],
+        "actual_memory_ids": [
+          70006,
+          70007,
+          70025,
+          70013
+        ],
+        "predicted_texts": [
+          "Lucia<user> is passionate about growing an AI startup",
+          "Lucia<user> is a 22-year-old founder"
+        ],
+        "accuracy": 0.75
+      },
+      {
+        "question_id": 29,
+        "question": "How far away is your dream city to live in from where you are now?",
+        "difficulty": "medium",
+        "predicted_memory_ids": [
+          70014,
+          70007,
+          70003
+        ],
+        "actual_memory_ids": [
+          70003,
+          70014
+        ],
+        "predicted_texts": [
+          "Lucia<user>'s dream is to take BridgeAI<company> to places like San Francisco<city>",
+          "Lucia<user> lives in Singapore<city>"
+        ],
+        "accuracy": 1.0
+      }
+    ]
+  },
+  {
+    "person_id": 10,
+    "questions": [
+      {
+        "question_id": 1,
+        "question": "What is your name?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          80002,
+          80006,
+          80011,
+          83123
+        ],
+        "actual_memory_ids": [
+          80001
+        ],
+        "predicted_texts": [
+          "Lucia<user> is 24",
+          "Lily<best_friend> is also a model",
+          "Lily<best_friend> and Lucia<user> have known each other since middle school"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 2,
+        "question": "How old are you?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          80002,
+          80004,
+          80025
+        ],
+        "actual_memory_ids": [
+          80002
+        ],
+        "predicted_texts": [
+          "Lucia<user> is 24",
+          "Lucia<user> has been modeling since Lucia<user> was a teenager"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 3,
+        "question": "Where do you live?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          80003
+        ],
+        "actual_memory_ids": [
+          80003
+        ],
+        "predicted_texts": [
+          "Lucia<user> lives in New York City<city>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 4,
+        "question": "What is your profession?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          9478
+        ],
+        "actual_memory_ids": [
+          80004
+        ],
+        "predicted_texts": [
+          "Lucia<user> thinks about coaching or working with youth programs to combine hockey with a career path"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 5,
+        "question": "What is your best friend's name?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          83123,
+          80006,
+          80011,
+          80005,
+          7692,
+          80424,
+          80022
+        ],
+        "actual_memory_ids": [
+          80005
+        ],
+        "predicted_texts": [
+          "Lily<best_friend> and Lucia<user> have known each other since middle school",
+          "Lily<best_friend> is also a model",
+          "Lily<best_friend> has been supportive of Lucia<user>",
+          "Sophie<friend> is secretly dating the same guy as Madison<fellow_model>",
+          "Ava<friend> secretly kissed Liam<romantic_partner> last week"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 6,
+        "question": "What does Lily do?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          80006,
+          80011,
+          80005,
+          83123,
+          80424,
+          80022,
+          83124
+        ],
+        "actual_memory_ids": [
+          80006
+        ],
+        "predicted_texts": [
+          "Lily<best_friend> is also a model",
+          "Lily<best_friend> has been supportive of Lucia<user>",
+          "Lily<best_friend> and Lucia<user> have known each other since middle school",
+          "Lily<best_friend> is upset about Liam<romantic_partner> trying to slide into Lily<best_friend>'s DMs",
+          "Liam<romantic_partner> tried sliding into Lily<best_friend>'s DMs"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 7,
+        "question": "What does Madison do for work?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          80420,
+          80010,
+          80009,
+          80020,
+          80013,
+          7692
+        ],
+        "actual_memory_ids": [
+          80009
+        ],
+        "predicted_texts": [
+          "Madison<fellow_model> is dating Liam<romantic_partner>",
+          "Madison<fellow_model> has been spreading rumors about Lucia<user>'s eating habits",
+          "Madison<fellow_model> talked badly about Lucia<user> to Vogue<magazine> editors",
+          "Ava<friend> is trying to turn everyone against Madison<fellow_model>",
+          "Sophie<friend> is secretly dating the same guy as Madison<fellow_model>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 8,
+        "question": "What does Madison say about you?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          80420,
+          80020,
+          80010,
+          80009,
+          80013,
+          7692
+        ],
+        "actual_memory_ids": [
+          80010,
+          80009
+        ],
+        "predicted_texts": [
+          "Madison<fellow_model> is dating Liam<romantic_partner>",
+          "Madison<fellow_model> talked badly about Lucia<user> to Vogue<magazine> editors",
+          "Madison<fellow_model> has been spreading rumors about Lucia<user>'s eating habits",
+          "Ava<friend> is trying to turn everyone against Madison<fellow_model>",
+          "Sophie<friend> is secretly dating the same guy as Madison<fellow_model>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 9,
+        "question": "What does Ava do for work?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          80013,
+          80424,
+          80022,
+          80006,
+          80011,
+          80004,
+          80025,
+          9478
+        ],
+        "actual_memory_ids": [
+          80011
+        ],
+        "predicted_texts": [
+          "Ava<friend> is trying to turn everyone against Madison<fellow_model>",
+          "Ava<friend> secretly kissed Liam<romantic_partner> last week",
+          "Lily<best_friend> is also a model",
+          "Lucia<user> has been modeling since Lucia<user> was a teenager",
+          "Lucia<user> thinks about coaching or working with youth programs to combine hockey with a career path"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 10,
+        "question": "How does Ava feel about Madison?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          80013,
+          80420,
+          7692,
+          80020,
+          80010,
+          80009
+        ],
+        "actual_memory_ids": [
+          80013,
+          80009
+        ],
+        "predicted_texts": [
+          "Ava<friend> is trying to turn everyone against Madison<fellow_model>",
+          "Madison<fellow_model> is dating Liam<romantic_partner>",
+          "Sophie<friend> is secretly dating the same guy as Madison<fellow_model>",
+          "Madison<fellow_model> talked badly about Lucia<user> to Vogue<magazine> editors",
+          "Madison<fellow_model> has been spreading rumors about Lucia<user>'s eating habits"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 11,
+        "question": "What did Madision tell you about Vogue Editors?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          80020,
+          80010,
+          80009,
+          80013,
+          7692,
+          80420
+        ],
+        "actual_memory_ids": [
+          80020,
+          80009
+        ],
+        "predicted_texts": [
+          "Madison<fellow_model> talked badly about Lucia<user> to Vogue<magazine> editors",
+          "Madison<fellow_model> has been spreading rumors about Lucia<user>'s eating habits",
+          "Ava<friend> is trying to turn everyone against Madison<fellow_model>",
+          "Sophie<friend> is secretly dating the same guy as Madison<fellow_model>",
+          "Madison<fellow_model> is dating Liam<romantic_partner>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 12,
+        "question": "Who is Madison dating?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          80420,
+          7692,
+          80010,
+          80009,
+          80020,
+          80013
+        ],
+        "actual_memory_ids": [
+          80420,
+          80009
+        ],
+        "predicted_texts": [
+          "Madison<fellow_model> is dating Liam<romantic_partner>",
+          "Sophie<friend> is secretly dating the same guy as Madison<fellow_model>",
+          "Madison<fellow_model> has been spreading rumors about Lucia<user>'s eating habits",
+          "Madison<fellow_model> talked badly about Lucia<user> to Vogue<magazine> editors",
+          "Ava<friend> is trying to turn everyone against Madison<fellow_model>"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 13,
+        "question": "Who secretly kissed Liam last week?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          80424,
+          80022,
+          83124,
+          80424,
+          80022,
+          80420,
+          7692
+        ],
+        "actual_memory_ids": [
+          80424,
+          80009,
+          80011
+        ],
+        "predicted_texts": [
+          "Ava<friend> secretly kissed Liam<romantic_partner> last week",
+          "Liam<romantic_partner> tried sliding into Lily<best_friend>'s DMs",
+          "Lily<best_friend> is upset about Liam<romantic_partner> trying to slide into Lily<best_friend>'s DMs",
+          "Madison<fellow_model> is dating Liam<romantic_partner>",
+          "Sophie<friend> is secretly dating the same guy as Madison<fellow_model>"
+        ],
+        "accuracy": 0.3333333333333333
+      },
+      {
+        "question_id": 15,
+        "question": "What secret do you know about Ava?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          80013,
+          80424,
+          80022,
+          7692,
+          80010,
+          80009,
+          83123
+        ],
+        "actual_memory_ids": [
+          80022,
+          80011
+        ],
+        "predicted_texts": [
+          "Ava<friend> is trying to turn everyone against Madison<fellow_model>",
+          "Ava<friend> secretly kissed Liam<romantic_partner> last week",
+          "Sophie<friend> is secretly dating the same guy as Madison<fellow_model>",
+          "Madison<fellow_model> has been spreading rumors about Lucia<user>'s eating habits",
+          "Lily<best_friend> and Lucia<user> have known each other since middle school"
+        ],
+        "accuracy": 0.5
+      },
+      {
+        "question_id": 16,
+        "question": "What are you thinking of quitting?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          83022,
+          9478,
+          83122,
+          9681
+        ],
+        "actual_memory_ids": [
+          80025
+        ],
+        "predicted_texts": [
+          "Lucia<user> is considering starting therapy",
+          "Lucia<user> thinks about coaching or working with youth programs to combine hockey with a career path",
+          "Lucia<user> is considering picking up hockey again",
+          "Zara<user> realizes taking time to focus on Zara<user> sounds needed"
+        ],
+        "accuracy": 0.0
+      },
+      {
+        "question_id": 17,
+        "question": "What might you do to improve your mental health?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          83022,
+          9681
+        ],
+        "actual_memory_ids": [
+          83022
+        ],
+        "predicted_texts": [
+          "Lucia<user> is considering starting therapy",
+          "Zara<user> realizes taking time to focus on Zara<user> sounds needed"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 18,
+        "question": "What sport do you play?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          83122,
+          9478,
+          83122
+        ],
+        "actual_memory_ids": [
+          83122
+        ],
+        "predicted_texts": [
+          "Lucia<user> used to love playing hockey",
+          "Lucia<user> thinks about coaching or working with youth programs to combine hockey with a career path",
+          "Lucia<user> is considering picking up hockey again"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 19,
+        "question": "How long have you known Lily?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          83123,
+          80006,
+          80011,
+          80005,
+          80424,
+          80022,
+          83124
+        ],
+        "actual_memory_ids": [
+          83123
+        ],
+        "predicted_texts": [
+          "Lily<best_friend> and Lucia<user> have known each other since middle school",
+          "Lily<best_friend> is also a model",
+          "Lily<best_friend> has been supportive of Lucia<user>",
+          "Lily<best_friend> is upset about Liam<romantic_partner> trying to slide into Lily<best_friend>'s DMs",
+          "Liam<romantic_partner> tried sliding into Lily<best_friend>'s DMs"
+        ],
+        "accuracy": 1.0
+      },
+      {
+        "question_id": 20,
+        "question": "Who tried sliding into Lily's DMs?",
+        "difficulty": "easy",
+        "predicted_memory_ids": [
+          83124,
+          80424,
+          80022,
+          80006,
+          80011,
+          83123,
+          80005
+        ],
+        "actual_memory_ids": [
+          83124,
+          80005
+        ],
+        "predicted_texts": [
+          "Liam<romantic_partner> tried sliding into Lily<best_friend>'s DMs",
+          "Lily<best_friend> is upset about Liam<romantic_partner> trying to slide into Lily<best_friend>'s DMs",
+          "Lily<best_friend> is also a model",
+          "Lily<best_friend> and Lucia<user> have known each other since middle school",
+          "Lily<best_friend> has been supportive of Lucia<user>"
+        ],
+        "accuracy": 1.0
+      }
+    ]
+  }
+]
