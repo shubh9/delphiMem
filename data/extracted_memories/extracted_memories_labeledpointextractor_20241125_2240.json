@@ -162,76 +162,89 @@
         "id": [
           90128
         ],
-        "content": "Navid<user> is a high school counselor<profession>"
-      },
-      {
-        "id": [
-          7034
-        ],
-        "content": "Navid<user> wakes up early for a short yoga session"
-      },
-      {
-        "id": [
-          90139
-        ],
-        "content": "Navid<user>'s husband<spouse> leaves early for his job at the hospital"
-      },
-      {
-        "id": [
-          4526
-        ],
-        "content": "Navid<user>'s mother<family_member> wakes up later"
-      },
-      {
-        "id": [
-          90135,
-          90131
-        ],
-        "content": "Emma<daughter> is studying nursing<degree> in college<institution>"
-      },
-      {
-        "id": [
-          45679,
-          90131
-        ],
-        "content": "Emma<daughter> is 21<age>"
-      },
-      {
-        "id": [
-          90133
-        ],
-        "content": "Navid<user> has type 2 diabetes<condition>"
-      },
-      {
-        "id": [
-          45679,
-          90131
-        ],
-        "content": "Emma<daughter> would be happy to join Navid<user> for yoga"
-      },
-      {
-        "id": [
-          90124
-        ],
-        "content": "Jake<son> is 17<age>"
-      },
-      {
-        "id": [
-          90140
-        ],
-        "content": "Jake<son> is very close with Navid<user>'s husband<spouse>"
+        "content": "Patricia<user> is a high school counselor<profession>"
       },
       {
         "id": [
           90134
         ],
-        "content": "Navid<user> practices yoga often"
+        "content": "Patricia<user> used to do yoga often"
       },
       {
         "id": [
-          8949
+          90134
         ],
-        "content": "Jake<son> has free evenings during the week"
+        "content": "Patricia<user> considers mornings ideal for yoga"
+      },
+      {
+        "id": [
+          90129
+        ],
+        "content": "Patricia<user> has a husband"
+      },
+      {
+        "id": [
+          90139
+        ],
+        "content": "[HUSBAND_NAME_PLACEHOLDER]<husband> works at a hospital<workplace>"
+      },
+      {
+        "id": [
+          90137
+        ],
+        "content": "Patricia<user> has a mother"
+      },
+      {
+        "id": [
+          45679
+        ],
+        "content": "Emma<daughter> is 21 years old"
+      },
+      {
+        "id": [
+          90135
+        ],
+        "content": "Emma<daughter> is studying nursing<field_of_study> in college"
+      },
+      {
+        "id": [
+          90133
+        ],
+        "content": "Patricia<user> has type 2 diabetes"
+      },
+      {
+        "id": [
+          90124
+        ],
+        "content": "Jake<son> is 17 years old"
+      },
+      {
+        "id": [],
+        "content": "Emma<daughter> would be thrilled about making yoga a regular family activity"
+      },
+      {
+        "id": [
+          90140
+        ],
+        "content": "Jake<son> is very close with his father"
+      },
+      {
+        "id": [
+          90132
+        ],
+        "content": "Jake<son> and [HUSBAND_NAME_PLACEHOLDER]<husband> often have their own plans on weekends"
+      },
+      {
+        "id": [
+          90134
+        ],
+        "content": "Patricia<user> practices yoga often"
+      },
+      {
+        "id": [
+          90124
+        ],
+        "content": "Jake<son> has some free evenings during the week"
       },
       {
         "id": [
@@ -241,101 +254,87 @@
       },
       {
         "id": [
-          90132
-        ],
-        "content": "Navid<user> is looking into poses like Pigeon Pose and Downward-Facing Dog for Jake<son>'s hamstrings and flexibility"
-      },
-      {
-        "id": [
           90134
         ],
-        "content": "Navid<user> is still learning yoga poses"
+        "content": "Patricia<user> is still learning yoga"
       },
       {
         "id": [
-          3182
+          90132
         ],
-        "content": "Navid<user> is considering attending a beginner's yoga class with Jake<son>"
+        "content": "Patricia<user> might attend a beginner's yoga class with Jake<son>"
       },
       {
         "id": [
           90142
         ],
-        "content": "Navid<user> has a book club<activity_group>"
+        "content": "Patricia<user> is part of a book club"
       },
       {
         "id": [
           90138
         ],
-        "content": "Navid<user> volunteers at a food bank<place>"
+        "content": "Patricia<user> volunteers at a food bank<place>"
       },
       {
         "id": [
-          90137,
-          20012
+          90137
         ],
-        "content": "Navid<user>'s mother<family_member> lives with Navid<user>"
+        "content": "Patricia<user>'s mother lives with Patricia<user>"
       },
       {
         "id": [
           90141
         ],
-        "content": "Navid<user>'s mother<family_member> has chronic knee pain"
+        "content": "Patricia<user>'s mother has chronic knee pain"
       },
       {
         "id": [
           90136
         ],
-        "content": "Navid<user> paints watercolors with Navid<user>'s mother<family_member>"
+        "content": "Patricia<user> and Patricia's<user> mother often paint watercolors together"
       },
       {
         "id": [
           90126
         ],
-        "content": "Navid<user> is 50<age>"
-      },
-      {
-        "id": [
-          3601
-        ],
-        "content": "Navid<user> is balancing work<activity>, family<responsibility>, and personal interests<activity>"
+        "content": "Patricia<user> is 50 years old"
       },
       {
         "id": [
           90127
         ],
-        "content": "Navid<user> lives in Seattle<city>"
+        "content": "Patricia<user> lives in Seattle<city>"
       },
       {
         "id": [
           90136
         ],
-        "content": "Navid<user> plans to paint watercolors with Navid<user>'s mother<family_member> on Wednesday evenings"
+        "content": "Patricia<user> and Patricia's<user> mother plan to paint watercolors on Wednesday evenings"
       },
       {
         "id": [
-          2803
+          90132
         ],
-        "content": "Navid<user> plans to package and deliver watercolors with Jake<son> on Saturdays"
-      },
-      {
-        "id": [
-          90136
-        ],
-        "content": "Navid<user> wants to send watercolors to local hospitals or senior centers"
+        "content": "Patricia<user> and Jake<son> plan to package and deliver watercolors to local hospitals or senior centers on Saturdays"
       },
       {
         "id": [
           90130
         ],
-        "content": "Navid<user> has been married to David<spouse> for 23 years"
+        "content": "David<husband> and Patricia<user> have been married for 23 years"
       },
       {
         "id": [
-          90129,
-          90125
+          90129
         ],
-        "content": "David<spouse> is supportive of Patricia<user>'s hobbies"
+        "content": "David<husband> is supportive of Patricia's<user> hobbies"
+      },
+      {
+        "id": [
+          90129
+        ],
+        "content": "David<husband> wants to see what Patricia<user> and the family create together"
       }
     ]
   },
@@ -425,8 +424,7 @@
       },
       {
         "id": [
-          10005,
-          10002
+          10005
         ],
         "content": "Patricia<user> went through a divorce six months ago"
       },
@@ -451,7 +449,7 @@
       },
       {
         "id": [
-          7759
+          10002
         ],
         "content": "Patricia<user> is 35<age>"
       },
@@ -488,8 +486,7 @@
       },
       {
         "id": [
-          10005,
-          10002
+          1025
         ],
         "content": "Alex<colleague> noticed that Patricia<user> is more reflective lately"
       }
@@ -500,7 +497,7 @@
     "extracted_memories": [
       {
         "id": [
-          20016
+          2116
         ],
         "content": "Patricia<user> has a mother<mom> in Chicago<city>"
       },
@@ -764,8 +761,7 @@
       },
       {
         "id": [
-          30019,
-          30013
+          30019
         ],
         "content": "Jima<father> is Maya<user>'s father"
       },
@@ -777,8 +773,7 @@
       },
       {
         "id": [
-          30019,
-          30013
+          30019
         ],
         "content": "Lucia<user> was told by Jima<father> to stay true to herself"
       }
@@ -809,7 +804,6 @@
       {
         "id": [
           40019,
-          30001,
           40007
         ],
         "content": "Sofia<wife> helps manage the restaurant's finances"
@@ -924,8 +918,7 @@
     "extracted_memories": [
       {
         "id": [
-          50002,
-          50003
+          50002
         ],
         "content": "Lucia<user> is 31"
       },
@@ -1028,7 +1021,7 @@
           50009,
           50010
         ],
-        "content": "Tom<romantic_interest> is someone Lucia<user> started dating"
+        "content": "Tom<romantic_interest> is someone Lucia<user> used to date after Mike<ex-husband>"
       },
       {
         "id": [
@@ -1341,14 +1334,13 @@
       },
       {
         "id": [
-          7821
+          70002
         ],
         "content": "Lucia<user> is a 22-year-old founder"
       },
       {
         "id": [
-          70001,
-          70002
+          70001
         ],
         "content": "Mei<alias> is Lucia<user>'s alias"
       }
@@ -1359,8 +1351,7 @@
     "extracted_memories": [
       {
         "id": [
-          80004,
-          80025
+          80004
         ],
         "content": "Lucia<user> has been modeling since Lucia<user> was a teenager"
       },

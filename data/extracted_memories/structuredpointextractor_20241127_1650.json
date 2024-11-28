@@ -1,0 +1,2732 @@
+[
+  {
+    "person_id": 2,
+    "extracted_memories": [
+      {
+        "Id": 82898,
+        "Description": "This is the user, the person that is talking to you",
+        "Profile": {
+          "job": [
+            {
+              "content": "Works as a high school counselor",
+              "mem_id": 90128
+            }
+          ],
+          "health": [
+            {
+              "content": "Feeling a bit overwhelmed lately",
+              "mem_id": 9033
+            },
+            {
+              "content": "Has type 2 diabetes",
+              "mem_id": 90133
+            },
+            {
+              "content": "Believes it's important to stay active to manage her diabetes",
+              "mem_id": 9034
+            }
+          ],
+          "notes": [
+            {
+              "content": "Finding it hard to find time for self due to job and family responsibilities",
+              "mem_id": 90137
+            },
+            {
+              "content": "Hasn't had much time for yoga lately",
+              "mem_id": 8300
+            },
+            {
+              "content": "Planning to wake up earlier to fit in yoga sessions in the mornings before everyone else is up",
+              "mem_id": 2607
+            },
+            {
+              "content": "Considering involving daughter Emma in yoga to help stick to it",
+              "mem_id": 9131
+            },
+            {
+              "content": "Plans to set aside time on weekends to practice yoga with Emma and possibly Jake",
+              "mem_id": 4569
+            },
+            {
+              "content": "Looking into poses like Pigeon Pose and Downward-Facing Dog to help Jake with his hamstrings and flexibility",
+              "mem_id": 9012
+            },
+            {
+              "content": "Considering attending a beginner's yoga class with Jake",
+              "mem_id": 9124
+            },
+            {
+              "content": "Plans to create watercolor paintings with her mother to send to seniors or hospitals",
+              "mem_id": 9013
+            },
+            {
+              "content": "Is finding balancing work, family, and personal interests challenging at age 50",
+              "mem_id": 5619
+            },
+            {
+              "content": "Plans to set aside Wednesday evenings after work to paint watercolors with her mother",
+              "mem_id": 5468
+            },
+            {
+              "content": "On Saturdays, plans to work with Jake to package and deliver paintings to local hospitals or senior centers",
+              "mem_id": 9020
+            },
+            {
+              "content": "Realizes that blending personal interests with family activities strengthens family bonds",
+              "mem_id": 4018
+            },
+            {
+              "content": "Plans to involve David in painting sessions to strengthen their bonds",
+              "mem_id": 9129
+            }
+          ],
+          "interests": [
+            {
+              "content": "Used to practice yoga often",
+              "mem_id": 6475
+            },
+            {
+              "content": "Considering fitting yoga into schedule again",
+              "mem_id": 4583
+            },
+            {
+              "content": "Practices yoga often",
+              "mem_id": 90134
+            },
+            {
+              "content": "Is part of a book club",
+              "mem_id": 90142
+            },
+            {
+              "content": "Volunteers at the food bank",
+              "mem_id": 90138
+            },
+            {
+              "content": "Enjoys painting watercolors with her mother",
+              "mem_id": 90136
+            }
+          ],
+          "age": [
+            {
+              "content": "50 years old",
+              "mem_id": 90126
+            }
+          ],
+          "location": [
+            {
+              "content": "Living in Seattle",
+              "mem_id": 90127
+            }
+          ],
+          "name": [
+            {
+              "content": "Patricia",
+              "mem_id": 90125
+            }
+          ]
+        },
+        "Connections": [
+          {
+            "id": 34496,
+            "relationship": "This is my husband"
+          },
+          {
+            "id": 99379,
+            "relationship": "This is my mother"
+          },
+          {
+            "id": 69313,
+            "relationship": "This is my daughter"
+          },
+          {
+            "id": 23358,
+            "relationship": "This is my son"
+          }
+        ]
+      },
+      {
+        "Id": 34496,
+        "Description": "This is the user's husband who leaves early for his job at the hospital",
+        "Profile": {
+          "job": [
+            {
+              "content": "Works at the hospital and leaves early",
+              "mem_id": 90139
+            }
+          ],
+          "name": [
+            {
+              "content": "David",
+              "mem_id": 90129
+            }
+          ],
+          "notes": [
+            {
+              "content": "Married to the user for 23 years",
+              "mem_id": 90130
+            },
+            {
+              "content": "Has always been supportive of Patricia's hobbies",
+              "mem_id": 8766
+            },
+            {
+              "content": "Expressed interest in seeing what the family creates together",
+              "mem_id": 8193
+            }
+          ]
+        },
+        "Connections": [
+          {
+            "id": "82898",
+            "relationship": "This is my wife"
+          },
+          {
+            "id": "23358",
+            "relationship": "Very close with his son Jake and they often have plans on weekends"
+          }
+        ]
+      },
+      {
+        "Id": 99379,
+        "Description": "This is the user's mother who wakes up later in the morning",
+        "Profile": {
+          "interests": [
+            {
+              "content": "Enjoys painting watercolors with her daughter",
+              "mem_id": 1810
+            }
+          ],
+          "notes": [
+            {
+              "content": "Looking forward to creating watercolor paintings with her daughter to send to seniors or hospitals",
+              "mem_id": 9692
+            },
+            {
+              "content": "On Wednesday evenings after her daughter finishes work, plans to dedicate time to painting watercolors to send out",
+              "mem_id": 4081
+            }
+          ]
+        },
+        "Connections": [
+          {
+            "id": "82898",
+            "relationship": "This is my daughter"
+          }
+        ]
+      },
+      {
+        "Id": 69313,
+        "Description": "Emma is the user's 21-year-old daughter studying nursing in college",
+        "Profile": {
+          "name": [
+            {
+              "content": "Emma",
+              "mem_id": 90131
+            }
+          ],
+          "age": [
+            {
+              "content": "21 years old",
+              "mem_id": 45679
+            }
+          ],
+          "interests": [
+            {
+              "content": "Studying nursing and knows about health and wellness",
+              "mem_id": 90135
+            }
+          ],
+          "notes": [
+            {
+              "content": "May practice yoga together with the user when she's home",
+              "mem_id": 7373
+            },
+            {
+              "content": "Emma's school keeps her busy, making coordination difficult",
+              "mem_id": 6660
+            },
+            {
+              "content": "Would be thrilled about making yoga a regular family activity",
+              "mem_id": 7199
+            }
+          ]
+        },
+        "Connections": [
+          {
+            "id": "82898",
+            "relationship": "This is my mother"
+          }
+        ]
+      },
+      {
+        "Id": 23358,
+        "Description": "17-year-old son named Jake",
+        "Profile": {
+          "name": [
+            {
+              "content": "Jake",
+              "mem_id": 90132
+            }
+          ],
+          "age": [
+            {
+              "content": "17 years old",
+              "mem_id": 90124
+            }
+          ],
+          "notes": [
+            {
+              "content": "Might need more convincing to join family yoga since he's very close with his father and they often have plans on weekends",
+              "mem_id": 90140
+            },
+            {
+              "content": "Has some free evenings during the week",
+              "mem_id": 5463
+            },
+            {
+              "content": "Might be interested in yoga poses that improve flexibility for baseball",
+              "mem_id": 4170
+            },
+            {
+              "content": "May attend a beginner's yoga class with his mother to improve flexibility for baseball",
+              "mem_id": 3497
+            },
+            {
+              "content": "Jake would really enjoy participating in the volunteering activity with his mother",
+              "mem_id": 5693
+            },
+            {
+              "content": "Plans to work with his mother on Saturdays to package and deliver paintings to local hospitals or senior centers",
+              "mem_id": 5069
+            }
+          ],
+          "interests": [
+            {
+              "content": "Is passionate about baseball",
+              "mem_id": 7788
+            }
+          ],
+          "health": [
+            {
+              "content": "Has tight hamstrings and needs to improve overall flexibility",
+              "mem_id": 3608
+            }
+          ]
+        },
+        "Connections": [
+          {
+            "id": "82898",
+            "relationship": "This is my mother"
+          },
+          {
+            "id": "34496",
+            "relationship": "Very close with his father and they often have plans on weekends"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "person_id": 3,
+    "extracted_memories": [
+      {
+        "Id": 31476,
+        "Description": "This is the user, the person that is talking to you",
+        "Profile": {
+          "health": [
+            {
+              "content": "Feeling a bit overwhelmed lately.",
+              "mem_id": []
+            },
+            {
+              "content": "Works out at 6 AM every day.",
+              "mem_id": []
+            },
+            {
+              "content": "Has tried taking brief breaks but finds it tough to disconnect from work.",
+              "mem_id": []
+            },
+            {
+              "content": "Recently started practicing meditation to manage stress.",
+              "mem_id": []
+            },
+            {
+              "content": "Has been meditating for about a month, usually in the mornings after workouts.",
+              "mem_id": []
+            },
+            {
+              "content": "Started going to therapy weekly to manage stress better.",
+              "mem_id": []
+            },
+            {
+              "content": "Believes that meditation and therapy are helping to manage stress a bit.",
+              "mem_id": []
+            },
+            {
+              "content": "Plans to incorporate brief mindfulness practices throughout the day to manage stress.",
+              "mem_id": []
+            },
+            {
+              "content": "Finds that meditation has been surprisingly helpful for de-stressing.",
+              "mem_id": []
+            },
+            {
+              "content": "Has noticed being less anxious and more focused due to meditation.",
+              "mem_id": []
+            },
+            {
+              "content": "Trying to cut back on coffee.",
+              "mem_id": []
+            },
+            {
+              "content": "Meditation provides a natural boost without relying on caffeine.",
+              "mem_id": []
+            },
+            {
+              "content": "The transition of cutting back coffee has been going pretty well overall.",
+              "mem_id": []
+            },
+            {
+              "content": "Misses the extra boost in the afternoons from coffee.",
+              "mem_id": []
+            },
+            {
+              "content": "Has been taking short walks in the afternoon, which seems to help.",
+              "mem_id": []
+            },
+            {
+              "content": "Feels the need to focus more on overall health and energy levels now being 35 years old.",
+              "mem_id": []
+            }
+          ],
+          "location": [
+            {
+              "content": "Currently living in Austin.",
+              "mem_id": []
+            }
+          ],
+          "notes": [
+            {
+              "content": "Moved from San Francisco two years ago.",
+              "mem_id": []
+            },
+            {
+              "content": "Finding it challenging to balance work and personal life.",
+              "mem_id": []
+            },
+            {
+              "content": "Finds work hectic once he gets to the office.",
+              "mem_id": []
+            },
+            {
+              "content": "Feels like the work never stops.",
+              "mem_id": []
+            },
+            {
+              "content": "Unsure if meditation is making a difference yet.",
+              "mem_id": []
+            },
+            {
+              "content": "Finds balancing leadership role with being a good parent to Sophie challenging.",
+              "mem_id": []
+            },
+            {
+              "content": "Has joint custody of Sophie; sometimes hard to coordinate time together.",
+              "mem_id": []
+            },
+            {
+              "content": "Wants to make the most of the time he has with Sophie.",
+              "mem_id": []
+            },
+            {
+              "content": "Planning to start taking Max to the park every weekend with Sophie for playtime to create a fun tradition",
+              "mem_id": []
+            },
+            {
+              "content": "Plans to study Spanish with Sophie as a way to bond.",
+              "mem_id": []
+            },
+            {
+              "content": "Plans to find fun Spanish language apps and create a treasure hunt with Spanish clues to make learning fun with Sophie",
+              "mem_id": []
+            },
+            {
+              "content": "Including Max in Spanish learning could be a fun way for all of us to bond.",
+              "mem_id": []
+            },
+            {
+              "content": "Got divorced six months ago, making it challenging to find time for local activities.",
+              "mem_id": []
+            },
+            {
+              "content": "Thinks that playing tennis with Sophie could be a fun way to bond and meet other families.",
+              "mem_id": []
+            },
+            {
+              "content": "Believes engaging in renewable energy initiatives could be a fulfilling way to blend interests with staying active.",
+              "mem_id": []
+            },
+            {
+              "content": "Considering participating in renewable energy education initiatives with Sophie",
+              "mem_id": []
+            },
+            {
+              "content": "Reflecting on relationships, considering reconnecting with ex-partner Sarah for the family",
+              "mem_id": []
+            },
+            {
+              "content": "A colleague observed that Alex seems more reflective lately",
+              "mem_id": []
+            }
+          ],
+          "job": [
+            {
+              "content": "Founder of TechMind AI.",
+              "mem_id": []
+            },
+            {
+              "content": "Manages 50 employees at TechMind AI.",
+              "mem_id": []
+            }
+          ],
+          "interests": [
+            {
+              "content": "Has been trying to learn Spanish.",
+              "mem_id": []
+            },
+            {
+              "content": "Considering joining a Spanish club or attending community events in Austin to support language learning and bonding with Sophie.",
+              "mem_id": []
+            },
+            {
+              "content": "Has been playing tennis on weekends.",
+              "mem_id": []
+            },
+            {
+              "content": "Plans to look into local tennis clubs that offer family sessions.",
+              "mem_id": []
+            },
+            {
+              "content": "Passionate about renewable energy.",
+              "mem_id": []
+            },
+            {
+              "content": "Considering getting involved in renewable energy through volunteering or participating in local initiatives.",
+              "mem_id": []
+            }
+          ],
+          "age": [
+            {
+              "content": "35 years old",
+              "mem_id": []
+            }
+          ],
+          "name": [
+            {
+              "content": "Alex",
+              "mem_id": []
+            }
+          ]
+        },
+        "Connections": [
+          {
+            "id": 29815,
+            "relationship": "This is my daughter"
+          },
+          {
+            "id": 11819,
+            "relationship": "Owner of the family dog Max"
+          },
+          {
+            "id": 50006,
+            "relationship": "ex-partner"
+          }
+        ]
+      },
+      {
+        "Id": 29815,
+        "Description": "The user's daughter named Sophie.",
+        "Profile": {
+          "name": [
+            {
+              "content": "Sophie",
+              "mem_id": []
+            }
+          ],
+          "interests": [
+            {
+              "content": "Sophie loves animals",
+              "mem_id": []
+            },
+            {
+              "content": "Sophie is interested in learning Spanish.",
+              "mem_id": []
+            },
+            {
+              "content": "Enjoys interactive games for learning",
+              "mem_id": []
+            },
+            {
+              "content": "Loves playing with Max, the golden retriever",
+              "mem_id": []
+            },
+            {
+              "content": "Sophie enjoys being active outdoors.",
+              "mem_id": []
+            },
+            {
+              "content": "Might enjoy taking tennis lessons or playing tennis with the user.",
+              "mem_id": []
+            },
+            {
+              "content": "Interested in learning about renewable energy with the user",
+              "mem_id": []
+            }
+          ],
+          "age": [
+            {
+              "content": "7 years old",
+              "mem_id": []
+            }
+          ]
+        },
+        "Connections": [
+          {
+            "id": "31476",
+            "relationship": "This is my parent"
+          },
+          {
+            "id": 11819,
+            "relationship": "Sophie loves Max, their family dog"
+          },
+          {
+            "id": 50006,
+            "relationship": "Daughter of Sarah"
+          }
+        ]
+      },
+      {
+        "Id": 11819,
+        "Description": "A golden retriever named Max, the family dog of the user and Sophie.",
+        "Profile": {
+          "name": [
+            {
+              "content": "Max",
+              "mem_id": []
+            }
+          ],
+          "notes": [
+            {
+              "content": "Will be involved in Sophie's Spanish learning through games",
+              "mem_id": []
+            },
+            {
+              "content": "Max moved from San Francisco to Austin two years ago.",
+              "mem_id": []
+            },
+            {
+              "content": "Max has been adjusting to the new environment in Austin.",
+              "mem_id": []
+            }
+          ]
+        },
+        "Connections": [
+          {
+            "id": "31476",
+            "relationship": "Pet dog of the user"
+          },
+          {
+            "id": "29815",
+            "relationship": "Pet dog of Sophie"
+          }
+        ]
+      },
+      {
+        "Id": 50006,
+        "Description": "This is the user's ex-partner named Sarah",
+        "Profile": {
+          "name": [
+            {
+              "content": "Sarah",
+              "mem_id": []
+            }
+          ]
+        },
+        "Connections": [
+          {
+            "id": "31476",
+            "relationship": "ex-partner"
+          },
+          {
+            "id": "29815",
+            "relationship": "Mother of Sophie"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "person_id": 4,
+    "extracted_memories": [
+      {
+        "Id": 47714,
+        "Description": "This is the user, the person that is talking to you",
+        "Profile": {
+          "notes": [
+            {
+              "content": "has not visited Chicago in eight months",
+              "mem_id": []
+            },
+            {
+              "content": "feels guilty about not visiting mother",
+              "mem_id": []
+            },
+            {
+              "content": "worried about leaving mother alone",
+              "mem_id": []
+            },
+            {
+              "content": "Feels disconnected from mother due to being far away.",
+              "mem_id": []
+            },
+            {
+              "content": "Calls mother regularly, but feels it's not the same as being there with her.",
+              "mem_id": []
+            },
+            {
+              "content": "Wants to schedule regular video calls with mother to feel more connected",
+              "mem_id": []
+            },
+            {
+              "content": "Having difficulty managing time lately",
+              "mem_id": []
+            },
+            {
+              "content": "Is in the first year of university and adjusting to new demands",
+              "mem_id": []
+            },
+            {
+              "content": "Finds studying environmental science exciting but demanding",
+              "mem_id": []
+            },
+            {
+              "content": "Feels unable to catch up in chemistry class despite efforts.",
+              "mem_id": []
+            },
+            {
+              "content": "Finds joining a study group intimidating.",
+              "mem_id": []
+            },
+            {
+              "content": "Is considering seeking one-on-one help from a tutor or professor.",
+              "mem_id": []
+            },
+            {
+              "content": "Is worried about finding time between shifts at the caf\u00e9 and other commitments.",
+              "mem_id": []
+            },
+            {
+              "content": "Considering switching major to marine biology",
+              "mem_id": []
+            },
+            {
+              "content": "Doing well academically is very important",
+              "mem_id": []
+            },
+            {
+              "content": "Feels daunted about handling discussions since moving to London.",
+              "mem_id": []
+            }
+          ],
+          "job": [
+            {
+              "content": "University student working part-time at a caf\u00e9",
+              "mem_id": []
+            }
+          ],
+          "interests": [
+            {
+              "content": "Studying environmental science",
+              "mem_id": []
+            },
+            {
+              "content": "Passionate about climate activism",
+              "mem_id": []
+            }
+          ],
+          "health": [
+            {
+              "content": "Experiencing stress due to falling behind in chemistry class.",
+              "mem_id": []
+            },
+            {
+              "content": "Struggles with anxiety in social situations.",
+              "mem_id": []
+            },
+            {
+              "content": "Experiencing stress due to roommate's inconsiderate behavior.",
+              "mem_id": []
+            },
+            {
+              "content": "Finding it hard to focus on studies due to noise and constant disruptions",
+              "mem_id": []
+            },
+            {
+              "content": "Is feeling anxious due to Emma's health issues.",
+              "mem_id": []
+            },
+            {
+              "content": "Is feeling anxious about approaching Sarah to discuss their living situation.",
+              "mem_id": []
+            },
+            {
+              "content": "Feeling overwhelmed lately due to the situation with neighbors and feelings for James, making it hard to focus",
+              "mem_id": []
+            }
+          ],
+          "location": [
+            {
+              "content": "Lives in London",
+              "mem_id": []
+            }
+          ],
+          "age": [
+            {
+              "content": "19 years old",
+              "mem_id": []
+            }
+          ],
+          "name": [
+            {
+              "content": "Maya",
+              "mem_id": []
+            }
+          ]
+        },
+        "Connections": [
+          {
+            "id": 79495,
+            "relationship": "my mother"
+          },
+          {
+            "id": 56020,
+            "relationship": "this is my roommate"
+          },
+          {
+            "id": 86453,
+            "relationship": "Close friend whom I lean on for support."
+          },
+          {
+            "id": 91066,
+            "relationship": "Has a crush on James, a regular customer at the caf\u00e9"
+          }
+        ]
+      },
+      {
+        "Id": 79495,
+        "Description": "This is the user's mother",
+        "Profile": {
+          "location": [
+            {
+              "content": "lives in Chicago",
+              "mem_id": []
+            }
+          ],
+          "notes": [
+            {
+              "content": "Is the biggest supporter of the user.",
+              "mem_id": []
+            }
+          ]
+        },
+        "Connections": [
+          {
+            "id": "47714",
+            "relationship": "my child"
+          }
+        ]
+      },
+      {
+        "Id": 56020,
+        "Description": "Named Sarah, roommate of the user",
+        "Profile": {
+          "name": [
+            {
+              "content": "Sarah",
+              "mem_id": []
+            }
+          ],
+          "notes": [
+            {
+              "content": "She is often inconsiderate, and it's hard to study when she's around",
+              "mem_id": []
+            }
+          ]
+        },
+        "Connections": [
+          {
+            "id": "47714",
+            "relationship": "this is my roommate"
+          }
+        ]
+      },
+      {
+        "Id": 86453,
+        "Description": "Close friend named Emma whom the user leans on for support.",
+        "Profile": {
+          "name": [
+            {
+              "content": "Emma",
+              "mem_id": []
+            }
+          ],
+          "notes": [
+            {
+              "content": "Always knows how to make the user feel at ease.",
+              "mem_id": []
+            },
+            {
+              "content": "Met the user during the first week at university.",
+              "mem_id": []
+            },
+            {
+              "content": "Has been close with the user ever since.",
+              "mem_id": []
+            }
+          ],
+          "health": [
+            {
+              "content": "Is currently experiencing health issues.",
+              "mem_id": []
+            }
+          ]
+        },
+        "Connections": [
+          {
+            "id": "47714",
+            "relationship": "Friend who leans on me for support."
+          }
+        ]
+      },
+      {
+        "Id": 91066,
+        "Description": "Named James, a regular customer at the caf\u00e9 where the user works and whom the user has a crush on",
+        "Profile": {
+          "name": [
+            {
+              "content": "James",
+              "mem_id": []
+            }
+          ]
+        },
+        "Connections": [
+          {
+            "id": "47714",
+            "relationship": "Regular customer at the caf\u00e9 whom the user has a crush on"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "person_id": 5,
+    "extracted_memories": [
+      {
+        "Id": 33403,
+        "Description": "This is the user, the person that is talking to you",
+        "Profile": {
+          "job": [
+            {
+              "content": "is a professional soccer player",
+              "mem_id": []
+            },
+            {
+              "content": "midfielder in professional soccer",
+              "mem_id": []
+            },
+            {
+              "content": "plays for Argentina's national soccer team",
+              "mem_id": []
+            }
+          ],
+          "interests": [
+            {
+              "content": "is interested in pursuing a career in sports broadcasting",
+              "mem_id": []
+            },
+            {
+              "content": "wants to inspire young girls from poor neighborhoods through broadcasting",
+              "mem_id": []
+            }
+          ],
+          "notes": [
+            {
+              "content": "feels torn between continuing their soccer career and pursuing new opportunities",
+              "mem_id": []
+            },
+            {
+              "content": "studied communications in university and has been interested in broadcasting ever since",
+              "mem_id": []
+            },
+            {
+              "content": "worried about losing starting position to younger players if they step back from playing",
+              "mem_id": []
+            },
+            {
+              "content": "wants to find a way to honor their sister's memory while pursuing their passion",
+              "mem_id": []
+            },
+            {
+              "content": "has been considering retiring from playing to focus on broadcasting full-time",
+              "mem_id": []
+            },
+            {
+              "content": "is afraid of letting down their team and losing the connection to the sport as a player",
+              "mem_id": []
+            },
+            {
+              "content": "is unsure if it's the right time to make such a big change",
+              "mem_id": []
+            },
+            {
+              "content": "currently mentors young girls from poor neighborhoods",
+              "mem_id": []
+            },
+            {
+              "content": "Believes that talking about her experiences, including losing her sister Jenna, could help others",
+              "mem_id": []
+            },
+            {
+              "content": "has ideas on how to effectively share her story due to her communications background",
+              "mem_id": []
+            },
+            {
+              "content": "is nervous about being so open on a public platform",
+              "mem_id": []
+            },
+            {
+              "content": "wants to balance being authentic with protecting her own well-being",
+              "mem_id": []
+            },
+            {
+              "content": "wears the number 10 jersey in memory of their sister",
+              "mem_id": []
+            },
+            {
+              "content": "plans to have an open conversation with Carolina to ease the tension between them",
+              "mem_id": []
+            },
+            {
+              "content": "is considering meeting Carolina in Buenos Aires to reconnect",
+              "mem_id": []
+            },
+            {
+              "content": "has known Carolina since childhood",
+              "mem_id": []
+            },
+            {
+              "content": "is finding it challenging to balance their role as a midfielder with new broadcasting work",
+              "mem_id": []
+            },
+            {
+              "content": "is 28 and is starting to think more about their future",
+              "mem_id": []
+            },
+            {
+              "content": "Feels nervous about expressing thoughts to Carolina",
+              "mem_id": []
+            },
+            {
+              "content": "Believes that opening up to Carolina might strengthen their friendship",
+              "mem_id": []
+            },
+            {
+              "content": "Considering applying father's wisdom to make talking to Carolina easier",
+              "mem_id": []
+            },
+            {
+              "content": "Her father always told her to stay true to herself.",
+              "mem_id": []
+            }
+          ],
+          "age": [
+            {
+              "content": "28 years old",
+              "mem_id": []
+            }
+          ],
+          "name": [
+            {
+              "content": "Lucia",
+              "mem_id": []
+            }
+          ]
+        },
+        "Connections": [
+          {
+            "id": 12845,
+            "relationship": "this is my father"
+          },
+          {
+            "id": 39409,
+            "relationship": "this is my sister who passed away"
+          },
+          {
+            "id": 28914,
+            "relationship": "best friend"
+          },
+          {
+            "id": 91154,
+            "relationship": "this is our team's physiotherapist whom I've been leaning on for support"
+          }
+        ]
+      },
+      {
+        "Id": 12845,
+        "Description": "This is the user's father",
+        "Profile": {
+          "health": [
+            {
+              "content": "his health is declining",
+              "mem_id": []
+            }
+          ],
+          "job": [
+            {
+              "content": "was the user's first coach",
+              "mem_id": []
+            }
+          ],
+          "name": [
+            {
+              "content": "Jima",
+              "mem_id": []
+            }
+          ],
+          "notes": [
+            {
+              "content": "Gave advice to the user when they were younger",
+              "mem_id": []
+            },
+            {
+              "content": "Always knew how to calm the user's nerves before big games",
+              "mem_id": []
+            },
+            {
+              "content": "He used to say, 'Lucia, remember that open communication can solve many problems.'",
+              "mem_id": []
+            }
+          ]
+        },
+        "Connections": [
+          {
+            "id": "33403",
+            "relationship": "this is my child"
+          }
+        ]
+      },
+      {
+        "Id": 39409,
+        "Description": "Beloved sister of the user who has passed away",
+        "Profile": {
+          "notes": [
+            {
+              "content": "She passed away earlier",
+              "mem_id": []
+            },
+            {
+              "content": "She died in a car accident three years ago",
+              "mem_id": []
+            },
+            {
+              "content": "The user wears the number 10 jersey in her memory",
+              "mem_id": []
+            }
+          ],
+          "name": [
+            {
+              "content": "Jenna",
+              "mem_id": []
+            }
+          ]
+        },
+        "Connections": [
+          {
+            "id": "33403",
+            "relationship": "this is my sibling"
+          }
+        ]
+      },
+      {
+        "Id": 28914,
+        "Description": "Best friend of the user named Carolina",
+        "Profile": {
+          "name": [
+            {
+              "content": "Carolina",
+              "mem_id": []
+            }
+          ],
+          "notes": [
+            {
+              "content": "She has been a bit distant lately",
+              "mem_id": []
+            },
+            {
+              "content": "May be feeling jealous of the user's opportunities",
+              "mem_id": []
+            },
+            {
+              "content": "has been friends with the user since they were kids",
+              "mem_id": []
+            }
+          ]
+        },
+        "Connections": [
+          {
+            "id": "33403",
+            "relationship": "best friend"
+          }
+        ]
+      },
+      {
+        "Id": 91154,
+        "Description": "Named Simon, the team's physiotherapist whom the user has been leaning on for support lately",
+        "Profile": {
+          "name": [
+            {
+              "content": "Simon",
+              "mem_id": []
+            }
+          ],
+          "job": [
+            {
+              "content": "team's physiotherapist",
+              "mem_id": []
+            }
+          ]
+        },
+        "Connections": [
+          {
+            "id": "33403",
+            "relationship": "this is a player whom I have been supporting lately"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "person_id": 6,
+    "extracted_memories": [
+      {
+        "Id": 61963,
+        "Description": "This is the user, the person that is talking to you",
+        "Profile": {
+          "health": [
+            {
+              "content": "Feeling overwhelmed lately",
+              "mem_id": []
+            }
+          ],
+          "job": [
+            {
+              "content": "Running a restaurant that takes up much of their time",
+              "mem_id": []
+            },
+            {
+              "content": "Worked as a chef in Chicago where he learned about blending cultures and cooking styles.",
+              "mem_id": []
+            }
+          ],
+          "notes": [
+            {
+              "content": "Worried about not giving enough attention to family",
+              "mem_id": []
+            },
+            {
+              "content": "Wants to find a better balance between work and home life",
+              "mem_id": []
+            },
+            {
+              "content": "Feels very attached to the cooking process due to family recipes",
+              "mem_id": []
+            },
+            {
+              "content": "Worried that if he delegates cooking, the quality might suffer and customers might notice",
+              "mem_id": []
+            },
+            {
+              "content": "Arrived in America 15 years ago",
+              "mem_id": []
+            },
+            {
+              "content": "Considering mentoring someone to pass on his knowledge",
+              "mem_id": []
+            },
+            {
+              "content": "Hasn't built a strong network in Brooklyn due to focusing on running the restaurant.",
+              "mem_id": []
+            },
+            {
+              "content": "Considering involving his son Luca in attending food events as a way to spend more time together",
+              "mem_id": []
+            },
+            {
+              "content": "Planning to dedicate Sunday afternoons to cooking with Luca",
+              "mem_id": []
+            },
+            {
+              "content": "Family's homemade pasta recipe has been passed down for generations",
+              "mem_id": []
+            },
+            {
+              "content": "Plans to teach his son Luca how to make the family's homemade pasta",
+              "mem_id": []
+            },
+            {
+              "content": "Believes this will help Luca connect with his heritage",
+              "mem_id": []
+            },
+            {
+              "content": "Planning to share stories from his time in Naples during cooking sessions with Luca.",
+              "mem_id": []
+            }
+          ],
+          "interests": [
+            {
+              "content": "Specializes in Neapolitan cuisine",
+              "mem_id": []
+            },
+            {
+              "content": "Learned a lot from the chefs he worked with when he first came to America",
+              "mem_id": []
+            }
+          ],
+          "location": [
+            {
+              "content": "Originally from Naples, Italy",
+              "mem_id": []
+            },
+            {
+              "content": "Lived in Boston for two years after arriving in America.",
+              "mem_id": []
+            },
+            {
+              "content": "Moved to Brooklyn seven years ago and currently lives there.",
+              "mem_id": []
+            }
+          ],
+          "age": [
+            {
+              "content": "42 years old",
+              "mem_id": []
+            }
+          ],
+          "name": [
+            {
+              "content": "Surname is Esposito",
+              "mem_id": []
+            }
+          ]
+        },
+        "Connections": [
+          {
+            "id": 40728,
+            "relationship": "this is my wife"
+          },
+          {
+            "id": 67750,
+            "relationship": "this is my grandmother"
+          },
+          {
+            "id": 19757,
+            "relationship": "Close friend from back home, trusted since childhood."
+          },
+          {
+            "id": 43157,
+            "relationship": "this is my son"
+          },
+          {
+            "id": 99969,
+            "relationship": "this is my mother"
+          }
+        ]
+      },
+      {
+        "Id": 40728,
+        "Description": "This is the user's wife named Sofia who helps manage the restaurant's finances",
+        "Profile": {
+          "name": [
+            {
+              "content": "Sofia",
+              "mem_id": []
+            }
+          ],
+          "job": [
+            {
+              "content": "Helps manage the restaurant's finances",
+              "mem_id": []
+            }
+          ],
+          "age": [
+            {
+              "content": "38 years old",
+              "mem_id": []
+            }
+          ],
+          "notes": [
+            {
+              "content": "Thrilled about the idea of cooking sessions bringing the family closer together",
+              "mem_id": []
+            },
+            {
+              "content": "Sofia is turning 40 next week, and the user plans to bring the whole family together in the kitchen for the occasion.",
+              "mem_id": []
+            }
+          ]
+        },
+        "Connections": [
+          {
+            "id": "61963",
+            "relationship": "this is my husband"
+          }
+        ]
+      },
+      {
+        "Id": 67750,
+        "Description": "This is the user's grandmother who taught him family recipes",
+        "Profile": {
+          "notes": [
+            {
+              "content": "Taught the user family recipes of Neapolitan cuisine",
+              "mem_id": []
+            },
+            {
+              "content": "Used to visit markets with the user in Naples and prepared dishes together.",
+              "mem_id": []
+            }
+          ]
+        },
+        "Connections": [
+          {
+            "id": "61963",
+            "relationship": "this is my grandchild"
+          }
+        ]
+      },
+      {
+        "Id": 19757,
+        "Description": "Named Antonio, a close friend from back home whom the user has trusted since childhood.",
+        "Profile": {
+          "name": [
+            {
+              "content": "Antonio",
+              "mem_id": []
+            }
+          ]
+        },
+        "Connections": [
+          {
+            "id": "61963",
+            "relationship": "Friend of the user since childhood."
+          }
+        ]
+      },
+      {
+        "Id": 43157,
+        "Description": "The user's 7-year-old son named Luca who is interested in cooking",
+        "Profile": {
+          "name": [
+            {
+              "content": "Luca",
+              "mem_id": []
+            }
+          ],
+          "age": [
+            {
+              "content": "7 years old",
+              "mem_id": []
+            }
+          ],
+          "interests": [
+            {
+              "content": "Showing an interest in cooking",
+              "mem_id": []
+            }
+          ],
+          "notes": [
+            {
+              "content": "Learning to make the family's homemade pasta to connect with his heritage",
+              "mem_id": []
+            }
+          ]
+        },
+        "Connections": [
+          {
+            "id": "61963",
+            "relationship": "this is my father"
+          }
+        ]
+      },
+      {
+        "Id": 99969,
+        "Description": "Named Rosa, the user's mother who taught him family recipes",
+        "Profile": {
+          "name": [
+            {
+              "content": "Rosa",
+              "mem_id": []
+            }
+          ],
+          "notes": [
+            {
+              "content": "She taught her child the family recipes",
+              "mem_id": []
+            },
+            {
+              "content": "Will participate in cooking sessions via video call from Italy",
+              "mem_id": []
+            },
+            {
+              "content": "Feels closer to family when involved via video call",
+              "mem_id": []
+            },
+            {
+              "content": "Receives financial support from the user, who sends money to her in Naples",
+              "mem_id": []
+            }
+          ],
+          "location": [
+            {
+              "content": "Currently living in Italy",
+              "mem_id": []
+            },
+            {
+              "content": "Currently living in Naples, Italy",
+              "mem_id": []
+            }
+          ]
+        },
+        "Connections": [
+          {
+            "id": "61963",
+            "relationship": "this is my child"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "person_id": 7,
+    "extracted_memories": [
+      {
+        "Id": 79648,
+        "Description": "This is the user, the person that is talking to you",
+        "Profile": {
+          "age": [
+            {
+              "content": "31 years old",
+              "mem_id": []
+            }
+          ],
+          "job": [
+            {
+              "content": "Is a large animal veterinarian",
+              "mem_id": []
+            }
+          ],
+          "location": [
+            {
+              "content": "Lives in Calgary, Alberta",
+              "mem_id": []
+            }
+          ],
+          "health": [
+            {
+              "content": "Has been feeling overwhelmed and stressed due to demanding job and personal responsibilities",
+              "mem_id": []
+            },
+            {
+              "content": "Has been reluctant to reach out to others since the fallout with Rachel",
+              "mem_id": []
+            },
+            {
+              "content": "Feeling both excited and a bit anxious about putting herself out there socially",
+              "mem_id": []
+            },
+            {
+              "content": "Has been finding it hard to process the betrayal by Rachel and ex-husband Mike",
+              "mem_id": []
+            },
+            {
+              "content": "Managing these emotions has been tough and unsure if dating Tom helped",
+              "mem_id": []
+            },
+            {
+              "content": "Feels the need to dig deeper into past relationships to really heal",
+              "mem_id": []
+            },
+            {
+              "content": "Believes there may be a pattern in the kind of people she is drawn to",
+              "mem_id": []
+            },
+            {
+              "content": "Considering focusing on herself and what she truly wants in life, independent of relationships",
+              "mem_id": []
+            },
+            {
+              "content": "Believes that music has a healing quality",
+              "mem_id": []
+            },
+            {
+              "content": "Feels that creating something just for herself sounds really fulfilling",
+              "mem_id": []
+            },
+            {
+              "content": "Exploring these interests could be a great way to focus on what brings her joy",
+              "mem_id": []
+            },
+            {
+              "content": "Believes that rediscovering music might help her reconnect with a part of herself that she's missed",
+              "mem_id": []
+            },
+            {
+              "content": "Feels that sharing the painting experience with James will bring them even closer",
+              "mem_id": []
+            }
+          ],
+          "interests": [
+            {
+              "content": "Enjoys taking care of three horses",
+              "mem_id": []
+            },
+            {
+              "content": "Is planning a weekend getaway to relax and recharge",
+              "mem_id": []
+            },
+            {
+              "content": "Is considering rebuilding friendships and making new ones",
+              "mem_id": []
+            },
+            {
+              "content": "Considering joining local farming communities to connect with others",
+              "mem_id": []
+            },
+            {
+              "content": "Considering joining horse riding clubs to connect with others",
+              "mem_id": []
+            },
+            {
+              "content": "Is planning to attend local agricultural fairs to meet people",
+              "mem_id": []
+            },
+            {
+              "content": "Is planning to attend horse shows to meet people",
+              "mem_id": []
+            },
+            {
+              "content": "Is planning to reach out to the University of Calgary alumni network to join events or groups",
+              "mem_id": []
+            },
+            {
+              "content": "Has always loved painting, especially capturing the landscapes around Calgary",
+              "mem_id": []
+            },
+            {
+              "content": "Is thinking about learning to play the guitar",
+              "mem_id": []
+            },
+            {
+              "content": "Is planning to set aside some time each week for painting.",
+              "mem_id": []
+            },
+            {
+              "content": "Is planning to enroll in online guitar lessons to fit into her schedule.",
+              "mem_id": []
+            },
+            {
+              "content": "Is planning to visit scenic spots with James on weekends to paint.",
+              "mem_id": []
+            },
+            {
+              "content": "Plans to create a weekly schedule that includes time for painting and guitar practice.",
+              "mem_id": []
+            }
+          ],
+          "notes": [
+            {
+              "content": "Is the only large animal veterinarian within 100 miles",
+              "mem_id": []
+            },
+            {
+              "content": "Does not have any kids",
+              "mem_id": []
+            },
+            {
+              "content": "Has flexibility in schedule due to not having kids",
+              "mem_id": []
+            },
+            {
+              "content": "Graduated from the University of Calgary",
+              "mem_id": []
+            },
+            {
+              "content": "Is bound to run into Rachel eventually and is unsure how she feels about that",
+              "mem_id": []
+            },
+            {
+              "content": "Realizes that being attracted to excitement hasn't led to fulfilling relationships",
+              "mem_id": []
+            },
+            {
+              "content": "Learning guitar brings back fond memories of Peter from high school",
+              "mem_id": []
+            },
+            {
+              "content": "James is supportive, and they plan to make painting and guitar practice a shared activity.",
+              "mem_id": []
+            }
+          ],
+          "name": [
+            {
+              "content": "Oyo",
+              "mem_id": []
+            }
+          ]
+        },
+        "Connections": [
+          {
+            "id": 82962,
+            "relationship": "This is my boyfriend"
+          },
+          {
+            "id": 74648,
+            "relationship": "Had a fallout with Rachel"
+          },
+          {
+            "id": 54217,
+            "relationship": "This is my ex-husband"
+          },
+          {
+            "id": 12499,
+            "relationship": "Started dating Tom hoping it would help me heal"
+          },
+          {
+            "id": 46870,
+            "relationship": "This is my ex-boyfriend Kyle"
+          },
+          {
+            "id": 37868,
+            "relationship": "Peter was my high school sweetheart"
+          }
+        ]
+      },
+      {
+        "Id": 82962,
+        "Description": "User's boyfriend named James",
+        "Profile": {
+          "name": [
+            {
+              "content": "James",
+              "mem_id": []
+            }
+          ],
+          "notes": [
+            {
+              "content": "Is grounded and supportive; at 6'5\", his presence feels reassuring and safe",
+              "mem_id": []
+            },
+            {
+              "content": "Often helps Oyo carry her painting supplies; his height is useful for that.",
+              "mem_id": []
+            }
+          ],
+          "interests": [
+            {
+              "content": "Plans to participate in painting and guitar practice with Oyo as a shared activity.",
+              "mem_id": []
+            }
+          ]
+        },
+        "Connections": [
+          {
+            "id": "79648",
+            "relationship": "This is my partner"
+          }
+        ]
+      },
+      {
+        "Id": 74648,
+        "Description": "Named Rachel, someone the user had a fallout with",
+        "Profile": {
+          "name": [
+            {
+              "content": "Rachel",
+              "mem_id": []
+            }
+          ],
+          "job": [
+            {
+              "content": "Runs the local feed store",
+              "mem_id": []
+            }
+          ],
+          "notes": [
+            {
+              "content": "Was really close friends with the user before the fallout",
+              "mem_id": []
+            }
+          ]
+        },
+        "Connections": [
+          {
+            "id": "79648",
+            "relationship": "Had a fallout with the user"
+          },
+          {
+            "id": 54217,
+            "relationship": "Had an affair with Mike"
+          }
+        ]
+      },
+      {
+        "Id": 54217,
+        "Description": "Named Mike, ex-husband of the user",
+        "Profile": {
+          "name": [
+            {
+              "content": "Mike",
+              "mem_id": []
+            }
+          ],
+          "notes": [
+            {
+              "content": "Took risks that led to betrayal",
+              "mem_id": []
+            }
+          ]
+        },
+        "Connections": [
+          {
+            "id": "79648",
+            "relationship": "This is my ex-wife"
+          },
+          {
+            "id": "74648",
+            "relationship": "Had an affair with Rachel"
+          }
+        ]
+      },
+      {
+        "Id": 12499,
+        "Description": "Named Tom, someone the user dated after the affair with Mike and Rachel",
+        "Profile": {
+          "name": [
+            {
+              "content": "Tom",
+              "mem_id": []
+            }
+          ],
+          "notes": [
+            {
+              "content": "Had a spontaneous nature that didn't offer stability",
+              "mem_id": []
+            }
+          ]
+        },
+        "Connections": [
+          {
+            "id": "79648",
+            "relationship": "Dated the user who was healing from past betrayals"
+          }
+        ]
+      },
+      {
+        "Id": 46870,
+        "Description": "Named Kyle, someone the user dated before Mike",
+        "Profile": {
+          "name": [
+            {
+              "content": "Kyle",
+              "mem_id": []
+            }
+          ],
+          "job": [
+            {
+              "content": "Competes in the rodeo circuit",
+              "mem_id": []
+            }
+          ],
+          "location": [
+            {
+              "content": "Lives in Texas",
+              "mem_id": []
+            }
+          ]
+        },
+        "Connections": [
+          {
+            "id": "79648",
+            "relationship": "Dated the user before moving to Texas"
+          }
+        ]
+      },
+      {
+        "Id": 37868,
+        "Description": "Named Peter, the user's high school sweetheart",
+        "Profile": {
+          "name": [
+            {
+              "content": "Peter",
+              "mem_id": []
+            }
+          ],
+          "notes": [
+            {
+              "content": "Was kind and steady; had a simpler relationship with the user",
+              "mem_id": []
+            }
+          ],
+          "interests": [
+            {
+              "content": "Used to play guitar for the user in high school",
+              "mem_id": []
+            }
+          ]
+        },
+        "Connections": [
+          {
+            "id": "79648",
+            "relationship": "Had a relationship with the user during high school"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "person_id": 8,
+    "extracted_memories": [
+      {
+        "Id": 69660,
+        "Description": "This is the user, the person that is talking to you",
+        "Profile": {
+          "notes": [
+            {
+              "content": "Is struggling to reconnect with their son Pedro",
+              "mem_id": []
+            },
+            {
+              "content": "Still on good terms with ex-partner Maria",
+              "mem_id": []
+            },
+            {
+              "content": "Considers involving Maria to help reconnect with Pedro",
+              "mem_id": []
+            },
+            {
+              "content": "The user came out six months ago.",
+              "mem_id": []
+            },
+            {
+              "content": "Feeling nervous about talking to Pedro one-on-one",
+              "mem_id": []
+            },
+            {
+              "content": "Feels that delaying the conversation might make them and Pedro more distant",
+              "mem_id": []
+            },
+            {
+              "content": "It's been hard dealing with rejection from father, Carlos",
+              "mem_id": []
+            },
+            {
+              "content": "Feels overwhelmed due to upcoming court dates.",
+              "mem_id": []
+            },
+            {
+              "content": "Finds it tough to start new habits due to being set in their ways",
+              "mem_id": []
+            },
+            {
+              "content": "Finds corporate law demanding and stressful.",
+              "mem_id": []
+            },
+            {
+              "content": "Is finding it difficult to open up about their fears and is unsure who to turn to.",
+              "mem_id": []
+            },
+            {
+              "content": "Is considering seeking support from professional counselors or support groups.",
+              "mem_id": []
+            },
+            {
+              "content": "Feels like they are still getting to know who they really are beyond the roles they've always played.",
+              "mem_id": []
+            }
+          ],
+          "health": [
+            {
+              "content": "Is experiencing panic attacks before important court dates.",
+              "mem_id": []
+            },
+            {
+              "content": "Is experiencing anxiety about potentially losing clients if they find out about their sexuality",
+              "mem_id": []
+            },
+            {
+              "content": "Has trouble sleeping at night due to this concern",
+              "mem_id": []
+            }
+          ],
+          "age": [
+            {
+              "content": "45 years old",
+              "mem_id": []
+            }
+          ],
+          "location": [
+            {
+              "content": "Lives in S\u00e3o Paulo",
+              "mem_id": []
+            }
+          ],
+          "interests": [
+            {
+              "content": "Interested in trying relaxation techniques",
+              "mem_id": []
+            }
+          ],
+          "job": [
+            {
+              "content": "Works in corporate law.",
+              "mem_id": []
+            },
+            {
+              "content": "Partner in a law firm",
+              "mem_id": []
+            }
+          ],
+          "name": [
+            {
+              "content": "Rafael",
+              "mem_id": []
+            }
+          ]
+        },
+        "Connections": [
+          {
+            "id": 28456,
+            "relationship": "this is my son"
+          },
+          {
+            "id": 22421,
+            "relationship": "ex-partner"
+          },
+          {
+            "id": 74182,
+            "relationship": "this is my mother"
+          },
+          {
+            "id": 95138,
+            "relationship": "this is my father"
+          },
+          {
+            "id": 65597,
+            "relationship": "Jo\u00e3o is my friend who has been a great help"
+          }
+        ]
+      },
+      {
+        "Id": 28456,
+        "Description": "The user's son named Pedro",
+        "Profile": {
+          "name": [
+            {
+              "content": "Pedro",
+              "mem_id": []
+            }
+          ],
+          "notes": [
+            {
+              "content": "Seems distant towards the user since recent changes in the user's life",
+              "mem_id": []
+            },
+            {
+              "content": "Pedro has been struggling to accept that the user came out.",
+              "mem_id": []
+            },
+            {
+              "content": "May not be ready to open up during conversation with the user",
+              "mem_id": []
+            }
+          ],
+          "age": [
+            {
+              "content": "15 years old",
+              "mem_id": []
+            }
+          ]
+        },
+        "Connections": [
+          {
+            "id": "69660",
+            "relationship": "this is my parent"
+          },
+          {
+            "id": 22421,
+            "relationship": "mother"
+          }
+        ]
+      },
+      {
+        "Id": 22421,
+        "Description": "Named Maria, she is Pedro's mother and the user's ex-partner",
+        "Profile": {
+          "name": [
+            {
+              "content": "Maria",
+              "mem_id": []
+            }
+          ],
+          "notes": [
+            {
+              "content": "She has been very supportive to the user",
+              "mem_id": []
+            }
+          ]
+        },
+        "Connections": [
+          {
+            "id": "69660",
+            "relationship": "ex-partner"
+          },
+          {
+            "id": "28456",
+            "relationship": "mother of Pedro"
+          }
+        ]
+      },
+      {
+        "Id": 74182,
+        "Description": "Named Isabella, she is the user's mother",
+        "Profile": {
+          "name": [
+            {
+              "content": "Isabella",
+              "mem_id": []
+            }
+          ],
+          "notes": [
+            {
+              "content": "Suggested that the user give Pedro some time",
+              "mem_id": []
+            },
+            {
+              "content": "Has been surprisingly supportive, giving the user hope",
+              "mem_id": []
+            }
+          ]
+        },
+        "Connections": [
+          {
+            "id": "69660",
+            "relationship": "this is my child"
+          }
+        ]
+      },
+      {
+        "Id": 95138,
+        "Description": "Named Carlos, he is the user's father",
+        "Profile": {
+          "name": [
+            {
+              "content": "Carlos",
+              "mem_id": []
+            }
+          ],
+          "notes": [
+            {
+              "content": "Hasn't spoken to the user since they came out",
+              "mem_id": []
+            }
+          ]
+        },
+        "Connections": [
+          {
+            "id": "69660",
+            "relationship": "this is my child"
+          }
+        ]
+      },
+      {
+        "Id": 65597,
+        "Description": "Named Jo\u00e3o, the user's friend who has been a great help",
+        "Profile": {
+          "name": [
+            {
+              "content": "Jo\u00e3o",
+              "mem_id": []
+            }
+          ],
+          "notes": [
+            {
+              "content": "Has been a great help to the user; might offer advice on approaching Pedro",
+              "mem_id": []
+            }
+          ]
+        },
+        "Connections": [
+          {
+            "id": "69660",
+            "relationship": "friend of the user"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "person_id": 9,
+    "extracted_memories": [
+      {
+        "Id": 81663,
+        "Description": "This is the user, the person that is talking to you",
+        "Profile": {
+          "interests": [
+            {
+              "content": "Passionate about growing their AI startup",
+              "mem_id": []
+            },
+            {
+              "content": "Believes that AI can make a significant positive impact on the world",
+              "mem_id": []
+            },
+            {
+              "content": "Loves watching 'Attack on Titan'",
+              "mem_id": []
+            }
+          ],
+          "notes": [
+            {
+              "content": "Feeling torn due to tension between pursuing AI startup and mother's wishes to return to university",
+              "mem_id": []
+            },
+            {
+              "content": "Has been pulling 16-hour workdays lately on BridgeAI",
+              "mem_id": []
+            },
+            {
+              "content": "Is planning to involve best friend Kai to help explain the technical aspects of BridgeAI to parents",
+              "mem_id": []
+            },
+            {
+              "content": "Believes that mom, Linda, might appreciate seeing how dedicated the user is",
+              "mem_id": []
+            },
+            {
+              "content": "Studied Computer Science at NUS",
+              "mem_id": []
+            },
+            {
+              "content": "Plans to demonstrate BridgeAI's capabilities related to 'Attack on Titan' to capture mother's interest",
+              "mem_id": []
+            },
+            {
+              "content": "Is planning to create a feature in BridgeAI that offers insights and generates discussions on 'Attack on Titan's deeper themes",
+              "mem_id": []
+            },
+            {
+              "content": "Believes this will make the technology more relatable for her mother",
+              "mem_id": []
+            },
+            {
+              "content": "Plans to use the new interactive feature of BridgeAI to delve into 'Attack on Titan' together with mother, making the experience more engaging for her.",
+              "mem_id": []
+            },
+            {
+              "content": "Acknowledges that BridgeAI isn't picking up much traction and hopes that adding innovative features might attract more users who share similar interests.",
+              "mem_id": []
+            },
+            {
+              "content": "Has less than $1000 in the bank account, making it challenging to expand the development scope right now",
+              "mem_id": []
+            },
+            {
+              "content": "Hasn't invested much time in community engagement",
+              "mem_id": []
+            },
+            {
+              "content": "Usually only hangs out with friends once every two weeks",
+              "mem_id": []
+            },
+            {
+              "content": "Considering tapping into fan forums to connect with others who share interests",
+              "mem_id": []
+            },
+            {
+              "content": "Dreams of eventually taking BridgeAI to places like San Francisco and believes building a strong community is crucial",
+              "mem_id": []
+            },
+            {
+              "content": "Realizes that balance is important and wants to avoid overworking",
+              "mem_id": []
+            }
+          ],
+          "job": [
+            {
+              "content": "Is the founder of BridgeAI",
+              "mem_id": []
+            }
+          ],
+          "location": [
+            {
+              "content": "Lives in Singapore",
+              "mem_id": []
+            }
+          ],
+          "age": [
+            {
+              "content": "22 years old",
+              "mem_id": []
+            }
+          ]
+        },
+        "Connections": [
+          {
+            "id": 11017,
+            "relationship": "This is my mother"
+          },
+          {
+            "id": 11884,
+            "relationship": "This is my father"
+          },
+          {
+            "id": 26236,
+            "relationship": "Best friend"
+          }
+        ]
+      },
+      {
+        "Id": 11017,
+        "Description": "This is the user's mother",
+        "Profile": {
+          "notes": [
+            {
+              "content": "Urging the user to return to university, causing tension",
+              "mem_id": []
+            },
+            {
+              "content": "Is skeptical of BridgeAI because it hasn't picked up much traction yet",
+              "mem_id": []
+            }
+          ],
+          "name": [
+            {
+              "content": "Linda",
+              "mem_id": []
+            }
+          ],
+          "interests": [
+            {
+              "content": "Loves watching 'Attack on Titan'",
+              "mem_id": []
+            }
+          ]
+        },
+        "Connections": [
+          {
+            "id": "81663",
+            "relationship": "This is my child"
+          }
+        ]
+      },
+      {
+        "Id": 69575,
+        "Description": "BridgeAI is the user's AI startup",
+        "Profile": {
+          "notes": [
+            {
+              "content": "An AI startup aiming to make a significant positive impact on the world",
+              "mem_id": []
+            },
+            {
+              "content": "Aims to simplify AI for everyday users by showing real-world applications",
+              "mem_id": []
+            },
+            {
+              "content": "Can offer personalized recommendations for similar shows or provide insights into series",
+              "mem_id": []
+            },
+            {
+              "content": "Will include a feature that offers insights and generates discussions on 'Attack on Titan's deeper themes",
+              "mem_id": []
+            },
+            {
+              "content": "Developing an interactive feature where BridgeAI poses thought-provoking questions and prompts discussions about 'Attack on Titan' to engage users.",
+              "mem_id": []
+            },
+            {
+              "content": "BridgeAI faces financial constraints with limited resources",
+              "mem_id": []
+            },
+            {
+              "content": "The user dreams of eventually taking BridgeAI to places like San Francisco",
+              "mem_id": []
+            }
+          ]
+        },
+        "Connections": []
+      },
+      {
+        "Id": 11884,
+        "Description": "This is the user's dad, named James",
+        "Profile": {
+          "name": [
+            {
+              "content": "James",
+              "mem_id": []
+            }
+          ],
+          "notes": [
+            {
+              "content": "Has been really supportive of the user's efforts with BridgeAI",
+              "mem_id": []
+            }
+          ]
+        },
+        "Connections": [
+          {
+            "id": "81663",
+            "relationship": "This is my child"
+          }
+        ]
+      },
+      {
+        "Id": 26236,
+        "Description": "Named Kai, this is the user's best friend who works as a software engineer",
+        "Profile": {
+          "name": [
+            {
+              "content": "Kai",
+              "mem_id": []
+            }
+          ],
+          "job": [
+            {
+              "content": "Works as a software engineer",
+              "mem_id": []
+            }
+          ]
+        },
+        "Connections": [
+          {
+            "id": "81663",
+            "relationship": "Best friend"
+          }
+        ]
+      },
+      {
+        "Id": 36552,
+        "Description": "San Francisco, a city the user dreams of taking BridgeAI to",
+        "Profile": {
+          "name": [
+            {
+              "content": "San Francisco",
+              "mem_id": []
+            }
+          ]
+        },
+        "Connections": []
+      }
+    ]
+  },
+  {
+    "person_id": 10,
+    "extracted_memories": [
+      {
+        "Id": 37072,
+        "Description": "This is the user, the person that is talking to you",
+        "Profile": {
+          "notes": [
+            {
+              "content": "Considering making a significant change in their career and seeking advice on how to approach the decision",
+              "mem_id": []
+            },
+            {
+              "content": "Starting to question if modeling is still right due to industry challenges",
+              "mem_id": []
+            },
+            {
+              "content": "Believes a career change might help find a new direction",
+              "mem_id": []
+            },
+            {
+              "content": "Feels upset and betrayed because Madison has been spreading rumors about my eating habits and talking badly about me to Vogue editors",
+              "mem_id": []
+            },
+            {
+              "content": "Considering coaching or working with youth programs in hockey to combine passion with something new",
+              "mem_id": []
+            },
+            {
+              "content": "Feels overwhelmed about where to start with volunteering or coaching in hockey",
+              "mem_id": []
+            },
+            {
+              "content": "Needs to work on setting boundaries with personal drama involving close friends",
+              "mem_id": []
+            },
+            {
+              "content": "Starting to research local ice rinks for coaching opportunities",
+              "mem_id": []
+            },
+            {
+              "content": "Considering talking to Ava but worried it might complicate things further",
+              "mem_id": []
+            }
+          ],
+          "age": [
+            {
+              "content": "24 years old",
+              "mem_id": []
+            }
+          ],
+          "job": [
+            {
+              "content": "Has been modeling since teenage years",
+              "mem_id": []
+            }
+          ],
+          "health": [
+            {
+              "content": "Dealing with personal issues that have been weighing on them",
+              "mem_id": []
+            },
+            {
+              "content": "Considering starting therapy to work through personal issues",
+              "mem_id": []
+            },
+            {
+              "content": "Feeling overwhelmed and drained due to personal drama",
+              "mem_id": []
+            },
+            {
+              "content": "Feeling stressed and in an awkward position due to knowing about Ava kissing Liam",
+              "mem_id": []
+            },
+            {
+              "content": "Feeling stressed because Madison and Sophie are unknowingly dating the same guy",
+              "mem_id": []
+            },
+            {
+              "content": "Feeling more stressed due to Liam contacting Lily and her being upset",
+              "mem_id": []
+            }
+          ],
+          "interests": [
+            {
+              "content": "Used to love playing hockey and is considering picking it up again",
+              "mem_id": []
+            },
+            {
+              "content": "Planning to dive back into hockey to find balance and happiness",
+              "mem_id": []
+            }
+          ],
+          "location": [
+            {
+              "content": "Lives in New York City",
+              "mem_id": []
+            }
+          ],
+          "name": [
+            {
+              "content": "Zara",
+              "mem_id": []
+            }
+          ]
+        },
+        "Connections": [
+          {
+            "id": 12367,
+            "relationship": "This is a fellow model who has been spreading rumors about me"
+          },
+          {
+            "id": 90765,
+            "relationship": "Best friend since middle school"
+          },
+          {
+            "id": 31163,
+            "relationship": "Friend named Ava"
+          },
+          {
+            "id": 68845,
+            "relationship": "Friend named Sophie"
+          }
+        ]
+      },
+      {
+        "Id": 12367,
+        "Description": "A fellow model named Madison",
+        "Profile": {
+          "name": [
+            {
+              "content": "Madison",
+              "mem_id": []
+            }
+          ]
+        },
+        "Connections": [
+          {
+            "id": "37072",
+            "relationship": "Person Madison has been spreading rumors about"
+          },
+          {
+            "id": 31163,
+            "relationship": "Being targeted by Ava"
+          },
+          {
+            "id": 22568,
+            "relationship": "Madison is dating Liam"
+          },
+          {
+            "id": 41624,
+            "relationship": "Currently dating this person without knowing he's also dating Sophie"
+          }
+        ]
+      },
+      {
+        "Id": 90765,
+        "Description": "Named Lily, the user's best friend who is also a model",
+        "Profile": {
+          "name": [
+            {
+              "content": "Lily",
+              "mem_id": []
+            }
+          ],
+          "job": [
+            {
+              "content": "Model",
+              "mem_id": []
+            }
+          ],
+          "notes": [
+            {
+              "content": "Has been encouraging the user to explore different opportunities",
+              "mem_id": []
+            },
+            {
+              "content": "Upset because Liam tried to message her",
+              "mem_id": []
+            }
+          ]
+        },
+        "Connections": [
+          {
+            "id": "37072",
+            "relationship": "Best friend since middle school"
+          },
+          {
+            "id": "22568",
+            "relationship": "Received unwanted messages from Liam, making her upset"
+          }
+        ]
+      },
+      {
+        "Id": 31163,
+        "Description": "Named Ava, a friend of the user who is trying to turn everyone against Madison",
+        "Profile": {
+          "name": [
+            {
+              "content": "Ava",
+              "mem_id": []
+            }
+          ]
+        },
+        "Connections": [
+          {
+            "id": "37072",
+            "relationship": "Friend of the user"
+          },
+          {
+            "id": "12367",
+            "relationship": "Trying to turn everyone against Madison"
+          },
+          {
+            "id": 22568,
+            "relationship": "Ava secretly kissed Liam last week"
+          }
+        ]
+      },
+      {
+        "Id": 22568,
+        "Description": "Named Liam, boyfriend of Madison",
+        "Profile": {
+          "name": [
+            {
+              "content": "Liam",
+              "mem_id": []
+            }
+          ],
+          "notes": [
+            {
+              "content": "Tried sliding into Lily's DMs",
+              "mem_id": []
+            }
+          ]
+        },
+        "Connections": [
+          {
+            "id": "12367",
+            "relationship": "Liam is dating Madison"
+          },
+          {
+            "id": "31163",
+            "relationship": "Liam was secretly kissed by Ava last week"
+          },
+          {
+            "id": "90765",
+            "relationship": "Tried to contact Lily via DMs, causing her distress"
+          }
+        ]
+      },
+      {
+        "Id": 68845,
+        "Description": "Named Sophie, a friend of the user who is secretly dating the same guy as Madison without knowing it",
+        "Profile": {
+          "name": [
+            {
+              "content": "Sophie",
+              "mem_id": []
+            }
+          ]
+        },
+        "Connections": [
+          {
+            "id": "37072",
+            "relationship": "Friend of the user"
+          },
+          {
+            "id": 41624,
+            "relationship": "Currently dating this person without knowing he's also dating Madison"
+          }
+        ]
+      },
+      {
+        "Id": 41624,
+        "Description": "Unnamed guy who is secretly dating both Madison and Sophie",
+        "Profile": {},
+        "Connections": [
+          {
+            "id": "12367",
+            "relationship": "Secretly dating Madison"
+          },
+          {
+            "id": 68845,
+            "relationship": "Secretly dating Sophie"
+          }
+        ]
+      }
+    ]
+  }
+]

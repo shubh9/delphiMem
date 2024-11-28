@@ -109,119 +109,83 @@
     "extracted_memories": [
       {
         "id": [90128],
-        "content": "Navid<user> is a high school counselor<profession>"
+        "content": "Is a high school counselor"
       },
       {
-        "id": [7034],
-        "content": "Navid<user> wakes up early for a short yoga session"
+        "id": [90129],
+        "content": "Has a family"
+      },
+      {
+        "id": [90134],
+        "content": "Used to do yoga often"
+      },
+      {
+        "id": [90129],
+        "content": "Has a husband"
       },
       {
         "id": [90139],
-        "content": "Navid<user>'s husband<spouse> leaves early for his job at the hospital"
+        "content": "Husband works at a hospital"
       },
       {
-        "id": [4526],
-        "content": "Navid<user>'s mother<family_member> wakes up later"
+        "id": [90137],
+        "content": "Lives with mother"
       },
       {
-        "id": [90135, 90131],
-        "content": "Emma<daughter> is studying nursing<degree> in college<institution>"
+        "id": [90131],
+        "content": "Has a daughter named Emma"
       },
       {
-        "id": [45679, 90131],
-        "content": "Emma<daughter> is 21<age>"
+        "id": [45679],
+        "content": "Emma is 21 years old"
+      },
+      {
+        "id": [90135],
+        "content": "Emma is studying nursing in college"
       },
       {
         "id": [90133],
-        "content": "Navid<user> has type 2 diabetes<condition>"
-      },
-      {
-        "id": [45679, 90131],
-        "content": "Emma<daughter> would be happy to join Navid<user> for yoga"
+        "content": "Has type 2 diabetes"
       },
       {
         "id": [90124],
-        "content": "Jake<son> is 17<age>"
-      },
-      {
-        "id": [90140],
-        "content": "Jake<son> is very close with Navid<user>'s husband<spouse>"
-      },
-      {
-        "id": [90134],
-        "content": "Navid<user> practices yoga often"
-      },
-      {
-        "id": [8949],
-        "content": "Jake<son> has free evenings during the week"
-      },
-      {
-        "id": [90132],
-        "content": "Jake<son> plays baseball"
-      },
-      {
-        "id": [90132],
-        "content": "Navid<user> is looking into poses like Pigeon Pose and Downward-Facing Dog for Jake<son>'s hamstrings and flexibility"
-      },
-      {
-        "id": [90134],
-        "content": "Navid<user> is still learning yoga poses"
-      },
-      {
-        "id": [3182],
-        "content": "Navid<user> is considering attending a beginner's yoga class with Jake<son>"
-      },
-      {
-        "id": [90142],
-        "content": "Navid<user> has a book club<activity_group>"
+        "content": "Has a 17-year-old son named Jake"
       },
       {
         "id": [90138],
-        "content": "Navid<user> volunteers at a food bank<place>"
-      },
-      {
-        "id": [90137, 20012],
-        "content": "Navid<user>'s mother<family_member> lives with Navid<user>"
+        "content": "Volunteers at a food bank"
       },
       {
         "id": [90141],
-        "content": "Navid<user>'s mother<family_member> has chronic knee pain"
+        "content": "Mother has chronic knee pain"
+      },
+      {
+        "id": [],
+        "content": "Feels stretched thin between work, family, and volunteer activities"
       },
       {
         "id": [90136],
-        "content": "Navid<user> paints watercolors with Navid<user>'s mother<family_member>"
+        "content": "Mother enjoys painting watercolors"
+      },
+      {
+        "id": [90136],
+        "content": "User often paints watercolors with mother"
       },
       {
         "id": [90126],
-        "content": "Navid<user> is 50<age>"
-      },
-      {
-        "id": [3601],
-        "content": "Navid<user> is balancing work<activity>, family<responsibility>, and personal interests<activity>"
+        "content": "User is 50 years old"
       },
       {
         "id": [90127],
-        "content": "Navid<user> lives in Seattle<city>"
+        "content": "Lives in Seattle"
       },
       {
-        "id": [90136],
-        "content": "Navid<user> plans to paint watercolors with Navid<user>'s mother<family_member> on Wednesday evenings"
-      },
-      {
-        "id": [2803],
-        "content": "Navid<user> plans to package and deliver watercolors with Jake<son> on Saturdays"
-      },
-      {
-        "id": [90136],
-        "content": "Navid<user> wants to send watercolors to local hospitals or senior centers"
+        "id": [90129],
+        "content": "Husband's name is David"
       },
       {
         "id": [90130],
-        "content": "Navid<user> has been married to David<spouse> for 23 years"
-      },
-      {
-        "id": [90129, 90125],
-        "content": "David<spouse> is supportive of Patricia<user>'s hobbies"
+        "content": "Married to David for 23 years"
       }
     ]
   },

@@ -140,9 +140,9 @@ class MetricsReporter:
     def print_report(self) -> None:
         """Print a formatted report of all metrics."""
         # Print individual metrics
-        for person_id, metrics in self.all_metrics.items():
-            print(f"\n=== Metrics for Person {person_id} ===")
-            self._print_person_metrics(metrics)
+        # for person_id, metrics in self.all_metrics.items():
+        #     print(f"\n=== Metrics for Person {person_id} ===")
+        #     self._print_person_metrics(metrics)
         
         # Print aggregate metrics
         print("\n=== Aggregate Metrics (Average Across All People) ===")
@@ -162,7 +162,7 @@ class MetricsReporter:
     def print_worst_performing_questions(self):
         """Print the worst performing questions by recall and precision"""
         # Load extracted_memories data to get memory contents
-        with open("data/extracted_memories.json", 'r') as f:
+        with open("data/extracted_memories/structuredpointextractor_20241127_1650.json", 'r') as f:
             extracted_memories = json.load(f)
         
         # Create a mapping of memory id to content for quick lookup
@@ -196,18 +196,30 @@ class MetricsReporter:
                     'actual_ids': q["actual_memory_ids"]
                 })
         
-        # Sort by recall and precision
-        worst_recall = sorted(question_metrics, key=lambda x: x['recall'])[:10]
-        worst_precision = sorted(question_metrics, key=lambda x: x['precision'])[:10]
+        # Calculate F1 score for each question
+        for q in question_metrics:
+            precision = q['precision']
+            recall = q['recall']
+            q['f1'] = 2 * (precision * recall) / (precision + recall) if (precision + recall) > 0 else 0
+
+        # # Filter out questions where any actual memory was not found
+        # worst_f1 = [
+        #     q for q in question_metrics
+        #     if all(aid in memory_map for aid in q['actual_ids'])
+        # ]
         
-        # Print worst recall questions
+        # Sort by F1 score
+        worst_f1 = sorted(worst_f1, key=lambda x: x['f1'])[:10]
+
+        # Print worst F1 questions
         print("\n" + "="*100)
-        print("WORST 10 QUESTIONS BY RECALL")
+        print("WORST 10 QUESTIONS BY F1 SCORE (Excluding 'Memory not found')")
         print("="*100)
-        for i, q in enumerate(worst_recall, 1):
+        for i, q in enumerate(worst_f1, 1):
             print(f"\n{i}. Question (Person {q['person_id']}): {q['question']}")
-            print(f"   Recall Score: {q['recall']:.3f}")
+            print(f"   F1 Score: {q['f1']:.3f}")
             print(f"   Precision Score: {q['precision']:.3f}")
+            print(f"   Recall Score: {q['recall']:.3f}")
             print("\n   Predicted Memories (What the model matched):")
             for pid, ptext in zip(q['predicted_ids'], q['predicted_texts']):
                 print(f"   - ID {pid}: {ptext}")
@@ -216,22 +228,91 @@ class MetricsReporter:
                 content = memory_map.get(aid, f"Memory {aid} not found")
                 print(f"   - ID {aid}: {content}")
             print("-"*80)
+
+    def print_worst_performing_structured_questions(self):
+        """Print the worst performing questions specifically for structured memory format"""
+        # Load extracted_memories data to get structured memory contents
+        with open("data/extracted_memories/structuredpointextractor_20241127_1650.json", 'r') as f:
+            extracted_memories = json.load(f)
         
-        # Print worst precision questions
+        # Create a mapping of memory id to structured content for quick lookup
+        memory_map = {}
+        for person in extracted_memories:
+            for memory in person["extracted_memories"]:
+                # Handle profile information
+                if "Profile" in memory:
+                    for category, items in memory["Profile"].items():
+                        for item in items:
+                            if "mem_id" in item:
+                                memory_map[item["mem_id"]] = {
+                                    "content": item["content"],
+                                    "category": category,
+                                    "person_id": memory["Id"]
+                                }
+        
+        # Flatten all questions with their metrics
+        question_metrics = []
+        
+        for person in self.quiz_data:
+            person_id = person["person_id"]
+            for q in person["questions"]:
+                predicted_set = set(q["predicted_memory_ids"])
+                actual_set = set(q["actual_memory_ids"])
+                
+                true_positives = len(predicted_set & actual_set)
+                false_positives = len(predicted_set - actual_set)
+                false_negatives = len(actual_set - predicted_set)
+                
+                precision = true_positives / len(predicted_set) if predicted_set else 0
+                recall = true_positives / len(actual_set) if actual_set else 0
+                f1 = 2 * (precision * recall) / (precision + recall) if (precision + recall) > 0 else 0
+                
+                question_metrics.append({
+                    'person_id': person_id,
+                    'question': q["question"],
+                    'precision': precision,
+                    'recall': recall,
+                    'f1': f1,
+                    'predicted_ids': q["predicted_memory_ids"],
+                    'predicted_texts': q["predicted_texts"],
+                    'actual_ids': q["actual_memory_ids"],
+                    'true_positives': true_positives,
+                    'false_positives': false_positives,
+                    'false_negatives': false_negatives
+                })
+        
+        # Sort by F1 score
+        worst_f1 = sorted(question_metrics, key=lambda x: x['f1'])[:10]
+
+        # Print worst F1 questions with structured analysis
         print("\n" + "="*100)
-        print("WORST 10 QUESTIONS BY PRECISION")
+        print("WORST 10 QUESTIONS BY F1 SCORE (STRUCTURED ANALYSIS)")
         print("="*100)
-        for i, q in enumerate(worst_precision, 1):
+        
+        for i, q in enumerate(worst_f1, 1):
             print(f"\n{i}. Question (Person {q['person_id']}): {q['question']}")
-            print(f"   Precision Score: {q['precision']:.3f}")
-            print(f"   Recall Score: {q['recall']:.3f}")
-            print("\n   Predicted Memories (What the model matched):")
-            for pid, ptext in zip(q['predicted_ids'], q['predicted_texts']):
-                print(f"   - ID {pid}: {ptext}")
-            print("\n   Actual Memories (What should have been matched):")
-            for aid in q['actual_ids']:
-                content = memory_map.get(aid, f"Memory {aid} not found")
-                print(f"   - ID {aid}: {content}")
+            
+            print("\n   Correctly Matched Memories:")
+            correct_matches = set(q['predicted_ids']) & set(q['actual_ids'])
+            for mem_id in correct_matches:
+                if mem_id in memory_map:
+                    mem = memory_map[mem_id]
+                    print(f"   ✓ [{mem['category']}] ID {mem_id}: {mem['content']} (Person {mem['person_id']})")
+            
+            print("\n   Incorrect Predictions (False Positives):")
+            false_positives = set(q['predicted_ids']) - set(q['actual_ids'])
+            for mem_id in false_positives:
+                if mem_id in memory_map:
+                    mem = memory_map[mem_id]
+                    print(f"   ✗ [{mem['category']}] ID {mem_id}: {mem['content']} (Person {mem['person_id']})")
+            
+            print("\n   Missed Memories (False Negatives):")
+            false_negatives = set(q['actual_ids']) - set(q['predicted_ids'])
+            for mem_id in false_negatives:
+                if mem_id in memory_map:
+                    mem = memory_map[mem_id]
+                    print(f"   ! [{mem['category']}] ID {mem_id}: {mem['content']} (Person {mem['person_id']})")
+            
             print("-"*80)
 
 def analyze_quiz(quiz_file_path: str) -> Tuple[Dict, List]:
@@ -290,7 +371,7 @@ def main():
     
     reporter = MetricsReporter(all_metrics, quiz_data)
     reporter.print_report()
-    reporter.print_worst_performing_questions()
+    reporter.print_worst_performing_structured_questions()
 
 if __name__ == "__main__":
     main() 

@@ -3,19 +3,6 @@
     "person_id": 2,
     "questions": [
       {
-        "question_id": 1,
-        "question": "What is your name?",
-        "difficulty": "easy",
-        "predicted_memory_ids": [45679, 90131, 90126, 45679, 90131],
-        "actual_memory_ids": [90125],
-        "predicted_texts": [
-          "Emma<daughter> would be happy to join Navid<user> for yoga",
-          "Navid<user> is 50<age>",
-          "Emma<daughter> is 21<age>"
-        ],
-        "accuracy": 0.0
-      },
-      {
         "question_id": 2,
         "question": "How old are you?",
         "difficulty": "easy",
@@ -57,7 +44,7 @@
         "question_id": 5,
         "question": "What is your husband's name?",
         "difficulty": "easy",
-        "predicted_memory_ids": [90139, 90130, 90140, 90129, 90125],
+        "predicted_memory_ids": [90139, 90130, 90140, 90129],
         "actual_memory_ids": [90129],
         "predicted_texts": [
           "Navid<user>'s husband<spouse> leaves early for his job at the hospital",
@@ -71,7 +58,7 @@
         "question_id": 6,
         "question": "How long have you been married?",
         "difficulty": "easy",
-        "predicted_memory_ids": [90130, 90129, 90125, 90139, 45679, 90131],
+        "predicted_memory_ids": [90130, 90129, 90139, 45679, 90131],
         "actual_memory_ids": [90130],
         "predicted_texts": [
           "Navid<user> has been married to David<spouse> for 23 years",
@@ -86,7 +73,7 @@
         "question": "What is your daughter's name?",
         "difficulty": "easy",
         "predicted_memory_ids": [
-          45679, 90131, 90135, 90131, 45679, 90131, 90129, 90125, 90141
+          45679, 90131, 90135, 90131, 45679, 90131, 90129, 90141
         ],
         "actual_memory_ids": [90131],
         "predicted_texts": [
@@ -232,7 +219,7 @@
         "question_id": 17,
         "question": "What is your husband's occupation?",
         "difficulty": "easy",
-        "predicted_memory_ids": [90139, 90129, 90125, 90130, 90140, 3601],
+        "predicted_memory_ids": [90139, 90129, 90130, 90140, 3601],
         "actual_memory_ids": [90139],
         "predicted_texts": [
           "Navid<user>'s husband<spouse> leaves early for his job at the hospital",
@@ -406,7 +393,7 @@
         "question": "At what ages did Patricia marry, have Emma, and have Jake?",
         "difficulty": "hard",
         "predicted_memory_ids": [
-          45679, 90131, 90129, 90125, 90124, 90140, 90135, 90131
+          45679, 90131, 90129, 90124, 90140, 90135, 90131
         ],
         "actual_memory_ids": [90126, 90130, 45679, 90124],
         "predicted_texts": [
@@ -422,9 +409,7 @@
         "question_id": 32,
         "question": "How many years after getting married did Patricia have each of her children?",
         "difficulty": "hard",
-        "predicted_memory_ids": [
-          45679, 90131, 90129, 90125, 90130, 90135, 90131
-        ],
+        "predicted_memory_ids": [45679, 90131, 90129, 90130, 90135, 90131],
         "actual_memory_ids": [90130, 45679, 90124],
         "predicted_texts": [
           "Emma<daughter> is 21<age>",
@@ -455,9 +440,7 @@
         "question_id": 34,
         "question": "Who is probably your husbands favorite child?",
         "difficulty": "hard",
-        "predicted_memory_ids": [
-          90140, 45679, 90131, 90129, 90125, 90130, 90139
-        ],
+        "predicted_memory_ids": [90140, 45679, 90131, 90129, 90130, 90139],
         "actual_memory_ids": [90140, 90129],
         "predicted_texts": [
           "Jake<son> is very close with Navid<user>'s husband<spouse>",
@@ -474,31 +457,16 @@
     "person_id": 3,
     "questions": [
       {
-        "question_id": 1,
-        "question": "What is your name?",
-        "difficulty": "easy",
-        "predicted_memory_ids": [7759, 10018, 10008, 10007, 10015, 9856],
-        "actual_memory_ids": [10001],
-        "predicted_texts": [
-          "Patricia<user> is 35<age>",
-          "Patricia<user> has a golden retriever<pet> named Max<pet_name>",
-          "Sophie<daughter> is 7<age>",
-          "Sophie<daughter> is Patricia<user>'s daughter",
-          "Patricia<user> takes short walks in the afternoon"
-        ],
-        "accuracy": 0.0
-      },
-      {
         "question_id": 2,
         "question": "How old are you?",
         "difficulty": "easy",
-        "predicted_memory_ids": [7759, 10008],
+        "predicted_memory_ids": [10002, 10008],
         "actual_memory_ids": [10002],
         "predicted_texts": [
           "Patricia<user> is 35<age>",
           "Sophie<daughter> is 7<age>"
         ],
-        "accuracy": 0.0
+        "accuracy": 1.0
       },
       {
         "question_id": 3,
@@ -527,7 +495,7 @@
         "question_id": 5,
         "question": "When did you get divorced?",
         "difficulty": "easy",
-        "predicted_memory_ids": [10005, 10002, 10016, 10014],
+        "predicted_memory_ids": [10005, 10016, 10014],
         "actual_memory_ids": [10005],
         "predicted_texts": [
           "Patricia<user> went through a divorce six months ago",
@@ -585,7 +553,7 @@
         "question_id": 9,
         "question": "How often do you go to therapy?",
         "difficulty": "easy",
-        "predicted_memory_ids": [10009, 10010, 10010, 10005, 10002],
+        "predicted_memory_ids": [10009, 10010, 10010, 10005],
         "actual_memory_ids": [10009],
         "predicted_texts": [
           "Patricia<user> goes to therapy weekly",
@@ -599,7 +567,7 @@
         "question_id": 10,
         "question": "What have you started practicing?",
         "difficulty": "easy",
-        "predicted_memory_ids": [10010, 10010, 10012, 9357, 10005, 10002],
+        "predicted_memory_ids": [10010, 10010, 10012, 9357, 1025],
         "actual_memory_ids": [10010],
         "predicted_texts": [
           "Patricia<user> has been meditating for about a month",
@@ -614,7 +582,7 @@
         "question_id": 11,
         "question": "When did you move from San Francisco?",
         "difficulty": "easy",
-        "predicted_memory_ids": [10011, 10003, 10005, 10002],
+        "predicted_memory_ids": [10011, 10003, 10005],
         "actual_memory_ids": [10011],
         "predicted_texts": [
           "Patricia<user> moved from San Francisco<city> to Austin<city> two years ago",
@@ -648,7 +616,7 @@
         "question": "What is your ex's name?",
         "difficulty": "easy",
         "predicted_memory_ids": [
-          10016, 10014, 10005, 10002, 10018, 10011, 10003, 7759
+          10016, 10014, 10005, 10018, 10011, 10003, 10002
         ],
         "actual_memory_ids": [10014],
         "predicted_texts": [
@@ -681,7 +649,7 @@
         "question_id": 16,
         "question": "Are you considering getting back together with your ex?",
         "difficulty": "easy",
-        "predicted_memory_ids": [10016, 10014, 10005, 10002],
+        "predicted_memory_ids": [10016, 10014, 10005],
         "actual_memory_ids": [10016],
         "predicted_texts": [
           "Patricia<user> is considering reconnecting with Sarah<ex>",
@@ -741,22 +709,10 @@
         "accuracy": 1.0
       },
       {
-        "question_id": 21,
-        "question": "What are you trying to cut back on?",
-        "difficulty": "easy",
-        "predicted_memory_ids": [9357, 10010],
-        "actual_memory_ids": [10019],
-        "predicted_texts": [
-          "Patricia<user> is focusing on overall health",
-          "Patricia<user> practices meditation to manage stress"
-        ],
-        "accuracy": 0.0
-      },
-      {
         "question_id": 22,
         "question": "What is the name of your ex-wife, and how long ago did you get divorced?",
         "difficulty": "medium",
-        "predicted_memory_ids": [10005, 10002, 10016, 10014, 10011, 10003],
+        "predicted_memory_ids": [10005, 10016, 10014, 10011, 10003],
         "actual_memory_ids": [10014, 10005],
         "predicted_texts": [
           "Patricia<user> went through a divorce six months ago",
@@ -808,9 +764,7 @@
         "question_id": 50,
         "question": "Are you thinking of getting back with Sarah?",
         "difficulty": "medium",
-        "predicted_memory_ids": [
-          10016, 10014, 10005, 10002, 10017, 10005, 10002
-        ],
+        "predicted_memory_ids": [10016, 10014, 10005, 10017, 1025],
         "actual_memory_ids": [10014, 10016],
         "predicted_texts": [
           "Patricia<user> is considering reconnecting with Sarah<ex>",
@@ -825,21 +779,6 @@
   {
     "person_id": 4,
     "questions": [
-      {
-        "question_id": 1,
-        "question": "What is your name?",
-        "difficulty": "easy",
-        "predicted_memory_ids": [5368, 20002, 20001, 20013, 20005, 20006],
-        "actual_memory_ids": [20001],
-        "predicted_texts": [
-          "Patricia<user> is 19<age>",
-          "Maya<user> is 19<age>",
-          "Patricia<user> struggles with anxiety in social situations",
-          "Patricia<user> is in the first year of university",
-          "Patricia<user> is studying environmental science<subject>"
-        ],
-        "accuracy": 1.0
-      },
       {
         "question_id": 2,
         "question": "How old are you?",
@@ -857,7 +796,7 @@
         "question_id": 3,
         "question": "Where do you live?",
         "difficulty": "easy",
-        "predicted_memory_ids": [20003, 20016, 4045],
+        "predicted_memory_ids": [20003, 2016, 4045],
         "actual_memory_ids": [20003],
         "predicted_texts": [
           "Patricia<user> has moved to London<city>",
@@ -870,7 +809,7 @@
         "question_id": 4,
         "question": "Where are you originally from?",
         "difficulty": "easy",
-        "predicted_memory_ids": [20003, 20016],
+        "predicted_memory_ids": [20003, 2016],
         "actual_memory_ids": [20004],
         "predicted_texts": [
           "Patricia<user> has moved to London<city>",
@@ -984,7 +923,7 @@
         "question_id": 12,
         "question": "Hows your relationship with your mom?",
         "difficulty": "medium",
-        "predicted_memory_ids": [20015, 20016, 20009, 20013, 20121],
+        "predicted_memory_ids": [20015, 2016, 20009, 20013, 20121],
         "actual_memory_ids": [20012, 20016],
         "predicted_texts": [
           "Patricia<user> hasn't visited mother<mom> in eight months",
@@ -993,7 +932,7 @@
           "Patricia<user> struggles with anxiety in social situations",
           "Patricia<user> has a close friend named Emma<friend>"
         ],
-        "accuracy": 0.5
+        "accuracy": 0.0
       },
       {
         "question_id": 13,
@@ -1010,7 +949,7 @@
         "question_id": 14,
         "question": "When was the last time you were in Chicago?",
         "difficulty": "easy",
-        "predicted_memory_ids": [20016, 20015],
+        "predicted_memory_ids": [2016, 20015],
         "actual_memory_ids": [20015],
         "predicted_texts": [
           "Patricia<user> has a mother<mom> in Chicago<city>",
@@ -1110,7 +1049,7 @@
         "question_id": 21,
         "question": "How far away are you now from where you grew up?",
         "difficulty": "medium",
-        "predicted_memory_ids": [20003, 20015, 20016],
+        "predicted_memory_ids": [20003, 20015, 2016],
         "actual_memory_ids": [20003, 20004],
         "predicted_texts": [
           "Patricia<user> has moved to London<city>",
@@ -1257,18 +1196,6 @@
     "person_id": 5,
     "questions": [
       {
-        "question_id": 1,
-        "question": "What is your name?",
-        "difficulty": "easy",
-        "predicted_memory_ids": [30002, 30019, 30013],
-        "actual_memory_ids": [30001],
-        "predicted_texts": [
-          "Maya<user> is 28 years old",
-          "Jima<father> is Maya<user>'s father"
-        ],
-        "accuracy": 0.0
-      },
-      {
         "question_id": 2,
         "question": "How old are you?",
         "difficulty": "easy",
@@ -1355,12 +1282,13 @@
         "question_id": 8,
         "question": "What jersey number do you wear?",
         "difficulty": "easy",
-        "predicted_memory_ids": [30008, 30004, 30018],
+        "predicted_memory_ids": [30008, 30004, 30018, 3290],
         "actual_memory_ids": [30008],
         "predicted_texts": [
           "Maya<user> wears the number 10 jersey<number> in memory of Jenna<sister>",
           "Maya<user> plays for Argentina's national team<team>",
-          "Maya<user> is considering retiring from playing soccer"
+          "Maya<user> is considering retiring from playing soccer",
+          "Maya<user> is a midfielder<position>"
         ],
         "accuracy": 1.0
       },
@@ -1385,7 +1313,7 @@
         "question_id": 10,
         "question": "What health condition does your father have?",
         "difficulty": "easy",
-        "predicted_memory_ids": [30019, 30013, 30009],
+        "predicted_memory_ids": [30019, 30009],
         "actual_memory_ids": [30010],
         "predicted_texts": [
           "Jima<father> is Maya<user>'s father",
@@ -1397,7 +1325,7 @@
         "question_id": 11,
         "question": "Who is jealous of your success?",
         "difficulty": "easy",
-        "predicted_memory_ids": [30011, 30019, 30013],
+        "predicted_memory_ids": [30011, 30019],
         "actual_memory_ids": [30011],
         "predicted_texts": [
           "Carolina<friend> might be feeling jealous of Maya<user>'s opportunities",
@@ -1506,7 +1434,7 @@
         "question_id": 19,
         "question": "What is your dad's name?",
         "difficulty": "easy",
-        "predicted_memory_ids": [30019, 30013, 30009, 30009, 30019, 30013],
+        "predicted_memory_ids": [30019, 30009, 30009, 30019],
         "actual_memory_ids": [30019],
         "predicted_texts": [
           "Jima<father> is Maya<user>'s father",
@@ -1520,7 +1448,7 @@
         "question_id": 20,
         "question": "What is your boyfriend's name?",
         "difficulty": "easy",
-        "predicted_memory_ids": [30012, 30020, 30019, 30013],
+        "predicted_memory_ids": [30012, 30020, 30019],
         "actual_memory_ids": [30020],
         "predicted_texts": [
           "Maya<user> has been leaning on Simon<physiotherapist> for support",
@@ -1589,7 +1517,7 @@
         "question_id": 25,
         "question": "Who is jealous of your success and who are you dating?",
         "difficulty": "medium",
-        "predicted_memory_ids": [30011, 30019, 30013],
+        "predicted_memory_ids": [30011, 30019],
         "actual_memory_ids": [30011, 30012],
         "predicted_texts": [
           "Carolina<friend> might be feeling jealous of Maya<user>'s opportunities",
@@ -1640,9 +1568,7 @@
         "question_id": 33,
         "question": "What is your father's name, his health condition, and his role in your soccer career?",
         "difficulty": "hard",
-        "predicted_memory_ids": [
-          30009, 30009, 30018, 30017, 30005, 30019, 30013
-        ],
+        "predicted_memory_ids": [30009, 30009, 30018, 30017, 30005, 30019],
         "actual_memory_ids": [30019, 30010, 30009],
         "predicted_texts": [
           "Maya<user>'s father<coach> was her first coach<role>",
@@ -1658,7 +1584,7 @@
         "question": "What does  jersey number, why do you wear it, and what happened to your sister?",
         "difficulty": "hard",
         "predicted_memory_ids": [
-          30008, 30007, 30014, 30018, 30019, 30013, 30017, 30005
+          30008, 30007, 30014, 30018, 30019, 30017, 30005
         ],
         "actual_memory_ids": [30008, 30007, 30014],
         "predicted_texts": [
@@ -1685,7 +1611,7 @@
         "question_id": 37,
         "question": "Tell me all about your dad?",
         "difficulty": "hard",
-        "predicted_memory_ids": [30019, 30013, 30009, 30019, 30013, 30009],
+        "predicted_memory_ids": [30019, 30009, 30019, 30009],
         "actual_memory_ids": [30010, 30019, 30009],
         "predicted_texts": [
           "Jima<father> is Maya<user>'s father",
@@ -1700,19 +1626,6 @@
   {
     "person_id": 6,
     "questions": [
-      {
-        "question_id": 1,
-        "question": "What is your name?",
-        "difficulty": "easy",
-        "predicted_memory_ids": [40002, 40023, 40008],
-        "actual_memory_ids": [40001],
-        "predicted_texts": [
-          "Lucia<user> is 42 years old",
-          "Rosa<mother> taught Lucia<user> recipes",
-          "Sofia<wife> is 38 years old"
-        ],
-        "accuracy": 0.0
-      },
       {
         "question_id": 2,
         "question": "How old are you?",
@@ -1731,9 +1644,7 @@
         "question_id": 3,
         "question": "What is the name of your restaurant?",
         "difficulty": "easy",
-        "predicted_memory_ids": [
-          5795, 40004, 40003, 40019, 30001, 40007, 1819, 5313
-        ],
+        "predicted_memory_ids": [5795, 40004, 40003, 40019, 40007, 1819, 5313],
         "actual_memory_ids": [40003],
         "predicted_texts": [
           "Lucia<user> runs a restaurant<business>",
@@ -1748,9 +1659,7 @@
         "question_id": 4,
         "question": "What type of cuisine does your restaurant specialize in?",
         "difficulty": "easy",
-        "predicted_memory_ids": [
-          40004, 40003, 5795, 1819, 40019, 30001, 40007, 5313
-        ],
+        "predicted_memory_ids": [40004, 40003, 5795, 1819, 40019, 40007, 5313],
         "actual_memory_ids": [40004],
         "predicted_texts": [
           "Lucia<user> specializes in Neapolitan cuisine",
@@ -1851,7 +1760,7 @@
         "question_id": 11,
         "question": "What is your wife's name?",
         "difficulty": "easy",
-        "predicted_memory_ids": [40008, 40019, 30001, 40007, 40023],
+        "predicted_memory_ids": [40008, 40019, 40007, 40023],
         "actual_memory_ids": [40007],
         "predicted_texts": [
           "Sofia<wife> is 38 years old",
@@ -1864,9 +1773,7 @@
         "question_id": 12,
         "question": "How old is Sofia?",
         "difficulty": "easy",
-        "predicted_memory_ids": [
-          40008, 40019, 30001, 40007, 40010, 40002, 40006
-        ],
+        "predicted_memory_ids": [40008, 40019, 40007, 40010, 40002, 40006],
         "actual_memory_ids": [40008],
         "predicted_texts": [
           "Sofia<wife> is 38 years old",
@@ -1909,7 +1816,7 @@
         "question_id": 15,
         "question": "Outside of your family who is your friend?",
         "difficulty": "easy",
-        "predicted_memory_ids": [40014, 40005, 40019, 30001, 40007],
+        "predicted_memory_ids": [40014, 40005, 40019, 40007],
         "actual_memory_ids": [40014],
         "predicted_texts": [
           "Antonio<friend> is a close friend<friend> of Lucia<user> from childhood",
@@ -1938,7 +1845,7 @@
         "question": "What role does your wife have in the restaurant?",
         "difficulty": "easy",
         "predicted_memory_ids": [
-          40019, 30001, 40007, 5795, 40004, 40003, 40008, 40023
+          40019, 40007, 5795, 40004, 40003, 40008, 40023
         ],
         "actual_memory_ids": [40019],
         "predicted_texts": [
@@ -1954,7 +1861,7 @@
         "question_id": 18,
         "question": "How old is your wife?",
         "difficulty": "easy",
-        "predicted_memory_ids": [40008, 40002, 40019, 30001, 40007, 40010],
+        "predicted_memory_ids": [40008, 40002, 40019, 40007, 40010],
         "actual_memory_ids": [40020],
         "predicted_texts": [
           "Sofia<wife> is 38 years old",
@@ -1968,16 +1875,14 @@
         "question_id": 19,
         "question": "What do you do to help your mother?",
         "difficulty": "easy",
-        "predicted_memory_ids": [
-          40023, 40022, 40023, 40019, 30001, 40007, 40009
-        ],
+        "predicted_memory_ids": [40023, 40022, 40023, 40009, 40019, 40007],
         "actual_memory_ids": [40022],
         "predicted_texts": [
           "Rosa<mother> taught Lucia<user> recipes",
           "Lucia<user> sends money to support Rosa<mother> back in Naples<city>",
           "Lucia<user> plans to video call Rosa<mother> in Italy<country> during cooking sessions",
-          "Sofia<wife> helps manage the restaurant's finances",
-          "Lucia<user> plans to dedicate Sunday afternoons to cooking with Luca<son>"
+          "Lucia<user> plans to dedicate Sunday afternoons to cooking with Luca<son>",
+          "Sofia<wife> helps manage the restaurant's finances"
         ],
         "accuracy": 1.0
       },
@@ -2000,7 +1905,7 @@
         "question_id": 21,
         "question": "What is the age difference between you and your wife?",
         "difficulty": "medium",
-        "predicted_memory_ids": [40008, 40019, 30001, 40007, 40002, 40010],
+        "predicted_memory_ids": [40008, 40019, 40007, 40002, 40010],
         "actual_memory_ids": [40002, 40020],
         "predicted_texts": [
           "Sofia<wife> is 38 years old",
@@ -2029,7 +1934,7 @@
         "question_id": 23,
         "question": "Who in your family helps manage the restaurant, and what is their relation to you?",
         "difficulty": "medium",
-        "predicted_memory_ids": [40019, 30001, 40007, 5795, 40015, 5313, 40023],
+        "predicted_memory_ids": [40019, 40007, 5795, 40015, 5313, 40023],
         "actual_memory_ids": [40007, 40019],
         "predicted_texts": [
           "Sofia<wife> helps manage the restaurant's finances",
@@ -2044,9 +1949,7 @@
         "question_id": 24,
         "question": "What is the name and cuisine of your restaurant?",
         "difficulty": "medium",
-        "predicted_memory_ids": [
-          40004, 40003, 5795, 1819, 40019, 30001, 40007, 40010
-        ],
+        "predicted_memory_ids": [40004, 40003, 5795, 1819, 40019, 40007, 40010],
         "actual_memory_ids": [40003, 40004],
         "predicted_texts": [
           "Lucia<user> specializes in Neapolitan cuisine",
@@ -2191,18 +2094,6 @@
   {
     "person_id": 7,
     "questions": [
-      {
-        "question_id": 1,
-        "question": "What is your name?",
-        "difficulty": "easy",
-        "predicted_memory_ids": [50001, 50002, 50003],
-        "actual_memory_ids": [50001],
-        "predicted_texts": [
-          "Oyo<nickname> is Lucia<user>'s nickname",
-          "Lucia<user> is 31"
-        ],
-        "accuracy": 1.0
-      },
       {
         "question_id": 2,
         "question": "How old are you?",
@@ -2623,19 +2514,6 @@
     "person_id": 8,
     "questions": [
       {
-        "question_id": 1,
-        "question": "What is your name?",
-        "difficulty": "easy",
-        "predicted_memory_ids": [60002, 60014, 9253],
-        "actual_memory_ids": [60001],
-        "predicted_texts": [
-          "Lucia<user> is 45<age>",
-          "Isabella<mother> has been supportive",
-          "Lucia<user> feels they are getting to know Rafael<self>"
-        ],
-        "accuracy": 0.0
-      },
-      {
         "question_id": 2,
         "question": "How old are you?",
         "difficulty": "easy",
@@ -2968,13 +2846,14 @@
         "question_id": 27,
         "question": "How long has it been since you've talked to your dad?",
         "difficulty": "hard",
-        "predicted_memory_ids": [60012, 60011, 60010, 60010, 60014],
+        "predicted_memory_ids": [60012, 60011, 60010, 60010, 60014, 60014],
         "actual_memory_ids": [60005, 60011, 60012],
         "predicted_texts": [
           "Carlos<father> hasn't spoken to Lucia<user> since Lucia<user> came out",
           "Pedro<son> seems distant",
           "Lucia<user> wants to talk to Jo\u00e3o<friend> about approaching Pedro<son>",
-          "Isabella<mother> has been supportive"
+          "Isabella<mother> has been supportive",
+          "Isabella<mother> suggested giving Pedro<son> some time"
         ],
         "accuracy": 0.6666666666666666
       },
@@ -3058,22 +2937,6 @@
   {
     "person_id": 9,
     "questions": [
-      {
-        "question_id": 1,
-        "question": "What is your name?",
-        "difficulty": "easy",
-        "predicted_memory_ids": [
-          70001, 70002, 70010, 70019, 70010, 70019, 7821
-        ],
-        "actual_memory_ids": [70001],
-        "predicted_texts": [
-          "Mei<alias> is Lucia<user>'s alias",
-          "Linda<mother> is Lucia<user>'s mom",
-          "Linda<mother> and Lucia<user> both love watching Attack on Titan<television_show>",
-          "Lucia<user> is a 22-year-old founder"
-        ],
-        "accuracy": 1.0
-      },
       {
         "question_id": 2,
         "question": "How old are you?",
@@ -3439,19 +3302,6 @@
     "person_id": 10,
     "questions": [
       {
-        "question_id": 1,
-        "question": "What is your name?",
-        "difficulty": "easy",
-        "predicted_memory_ids": [80002, 80006, 80011, 83123],
-        "actual_memory_ids": [80001],
-        "predicted_texts": [
-          "Lucia<user> is 24",
-          "Lily<best_friend> is also a model",
-          "Lily<best_friend> and Lucia<user> have known each other since middle school"
-        ],
-        "accuracy": 0.0
-      },
-      {
         "question_id": 2,
         "question": "How old are you?",
         "difficulty": "easy",
@@ -3647,13 +3497,12 @@
         "question_id": 16,
         "question": "What are you thinking of quitting?",
         "difficulty": "easy",
-        "predicted_memory_ids": [83022, 9478, 83122, 9681],
+        "predicted_memory_ids": [83022, 9478, 83122],
         "actual_memory_ids": [80025],
         "predicted_texts": [
           "Lucia<user> is considering starting therapy",
           "Lucia<user> thinks about coaching or working with youth programs to combine hockey with a career path",
-          "Lucia<user> is considering picking up hockey again",
-          "Zara<user> realizes taking time to focus on Zara<user> sounds needed"
+          "Lucia<user> is considering picking up hockey again"
         ],
         "accuracy": 0.0
       },

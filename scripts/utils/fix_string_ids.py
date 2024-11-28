@@ -78,28 +78,56 @@ def fix_extracted_memories(data):
                         print(f"Converted memory ID from {old_id} to {memory['id']}")
     return data, changes
 
+def fix_rag_mapping(data):
+    """Fix IDs in BasicRAG_pre_fixed_mapping.json"""
+    changes = 0
+    for person in data:
+        for question in person['questions']:
+            # Fix predicted_memory_ids
+            if 'predicted_memory_ids' in question:
+                old_ids = question['predicted_memory_ids']
+                question['predicted_memory_ids'] = [convert_id_to_int(id_) for id_ in question['predicted_memory_ids']]
+                if old_ids != question['predicted_memory_ids']:
+                    changes += 1
+                    print(f"Converted predicted_memory_ids from {old_ids} to {question['predicted_memory_ids']}")
+            
+            # Fix actual_memory_ids
+            if 'actual_memory_ids' in question:
+                old_ids = question['actual_memory_ids']
+                question['actual_memory_ids'] = [convert_id_to_int(id_) for id_ in question['actual_memory_ids']]
+                if old_ids != question['actual_memory_ids']:
+                    changes += 1
+                    print(f"Converted actual_memory_ids from {old_ids} to {question['actual_memory_ids']}")
+                    
+    return data, changes
+
 def main():
     # Get project root directory
     root_dir = Path(__file__).parent.parent
     data_dir = root_dir / "data"
+    tests_dir = data_dir / "tests"
     
     # Files to process
     files_to_process = {
-        "mock_people.json": fix_mock_people,
-        "memory_quiz.json": fix_memory_quiz,
-        "extracted_memories.json": fix_extracted_memories
+        # Main data files
+        str(data_dir / "mock_people.json"): fix_mock_people,
+        str(data_dir / "memory_quiz.json"): fix_memory_quiz,
+        str(data_dir / "extracted_memories.json"): fix_extracted_memories,
+        
+        # Test files
+        str(tests_dir / "BasicRAG_pre_fixed_mapping.json"): fix_rag_mapping
     }
     
     total_changes = 0
     
     # Process each file
-    for filename, fix_function in files_to_process.items():
-        filepath = data_dir / filename
+    for filepath_str, fix_function in files_to_process.items():
+        filepath = Path(filepath_str)
         if not filepath.exists():
             print(f"File not found: {filepath}")
             continue
             
-        print(f"\nProcessing {filename}...")
+        print(f"\nProcessing {filepath.name}...")
         data = load_json_file(filepath)
         if data is None:
             continue
@@ -107,10 +135,10 @@ def main():
         updated_data, changes = fix_function(data)
         if changes > 0:
             save_json_file(filepath, updated_data)
-            print(f"Made {changes} changes in {filename}")
+            print(f"Made {changes} changes in {filepath.name}")
             total_changes += changes
         else:
-            print(f"No changes needed in {filename}")
+            print(f"No changes needed in {filepath.name}")
     
     print(f"\nTotal changes across all files: {total_changes}")
 

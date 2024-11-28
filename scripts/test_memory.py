@@ -9,6 +9,9 @@ from dotenv import load_dotenv
 import os
 import argparse
 import datetime
+import glob
+import inquirer
+
 # Load environment variables
 load_dotenv()
 openai = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
@@ -36,9 +39,10 @@ class QuizResult:
     difficulty: str
 
 class MemoryQuizEvaluator:
-    def __init__(self):
+    def __init__(self, memories_file: str = None):
         self.questions_by_person = self._load_questions()
-        self.memories = {} 
+        self.memories = {}
+        self.memories_file = memories_file or self.pick_memories_file()
         
     def generate_embedding(self, text: str) -> List[float]:
         """Generate embedding using OpenAI's API"""
@@ -75,8 +79,8 @@ class MemoryQuizEvaluator:
         return questions_by_person
 
     def _load_memories(self, person_id: int) -> Dict[str, Memory]:
-        """Load memories from extracted_memories.json and generate embeddings for a specific person"""
-        memories_path = Path("data/extracted_memories_labeledpointextractor_20241125_2240.json")
+        """Load memories from selected extracted_memories file and generate embeddings for a specific person"""
+        memories_path = Path(self.memories_file)
         with open(memories_path, 'r') as f:
             data = json.load(f)
         
@@ -233,26 +237,59 @@ class MemoryQuizEvaluator:
         with open(output_path, 'w') as f:
             json.dump(formatted_results, f, indent=2)
 
+    def list_extracted_memories_files(self) -> List[str]:
+        """List all JSON files in the data/extracted_memories directory"""
+        files = glob.glob("data/extracted_memories/*.json")
+        return sorted(files)
+
+    def pick_memories_file(self) -> str:
+        """Display an inquirer picker interface for selecting the memories file"""
+        files = self.list_extracted_memories_files()
+        
+        if not files:
+            raise ValueError("No JSON files found in data/extracted_memories/")
+        
+        questions = [
+            inquirer.List('file',
+                         message="Select the extracted memories file to use",
+                         choices=[os.path.basename(f) for f in files],
+                         carousel=True)
+        ]
+        
+        answers = inquirer.prompt(questions)
+        
+        if not answers:
+            raise KeyboardInterrupt("User cancelled file selection")
+            
+        # Find the full path that matches the selected basename
+        selected_basename = answers['file']
+        selected_file = next(f for f in files if os.path.basename(f) == selected_basename)
+        
+        return selected_file
+
 def main():
     # Add argument parsing
     parser = argparse.ArgumentParser(description='Evaluate memory quiz for a specific person')
     parser.add_argument('--person_id', type=int, help='ID of the person to evaluate')
+    parser.add_argument('--memories_file', type=str, help='Path to the memories file to use')
     args = parser.parse_args()
 
-    # Initialize evaluator
-    evaluator = MemoryQuizEvaluator()
+    # Initialize evaluator with optional memories file
+    evaluator = MemoryQuizEvaluator(memories_file=args.memories_file)
 
     person_ids = list(evaluator.questions_by_person.keys())
     all_results = {}
     for person_id in person_ids:
         results = evaluator.evaluate_person(person_id)
         all_results[person_id] = results
-    # Save results
+        
+    # Save results with the source file name included
+    memories_basename = os.path.splitext(os.path.basename(evaluator.memories_file))[0]
     current_date = datetime.datetime.now().strftime("%Y-%m-%d")
-    output_path = f"data/tests/completed_memory_quiz_{current_date}.json"
+    output_path = f"data/tests/completed_memory_quiz_{memories_basename}_{current_date}.json"
     evaluator.save_results(all_results, output_path)
     
-    print(f"Results saved to {output_path}")
+    print(f"\nResults saved to {output_path}")
 
 if __name__ == "__main__":
     main()
