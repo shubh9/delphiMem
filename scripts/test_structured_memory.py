@@ -182,7 +182,7 @@ class StructuredMemoryQuizEvaluator:
             json_str = response_content[start_index:end_index]
             return json.loads(json_str)
         except json.JSONDecodeError as e:
-            raise ValueError(f"Invalid JSON response: {e}")
+            raise ValueError(f"Invalid JSON response: {e} \n\nResponse content: {json_str}")
 
 
     def query_llm_for_attribute(self, question: str, entities: List[EntityInfo]) -> LLMQueryResponse:
@@ -218,11 +218,11 @@ class StructuredMemoryQuizEvaluator:
 
     
 
-        print(f"\nPrompt being sent to LLM:")
-        print("-" * 80)
-        print(prompt)
-        print("-" * 80)
-        print()
+        # print(f"\nPrompt being sent to LLM:")
+        # print("-" * 80)
+        # print(prompt)
+        # print("-" * 80)
+        # print()
 
         response = azure_client.chat.completions.create(
             model="gpt-4o",
@@ -232,8 +232,10 @@ class StructuredMemoryQuizEvaluator:
             ],
         )
 
+        print(f"LLM Response: {response.choices[0].message.content}")
+
         result = self.clean_and_validate_json_response(response.choices[0].message.content)
-        print(f"LLM Query Response: {result}")
+        # print(f"LLM Query Response: {result}")
         return LLMQueryResponse(
             entity_id=result["entity_id"],
             attribute=result["attribute"]

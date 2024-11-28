@@ -336,195 +336,195 @@
           "health": [
             {
               "content": "Feeling a bit overwhelmed lately.",
-              "mem_id": []
+              "mem_id": 10009
             },
             {
               "content": "Works out at 6 AM every day.",
-              "mem_id": []
+              "mem_id": 10013
             },
             {
               "content": "Has tried taking brief breaks but finds it tough to disconnect from work.",
-              "mem_id": []
+              "mem_id": 10009
             },
             {
               "content": "Recently started practicing meditation to manage stress.",
-              "mem_id": []
+              "mem_id": 10010
             },
             {
               "content": "Has been meditating for about a month, usually in the mornings after workouts.",
-              "mem_id": []
+              "mem_id": 10010
             },
             {
               "content": "Started going to therapy weekly to manage stress better.",
-              "mem_id": []
+              "mem_id": 10009
             },
             {
               "content": "Believes that meditation and therapy are helping to manage stress a bit.",
-              "mem_id": []
+              "mem_id": 10009
             },
             {
               "content": "Plans to incorporate brief mindfulness practices throughout the day to manage stress.",
-              "mem_id": []
+              "mem_id": 10010
             },
             {
               "content": "Finds that meditation has been surprisingly helpful for de-stressing.",
-              "mem_id": []
+              "mem_id": 10010
             },
             {
               "content": "Has noticed being less anxious and more focused due to meditation.",
-              "mem_id": []
+              "mem_id": 10010
             },
             {
               "content": "Trying to cut back on coffee.",
-              "mem_id": []
+              "mem_id": 10019
             },
             {
               "content": "Meditation provides a natural boost without relying on caffeine.",
-              "mem_id": []
+              "mem_id": 10019
             },
             {
               "content": "The transition of cutting back coffee has been going pretty well overall.",
-              "mem_id": []
+              "mem_id": 10019
             },
             {
               "content": "Misses the extra boost in the afternoons from coffee.",
-              "mem_id": []
+              "mem_id": 10019
             },
             {
               "content": "Has been taking short walks in the afternoon, which seems to help.",
-              "mem_id": []
+              "mem_id": 10019
             },
             {
               "content": "Feels the need to focus more on overall health and energy levels now being 35 years old.",
-              "mem_id": []
+              "mem_id": 10002
             }
           ],
           "location": [
             {
               "content": "Currently living in Austin.",
-              "mem_id": []
+              "mem_id": 10003
             }
           ],
           "notes": [
             {
               "content": "Moved from San Francisco two years ago.",
-              "mem_id": []
+              "mem_id": 10011
             },
             {
               "content": "Finding it challenging to balance work and personal life.",
-              "mem_id": []
+              "mem_id": 10009
             },
             {
               "content": "Finds work hectic once he gets to the office.",
-              "mem_id": []
+              "mem_id": 8094
             },
             {
               "content": "Feels like the work never stops.",
-              "mem_id": []
+              "mem_id": 10006
             },
             {
               "content": "Unsure if meditation is making a difference yet.",
-              "mem_id": []
+              "mem_id": 10010
             },
             {
               "content": "Finds balancing leadership role with being a good parent to Sophie challenging.",
-              "mem_id": []
+              "mem_id": 10015
             },
             {
               "content": "Has joint custody of Sophie; sometimes hard to coordinate time together.",
-              "mem_id": []
+              "mem_id": 10015
             },
             {
               "content": "Wants to make the most of the time he has with Sophie.",
-              "mem_id": []
+              "mem_id": 10015
             },
             {
               "content": "Planning to start taking Max to the park every weekend with Sophie for playtime to create a fun tradition",
-              "mem_id": []
+              "mem_id": 10018
             },
             {
               "content": "Plans to study Spanish with Sophie as a way to bond.",
-              "mem_id": []
+              "mem_id": 10007
             },
             {
               "content": "Plans to find fun Spanish language apps and create a treasure hunt with Spanish clues to make learning fun with Sophie",
-              "mem_id": []
+              "mem_id": 10012
             },
             {
               "content": "Including Max in Spanish learning could be a fun way for all of us to bond.",
-              "mem_id": []
+              "mem_id": 10018
             },
             {
               "content": "Got divorced six months ago, making it challenging to find time for local activities.",
-              "mem_id": []
+              "mem_id": 10005
             },
             {
               "content": "Thinks that playing tennis with Sophie could be a fun way to bond and meet other families.",
-              "mem_id": []
+              "mem_id": 10007
             },
             {
               "content": "Believes engaging in renewable energy initiatives could be a fulfilling way to blend interests with staying active.",
-              "mem_id": []
+              "mem_id": 10017
             },
             {
               "content": "Considering participating in renewable energy education initiatives with Sophie",
-              "mem_id": []
+              "mem_id": 10007
             },
             {
               "content": "Reflecting on relationships, considering reconnecting with ex-partner Sarah for the family",
-              "mem_id": []
+              "mem_id": 10016
             },
             {
               "content": "A colleague observed that Alex seems more reflective lately",
-              "mem_id": []
+              "mem_id": 10010
             }
           ],
           "job": [
             {
               "content": "Founder of TechMind AI.",
-              "mem_id": []
+              "mem_id": 10004
             },
             {
               "content": "Manages 50 employees at TechMind AI.",
-              "mem_id": []
+              "mem_id": 10006
             }
           ],
           "interests": [
             {
               "content": "Has been trying to learn Spanish.",
-              "mem_id": []
+              "mem_id": 10012
             },
             {
               "content": "Considering joining a Spanish club or attending community events in Austin to support language learning and bonding with Sophie.",
-              "mem_id": []
+              "mem_id": 10012
             },
             {
               "content": "Has been playing tennis on weekends.",
-              "mem_id": []
+              "mem_id": 10020
             },
             {
               "content": "Plans to look into local tennis clubs that offer family sessions.",
-              "mem_id": []
+              "mem_id": 10020
             },
             {
               "content": "Passionate about renewable energy.",
-              "mem_id": []
+              "mem_id": 10017
             },
             {
               "content": "Considering getting involved in renewable energy through volunteering or participating in local initiatives.",
-              "mem_id": []
+              "mem_id": 10017
             }
           ],
           "age": [
             {
               "content": "35 years old",
-              "mem_id": []
+              "mem_id": 10002
             }
           ],
           "name": [
             {
               "content": "Alex",
-              "mem_id": []
+              "mem_id": 10001
             }
           ]
         },
@@ -550,43 +550,43 @@
           "name": [
             {
               "content": "Sophie",
-              "mem_id": []
+              "mem_id": 10007
             }
           ],
           "interests": [
             {
               "content": "Sophie loves animals",
-              "mem_id": []
+              "mem_id": 10018
             },
             {
               "content": "Sophie is interested in learning Spanish.",
-              "mem_id": []
+              "mem_id": 10012
             },
             {
               "content": "Enjoys interactive games for learning",
-              "mem_id": []
+              "mem_id": 2058
             },
             {
               "content": "Loves playing with Max, the golden retriever",
-              "mem_id": []
+              "mem_id": 10018
             },
             {
               "content": "Sophie enjoys being active outdoors.",
-              "mem_id": []
+              "mem_id": 10020
             },
             {
               "content": "Might enjoy taking tennis lessons or playing tennis with the user.",
-              "mem_id": []
+              "mem_id": 10020
             },
             {
               "content": "Interested in learning about renewable energy with the user",
-              "mem_id": []
+              "mem_id": 10017
             }
           ],
           "age": [
             {
               "content": "7 years old",
-              "mem_id": []
+              "mem_id": 10008
             }
           ]
         },
@@ -612,21 +612,21 @@
           "name": [
             {
               "content": "Max",
-              "mem_id": []
+              "mem_id": 10018
             }
           ],
           "notes": [
             {
               "content": "Will be involved in Sophie's Spanish learning through games",
-              "mem_id": []
+              "mem_id": 10012
             },
             {
               "content": "Max moved from San Francisco to Austin two years ago.",
-              "mem_id": []
+              "mem_id": 10011
             },
             {
               "content": "Max has been adjusting to the new environment in Austin.",
-              "mem_id": []
+              "mem_id": 10011
             }
           ]
         },
@@ -648,7 +648,7 @@
           "name": [
             {
               "content": "Sarah",
-              "mem_id": []
+              "mem_id": 10014
             }
           ]
         },
@@ -675,131 +675,131 @@
           "notes": [
             {
               "content": "has not visited Chicago in eight months",
-              "mem_id": []
+              "mem_id": 20015
             },
             {
               "content": "feels guilty about not visiting mother",
-              "mem_id": []
+              "mem_id": 20016
             },
             {
               "content": "worried about leaving mother alone",
-              "mem_id": []
+              "mem_id": 20016
             },
             {
               "content": "Feels disconnected from mother due to being far away.",
-              "mem_id": []
+              "mem_id": 20016
             },
             {
               "content": "Calls mother regularly, but feels it's not the same as being there with her.",
-              "mem_id": []
+              "mem_id": 20016
             },
             {
               "content": "Wants to schedule regular video calls with mother to feel more connected",
-              "mem_id": []
+              "mem_id": 20016
             },
             {
               "content": "Having difficulty managing time lately",
-              "mem_id": []
+              "mem_id": 20018
             },
             {
               "content": "Is in the first year of university and adjusting to new demands",
-              "mem_id": []
+              "mem_id": 20005
             },
             {
               "content": "Finds studying environmental science exciting but demanding",
-              "mem_id": []
+              "mem_id": 20006
             },
             {
               "content": "Feels unable to catch up in chemistry class despite efforts.",
-              "mem_id": []
+              "mem_id": 20018
             },
             {
               "content": "Finds joining a study group intimidating.",
-              "mem_id": []
+              "mem_id": 20013
             },
             {
               "content": "Is considering seeking one-on-one help from a tutor or professor.",
-              "mem_id": []
+              "mem_id": 20018
             },
             {
               "content": "Is worried about finding time between shifts at the caf\u00e9 and other commitments.",
-              "mem_id": []
+              "mem_id": 20007
             },
             {
               "content": "Considering switching major to marine biology",
-              "mem_id": []
+              "mem_id": 20020
             },
             {
               "content": "Doing well academically is very important",
-              "mem_id": []
+              "mem_id": 20018
             },
             {
               "content": "Feels daunted about handling discussions since moving to London.",
-              "mem_id": []
+              "mem_id": 20013
             }
           ],
           "job": [
             {
               "content": "University student working part-time at a caf\u00e9",
-              "mem_id": []
+              "mem_id": 20007
             }
           ],
           "interests": [
             {
               "content": "Studying environmental science",
-              "mem_id": []
+              "mem_id": 20006
             },
             {
               "content": "Passionate about climate activism",
-              "mem_id": []
+              "mem_id": 20008
             }
           ],
           "health": [
             {
               "content": "Experiencing stress due to falling behind in chemistry class.",
-              "mem_id": []
+              "mem_id": 20018
             },
             {
               "content": "Struggles with anxiety in social situations.",
-              "mem_id": []
+              "mem_id": 20013
             },
             {
               "content": "Experiencing stress due to roommate's inconsiderate behavior.",
-              "mem_id": []
+              "mem_id": 24017
             },
             {
               "content": "Finding it hard to focus on studies due to noise and constant disruptions",
-              "mem_id": []
+              "mem_id": 24017
             },
             {
               "content": "Is feeling anxious due to Emma's health issues.",
-              "mem_id": []
+              "mem_id": 20009
             },
             {
               "content": "Is feeling anxious about approaching Sarah to discuss their living situation.",
-              "mem_id": []
+              "mem_id": 20013
             },
             {
               "content": "Feeling overwhelmed lately due to the situation with neighbors and feelings for James, making it hard to focus",
-              "mem_id": []
+              "mem_id": 24017
             }
           ],
           "location": [
             {
               "content": "Lives in London",
-              "mem_id": []
+              "mem_id": 20003
             }
           ],
           "age": [
             {
               "content": "19 years old",
-              "mem_id": []
+              "mem_id": 20002
             }
           ],
           "name": [
             {
               "content": "Maya",
-              "mem_id": []
+              "mem_id": 20001
             }
           ]
         },
@@ -829,13 +829,13 @@
           "location": [
             {
               "content": "lives in Chicago",
-              "mem_id": []
+              "mem_id": 7461
             }
           ],
           "notes": [
             {
               "content": "Is the biggest supporter of the user.",
-              "mem_id": []
+              "mem_id": 20012
             }
           ]
         },
@@ -853,13 +853,13 @@
           "name": [
             {
               "content": "Sarah",
-              "mem_id": []
+              "mem_id": 6684
             }
           ],
           "notes": [
             {
               "content": "She is often inconsiderate, and it's hard to study when she's around",
-              "mem_id": []
+              "mem_id": 24017
             }
           ]
         },
@@ -877,27 +877,27 @@
           "name": [
             {
               "content": "Emma",
-              "mem_id": []
+              "mem_id": 20121
             }
           ],
           "notes": [
             {
               "content": "Always knows how to make the user feel at ease.",
-              "mem_id": []
+              "mem_id": 4944
             },
             {
               "content": "Met the user during the first week at university.",
-              "mem_id": []
+              "mem_id": 20010
             },
             {
               "content": "Has been close with the user ever since.",
-              "mem_id": []
+              "mem_id": 20121
             }
           ],
           "health": [
             {
               "content": "Is currently experiencing health issues.",
-              "mem_id": []
+              "mem_id": 20013
             }
           ]
         },
@@ -915,7 +915,7 @@
           "name": [
             {
               "content": "James",
-              "mem_id": []
+              "mem_id": 20019
             }
           ]
         },
@@ -938,127 +938,127 @@
           "job": [
             {
               "content": "is a professional soccer player",
-              "mem_id": []
+              "mem_id": 30004
             },
             {
               "content": "midfielder in professional soccer",
-              "mem_id": []
+              "mem_id": 30005
             },
             {
               "content": "plays for Argentina's national soccer team",
-              "mem_id": []
+              "mem_id": 30004
             }
           ],
           "interests": [
             {
               "content": "is interested in pursuing a career in sports broadcasting",
-              "mem_id": []
+              "mem_id": 30018
             },
             {
               "content": "wants to inspire young girls from poor neighborhoods through broadcasting",
-              "mem_id": []
+              "mem_id": 30015
             }
           ],
           "notes": [
             {
               "content": "feels torn between continuing their soccer career and pursuing new opportunities",
-              "mem_id": []
+              "mem_id": 30018
             },
             {
               "content": "studied communications in university and has been interested in broadcasting ever since",
-              "mem_id": []
+              "mem_id": 30016
             },
             {
               "content": "worried about losing starting position to younger players if they step back from playing",
-              "mem_id": []
+              "mem_id": 30017
             },
             {
               "content": "wants to find a way to honor their sister's memory while pursuing their passion",
-              "mem_id": []
+              "mem_id": 30008
             },
             {
               "content": "has been considering retiring from playing to focus on broadcasting full-time",
-              "mem_id": []
+              "mem_id": 30018
             },
             {
               "content": "is afraid of letting down their team and losing the connection to the sport as a player",
-              "mem_id": []
+              "mem_id": 30018
             },
             {
               "content": "is unsure if it's the right time to make such a big change",
-              "mem_id": []
+              "mem_id": 30018
             },
             {
               "content": "currently mentors young girls from poor neighborhoods",
-              "mem_id": []
+              "mem_id": 30015
             },
             {
               "content": "Believes that talking about her experiences, including losing her sister Jenna, could help others",
-              "mem_id": []
+              "mem_id": 30014
             },
             {
               "content": "has ideas on how to effectively share her story due to her communications background",
-              "mem_id": []
+              "mem_id": 30016
             },
             {
               "content": "is nervous about being so open on a public platform",
-              "mem_id": []
+              "mem_id": 7808
             },
             {
               "content": "wants to balance being authentic with protecting her own well-being",
-              "mem_id": []
+              "mem_id": 30013
             },
             {
               "content": "wears the number 10 jersey in memory of their sister",
-              "mem_id": []
+              "mem_id": 30008
             },
             {
               "content": "plans to have an open conversation with Carolina to ease the tension between them",
-              "mem_id": []
+              "mem_id": 30011
             },
             {
               "content": "is considering meeting Carolina in Buenos Aires to reconnect",
-              "mem_id": []
+              "mem_id": 30003
             },
             {
               "content": "has known Carolina since childhood",
-              "mem_id": []
+              "mem_id": 30011
             },
             {
               "content": "is finding it challenging to balance their role as a midfielder with new broadcasting work",
-              "mem_id": []
+              "mem_id": 30018
             },
             {
               "content": "is 28 and is starting to think more about their future",
-              "mem_id": []
+              "mem_id": 30002
             },
             {
               "content": "Feels nervous about expressing thoughts to Carolina",
-              "mem_id": []
+              "mem_id": 30011
             },
             {
               "content": "Believes that opening up to Carolina might strengthen their friendship",
-              "mem_id": []
+              "mem_id": 30011
             },
             {
               "content": "Considering applying father's wisdom to make talking to Carolina easier",
-              "mem_id": []
+              "mem_id": 30009
             },
             {
               "content": "Her father always told her to stay true to herself.",
-              "mem_id": []
+              "mem_id": 30009
             }
           ],
           "age": [
             {
               "content": "28 years old",
-              "mem_id": []
+              "mem_id": 30002
             }
           ],
           "name": [
             {
               "content": "Lucia",
-              "mem_id": []
+              "mem_id": 30001
             }
           ]
         },
@@ -1088,33 +1088,33 @@
           "health": [
             {
               "content": "his health is declining",
-              "mem_id": []
+              "mem_id": 30013
             }
           ],
           "job": [
             {
               "content": "was the user's first coach",
-              "mem_id": []
+              "mem_id": 30009
             }
           ],
           "name": [
             {
               "content": "Jima",
-              "mem_id": []
+              "mem_id": 30019
             }
           ],
           "notes": [
             {
               "content": "Gave advice to the user when they were younger",
-              "mem_id": []
+              "mem_id": 30009
             },
             {
               "content": "Always knew how to calm the user's nerves before big games",
-              "mem_id": []
+              "mem_id": 30009
             },
             {
               "content": "He used to say, 'Lucia, remember that open communication can solve many problems.'",
-              "mem_id": []
+              "mem_id": 30009
             }
           ]
         },
@@ -1132,21 +1132,21 @@
           "notes": [
             {
               "content": "She passed away earlier",
-              "mem_id": []
+              "mem_id": 30007
             },
             {
               "content": "She died in a car accident three years ago",
-              "mem_id": []
+              "mem_id": 30007
             },
             {
               "content": "The user wears the number 10 jersey in her memory",
-              "mem_id": []
+              "mem_id": 30008
             }
           ],
           "name": [
             {
               "content": "Jenna",
-              "mem_id": []
+              "mem_id": 30014
             }
           ]
         },
@@ -1164,21 +1164,21 @@
           "name": [
             {
               "content": "Carolina",
-              "mem_id": []
+              "mem_id": 30011
             }
           ],
           "notes": [
             {
               "content": "She has been a bit distant lately",
-              "mem_id": []
+              "mem_id": 30011
             },
             {
               "content": "May be feeling jealous of the user's opportunities",
-              "mem_id": []
+              "mem_id": 30011
             },
             {
               "content": "has been friends with the user since they were kids",
-              "mem_id": []
+              "mem_id": 30011
             }
           ]
         },
@@ -1196,13 +1196,13 @@
           "name": [
             {
               "content": "Simon",
-              "mem_id": []
+              "mem_id": 30020
             }
           ],
           "job": [
             {
               "content": "team's physiotherapist",
-              "mem_id": []
+              "mem_id": 30012
             }
           ]
         },
@@ -1225,107 +1225,107 @@
           "health": [
             {
               "content": "Feeling overwhelmed lately",
-              "mem_id": []
+              "mem_id": 3364
             }
           ],
           "job": [
             {
               "content": "Running a restaurant that takes up much of their time",
-              "mem_id": []
+              "mem_id": 40003
             },
             {
               "content": "Worked as a chef in Chicago where he learned about blending cultures and cooking styles.",
-              "mem_id": []
+              "mem_id": 43403
             }
           ],
           "notes": [
             {
               "content": "Worried about not giving enough attention to family",
-              "mem_id": []
+              "mem_id": 1406
             },
             {
               "content": "Wants to find a better balance between work and home life",
-              "mem_id": []
+              "mem_id": 9117
             },
             {
               "content": "Feels very attached to the cooking process due to family recipes",
-              "mem_id": []
+              "mem_id": 40015
             },
             {
               "content": "Worried that if he delegates cooking, the quality might suffer and customers might notice",
-              "mem_id": []
+              "mem_id": 6307
             },
             {
               "content": "Arrived in America 15 years ago",
-              "mem_id": []
+              "mem_id": 40006
             },
             {
               "content": "Considering mentoring someone to pass on his knowledge",
-              "mem_id": []
+              "mem_id": 8951
             },
             {
               "content": "Hasn't built a strong network in Brooklyn due to focusing on running the restaurant.",
-              "mem_id": []
+              "mem_id": 40105
             },
             {
               "content": "Considering involving his son Luca in attending food events as a way to spend more time together",
-              "mem_id": []
+              "mem_id": 40009
             },
             {
               "content": "Planning to dedicate Sunday afternoons to cooking with Luca",
-              "mem_id": []
+              "mem_id": 40009
             },
             {
               "content": "Family's homemade pasta recipe has been passed down for generations",
-              "mem_id": []
+              "mem_id": 40015
             },
             {
               "content": "Plans to teach his son Luca how to make the family's homemade pasta",
-              "mem_id": []
+              "mem_id": 40009
             },
             {
               "content": "Believes this will help Luca connect with his heritage",
-              "mem_id": []
+              "mem_id": 40005
             },
             {
               "content": "Planning to share stories from his time in Naples during cooking sessions with Luca.",
-              "mem_id": []
+              "mem_id": 40005
             }
           ],
           "interests": [
             {
               "content": "Specializes in Neapolitan cuisine",
-              "mem_id": []
+              "mem_id": 40004
             },
             {
               "content": "Learned a lot from the chefs he worked with when he first came to America",
-              "mem_id": []
+              "mem_id": 40105
             }
           ],
           "location": [
             {
               "content": "Originally from Naples, Italy",
-              "mem_id": []
+              "mem_id": 40005
             },
             {
               "content": "Lived in Boston for two years after arriving in America.",
-              "mem_id": []
+              "mem_id": 40102
             },
             {
               "content": "Moved to Brooklyn seven years ago and currently lives there.",
-              "mem_id": []
+              "mem_id": 40105
             }
           ],
           "age": [
             {
               "content": "42 years old",
-              "mem_id": []
+              "mem_id": 40002
             }
           ],
           "name": [
             {
               "content": "Surname is Esposito",
-              "mem_id": []
+              "mem_id": 40001
             }
           ]
         },
@@ -1359,29 +1359,29 @@
           "name": [
             {
               "content": "Sofia",
-              "mem_id": []
+              "mem_id": 40007
             }
           ],
           "job": [
             {
               "content": "Helps manage the restaurant's finances",
-              "mem_id": []
+              "mem_id": 40019
             }
           ],
           "age": [
             {
               "content": "38 years old",
-              "mem_id": []
+              "mem_id": 40008
             }
           ],
           "notes": [
             {
               "content": "Thrilled about the idea of cooking sessions bringing the family closer together",
-              "mem_id": []
+              "mem_id": 40015
             },
             {
               "content": "Sofia is turning 40 next week, and the user plans to bring the whole family together in the kitchen for the occasion.",
-              "mem_id": []
+              "mem_id": 40020
             }
           ]
         },
@@ -1399,11 +1399,11 @@
           "notes": [
             {
               "content": "Taught the user family recipes of Neapolitan cuisine",
-              "mem_id": []
+              "mem_id": 40015
             },
             {
               "content": "Used to visit markets with the user in Naples and prepared dishes together.",
-              "mem_id": []
+              "mem_id": 40014
             }
           ]
         },
@@ -1421,7 +1421,7 @@
           "name": [
             {
               "content": "Antonio",
-              "mem_id": []
+              "mem_id": 40014
             }
           ]
         },
@@ -1439,25 +1439,25 @@
           "name": [
             {
               "content": "Luca",
-              "mem_id": []
+              "mem_id": 40009
             }
           ],
           "age": [
             {
               "content": "7 years old",
-              "mem_id": []
+              "mem_id": 40010
             }
           ],
           "interests": [
             {
               "content": "Showing an interest in cooking",
-              "mem_id": []
+              "mem_id": 40015
             }
           ],
           "notes": [
             {
               "content": "Learning to make the family's homemade pasta to connect with his heritage",
-              "mem_id": []
+              "mem_id": 40015
             }
           ]
         },
@@ -1475,35 +1475,35 @@
           "name": [
             {
               "content": "Rosa",
-              "mem_id": []
+              "mem_id": 40023
             }
           ],
           "notes": [
             {
               "content": "She taught her child the family recipes",
-              "mem_id": []
+              "mem_id": 40015
             },
             {
               "content": "Will participate in cooking sessions via video call from Italy",
-              "mem_id": []
+              "mem_id": 6965
             },
             {
               "content": "Feels closer to family when involved via video call",
-              "mem_id": []
+              "mem_id": 8715
             },
             {
               "content": "Receives financial support from the user, who sends money to her in Naples",
-              "mem_id": []
+              "mem_id": 40022
             }
           ],
           "location": [
             {
               "content": "Currently living in Italy",
-              "mem_id": []
+              "mem_id": 5706
             },
             {
               "content": "Currently living in Naples, Italy",
-              "mem_id": []
+              "mem_id": 40005
             }
           ]
         },
@@ -1526,171 +1526,171 @@
           "age": [
             {
               "content": "31 years old",
-              "mem_id": []
+              "mem_id": 50002
             }
           ],
           "job": [
             {
               "content": "Is a large animal veterinarian",
-              "mem_id": []
+              "mem_id": 50004
             }
           ],
           "location": [
             {
               "content": "Lives in Calgary, Alberta",
-              "mem_id": []
+              "mem_id": 50003
             }
           ],
           "health": [
             {
               "content": "Has been feeling overwhelmed and stressed due to demanding job and personal responsibilities",
-              "mem_id": []
+              "mem_id": 4841
             },
             {
               "content": "Has been reluctant to reach out to others since the fallout with Rachel",
-              "mem_id": []
+              "mem_id": 50015
             },
             {
               "content": "Feeling both excited and a bit anxious about putting herself out there socially",
-              "mem_id": []
+              "mem_id": 9616
             },
             {
               "content": "Has been finding it hard to process the betrayal by Rachel and ex-husband Mike",
-              "mem_id": []
+              "mem_id": 50008
             },
             {
               "content": "Managing these emotions has been tough and unsure if dating Tom helped",
-              "mem_id": []
+              "mem_id": 50009
             },
             {
               "content": "Feels the need to dig deeper into past relationships to really heal",
-              "mem_id": []
+              "mem_id": 50007
             },
             {
               "content": "Believes there may be a pattern in the kind of people she is drawn to",
-              "mem_id": []
+              "mem_id": 50009
             },
             {
               "content": "Considering focusing on herself and what she truly wants in life, independent of relationships",
-              "mem_id": []
+              "mem_id": 6252
             },
             {
               "content": "Believes that music has a healing quality",
-              "mem_id": []
+              "mem_id": 1943
             },
             {
               "content": "Feels that creating something just for herself sounds really fulfilling",
-              "mem_id": []
+              "mem_id": 3258
             },
             {
               "content": "Exploring these interests could be a great way to focus on what brings her joy",
-              "mem_id": []
+              "mem_id": 7403
             },
             {
               "content": "Believes that rediscovering music might help her reconnect with a part of herself that she's missed",
-              "mem_id": []
+              "mem_id": 6315
             },
             {
               "content": "Feels that sharing the painting experience with James will bring them even closer",
-              "mem_id": []
+              "mem_id": 50011
             }
           ],
           "interests": [
             {
               "content": "Enjoys taking care of three horses",
-              "mem_id": []
+              "mem_id": 50013
             },
             {
               "content": "Is planning a weekend getaway to relax and recharge",
-              "mem_id": []
+              "mem_id": 4639
             },
             {
               "content": "Is considering rebuilding friendships and making new ones",
-              "mem_id": []
+              "mem_id": 50015
             },
             {
               "content": "Considering joining local farming communities to connect with others",
-              "mem_id": []
+              "mem_id": 7575
             },
             {
               "content": "Considering joining horse riding clubs to connect with others",
-              "mem_id": []
+              "mem_id": 50013
             },
             {
               "content": "Is planning to attend local agricultural fairs to meet people",
-              "mem_id": []
+              "mem_id": 8849
             },
             {
               "content": "Is planning to attend horse shows to meet people",
-              "mem_id": []
+              "mem_id": 50013
             },
             {
               "content": "Is planning to reach out to the University of Calgary alumni network to join events or groups",
-              "mem_id": []
+              "mem_id": 50014
             },
             {
               "content": "Has always loved painting, especially capturing the landscapes around Calgary",
-              "mem_id": []
+              "mem_id": 4820
             },
             {
               "content": "Is thinking about learning to play the guitar",
-              "mem_id": []
+              "mem_id": 4961
             },
             {
               "content": "Is planning to set aside some time each week for painting.",
-              "mem_id": []
+              "mem_id": 9319
             },
             {
               "content": "Is planning to enroll in online guitar lessons to fit into her schedule.",
-              "mem_id": []
+              "mem_id": 8872
             },
             {
               "content": "Is planning to visit scenic spots with James on weekends to paint.",
-              "mem_id": []
+              "mem_id": 50011
             },
             {
               "content": "Plans to create a weekly schedule that includes time for painting and guitar practice.",
-              "mem_id": []
+              "mem_id": 5345
             }
           ],
           "notes": [
             {
               "content": "Is the only large animal veterinarian within 100 miles",
-              "mem_id": []
+              "mem_id": 50017
             },
             {
               "content": "Does not have any kids",
-              "mem_id": []
+              "mem_id": 50024
             },
             {
               "content": "Has flexibility in schedule due to not having kids",
-              "mem_id": []
+              "mem_id": 50024
             },
             {
               "content": "Graduated from the University of Calgary",
-              "mem_id": []
+              "mem_id": 50014
             },
             {
               "content": "Is bound to run into Rachel eventually and is unsure how she feels about that",
-              "mem_id": []
+              "mem_id": 50015
             },
             {
               "content": "Realizes that being attracted to excitement hasn't led to fulfilling relationships",
-              "mem_id": []
+              "mem_id": 5963
             },
             {
               "content": "Learning guitar brings back fond memories of Peter from high school",
-              "mem_id": []
+              "mem_id": 50023
             },
             {
               "content": "James is supportive, and they plan to make painting and guitar practice a shared activity.",
-              "mem_id": []
+              "mem_id": 50011
             }
           ],
           "name": [
             {
               "content": "Oyo",
-              "mem_id": []
+              "mem_id": 50001
             }
           ]
         },
@@ -1728,23 +1728,23 @@
           "name": [
             {
               "content": "James",
-              "mem_id": []
+              "mem_id": 50011
             }
           ],
           "notes": [
             {
               "content": "Is grounded and supportive; at 6'5\", his presence feels reassuring and safe",
-              "mem_id": []
+              "mem_id": 50012
             },
             {
               "content": "Often helps Oyo carry her painting supplies; his height is useful for that.",
-              "mem_id": []
+              "mem_id": 50012
             }
           ],
           "interests": [
             {
               "content": "Plans to participate in painting and guitar practice with Oyo as a shared activity.",
-              "mem_id": []
+              "mem_id": 5356
             }
           ]
         },
@@ -1762,19 +1762,19 @@
           "name": [
             {
               "content": "Rachel",
-              "mem_id": []
+              "mem_id": 50015
             }
           ],
           "job": [
             {
               "content": "Runs the local feed store",
-              "mem_id": []
+              "mem_id": 50016
             }
           ],
           "notes": [
             {
               "content": "Was really close friends with the user before the fallout",
-              "mem_id": []
+              "mem_id": 50015
             }
           ]
         },
@@ -1796,13 +1796,13 @@
           "name": [
             {
               "content": "Mike",
-              "mem_id": []
+              "mem_id": 50007
             }
           ],
           "notes": [
             {
               "content": "Took risks that led to betrayal",
-              "mem_id": []
+              "mem_id": 50008
             }
           ]
         },
@@ -1824,13 +1824,13 @@
           "name": [
             {
               "content": "Tom",
-              "mem_id": []
+              "mem_id": 50009
             }
           ],
           "notes": [
             {
               "content": "Had a spontaneous nature that didn't offer stability",
-              "mem_id": []
+              "mem_id": 50019
             }
           ]
         },
@@ -1848,19 +1848,19 @@
           "name": [
             {
               "content": "Kyle",
-              "mem_id": []
+              "mem_id": 50018
             }
           ],
           "job": [
             {
               "content": "Competes in the rodeo circuit",
-              "mem_id": []
+              "mem_id": 50019
             }
           ],
           "location": [
             {
               "content": "Lives in Texas",
-              "mem_id": []
+              "mem_id": 3417
             }
           ]
         },
@@ -1878,19 +1878,19 @@
           "name": [
             {
               "content": "Peter",
-              "mem_id": []
+              "mem_id": 50023
             }
           ],
           "notes": [
             {
               "content": "Was kind and steady; had a simpler relationship with the user",
-              "mem_id": []
+              "mem_id": 50009
             }
           ],
           "interests": [
             {
               "content": "Used to play guitar for the user in high school",
-              "mem_id": []
+              "mem_id": 9370
             }
           ]
         },
@@ -1913,103 +1913,103 @@
           "notes": [
             {
               "content": "Is struggling to reconnect with their son Pedro",
-              "mem_id": []
+              "mem_id": 60010
             },
             {
               "content": "Still on good terms with ex-partner Maria",
-              "mem_id": []
+              "mem_id": 60007
             },
             {
               "content": "Considers involving Maria to help reconnect with Pedro",
-              "mem_id": []
+              "mem_id": 60007
             },
             {
               "content": "The user came out six months ago.",
-              "mem_id": []
+              "mem_id": 60005
             },
             {
               "content": "Feeling nervous about talking to Pedro one-on-one",
-              "mem_id": []
+              "mem_id": 60010
             },
             {
               "content": "Feels that delaying the conversation might make them and Pedro more distant",
-              "mem_id": []
+              "mem_id": 60010
             },
             {
               "content": "It's been hard dealing with rejection from father, Carlos",
-              "mem_id": []
+              "mem_id": 60012
             },
             {
               "content": "Feels overwhelmed due to upcoming court dates.",
-              "mem_id": []
+              "mem_id": 60024
             },
             {
               "content": "Finds it tough to start new habits due to being set in their ways",
-              "mem_id": []
+              "mem_id": 1969
             },
             {
               "content": "Finds corporate law demanding and stressful.",
-              "mem_id": []
+              "mem_id": 60020
             },
             {
               "content": "Is finding it difficult to open up about their fears and is unsure who to turn to.",
-              "mem_id": []
+              "mem_id": 60021
             },
             {
               "content": "Is considering seeking support from professional counselors or support groups.",
-              "mem_id": []
+              "mem_id": 60022
             },
             {
               "content": "Feels like they are still getting to know who they really are beyond the roles they've always played.",
-              "mem_id": []
+              "mem_id": 60005
             }
           ],
           "health": [
             {
               "content": "Is experiencing panic attacks before important court dates.",
-              "mem_id": []
+              "mem_id": 60024
             },
             {
               "content": "Is experiencing anxiety about potentially losing clients if they find out about their sexuality",
-              "mem_id": []
+              "mem_id": 60021
             },
             {
               "content": "Has trouble sleeping at night due to this concern",
-              "mem_id": []
+              "mem_id": 60021
             }
           ],
           "age": [
             {
               "content": "45 years old",
-              "mem_id": []
+              "mem_id": 60002
             }
           ],
           "location": [
             {
               "content": "Lives in S\u00e3o Paulo",
-              "mem_id": []
+              "mem_id": 60003
             }
           ],
           "interests": [
             {
               "content": "Interested in trying relaxation techniques",
-              "mem_id": []
+              "mem_id": 60022
             }
           ],
           "job": [
             {
               "content": "Works in corporate law.",
-              "mem_id": []
+              "mem_id": 60020
             },
             {
               "content": "Partner in a law firm",
-              "mem_id": []
+              "mem_id": 60004
             }
           ],
           "name": [
             {
               "content": "Rafael",
-              "mem_id": []
+              "mem_id": 60001
             }
           ]
         },
@@ -2043,27 +2043,27 @@
           "name": [
             {
               "content": "Pedro",
-              "mem_id": []
+              "mem_id": 60008
             }
           ],
           "notes": [
             {
               "content": "Seems distant towards the user since recent changes in the user's life",
-              "mem_id": []
+              "mem_id": 60010
             },
             {
               "content": "Pedro has been struggling to accept that the user came out.",
-              "mem_id": []
+              "mem_id": 60010
             },
             {
               "content": "May not be ready to open up during conversation with the user",
-              "mem_id": []
+              "mem_id": 60005
             }
           ],
           "age": [
             {
               "content": "15 years old",
-              "mem_id": []
+              "mem_id": 60009
             }
           ]
         },
@@ -2085,13 +2085,13 @@
           "name": [
             {
               "content": "Maria",
-              "mem_id": []
+              "mem_id": 60006
             }
           ],
           "notes": [
             {
               "content": "She has been very supportive to the user",
-              "mem_id": []
+              "mem_id": 60014
             }
           ]
         },
@@ -2113,17 +2113,17 @@
           "name": [
             {
               "content": "Isabella",
-              "mem_id": []
+              "mem_id": 60013
             }
           ],
           "notes": [
             {
               "content": "Suggested that the user give Pedro some time",
-              "mem_id": []
+              "mem_id": 60010
             },
             {
               "content": "Has been surprisingly supportive, giving the user hope",
-              "mem_id": []
+              "mem_id": 60014
             }
           ]
         },
@@ -2141,13 +2141,13 @@
           "name": [
             {
               "content": "Carlos",
-              "mem_id": []
+              "mem_id": 60012
             }
           ],
           "notes": [
             {
               "content": "Hasn't spoken to the user since they came out",
-              "mem_id": []
+              "mem_id": 60012
             }
           ]
         },
@@ -2165,13 +2165,13 @@
           "name": [
             {
               "content": "Jo\u00e3o",
-              "mem_id": []
+              "mem_id": 60015
             }
           ],
           "notes": [
             {
               "content": "Has been a great help to the user; might offer advice on approaching Pedro",
-              "mem_id": []
+              "mem_id": 60016
             }
           ]
         },
@@ -2194,99 +2194,99 @@
           "interests": [
             {
               "content": "Passionate about growing their AI startup",
-              "mem_id": []
+              "mem_id": 70006
             },
             {
               "content": "Believes that AI can make a significant positive impact on the world",
-              "mem_id": []
+              "mem_id": 70006
             },
             {
               "content": "Loves watching 'Attack on Titan'",
-              "mem_id": []
+              "mem_id": 70019
             }
           ],
           "notes": [
             {
               "content": "Feeling torn due to tension between pursuing AI startup and mother's wishes to return to university",
-              "mem_id": []
+              "mem_id": 70006
             },
             {
               "content": "Has been pulling 16-hour workdays lately on BridgeAI",
-              "mem_id": []
+              "mem_id": 70007
             },
             {
               "content": "Is planning to involve best friend Kai to help explain the technical aspects of BridgeAI to parents",
-              "mem_id": []
+              "mem_id": 70015
             },
             {
               "content": "Believes that mom, Linda, might appreciate seeing how dedicated the user is",
-              "mem_id": []
+              "mem_id": 70017
             },
             {
               "content": "Studied Computer Science at NUS",
-              "mem_id": []
+              "mem_id": 70005
             },
             {
               "content": "Plans to demonstrate BridgeAI's capabilities related to 'Attack on Titan' to capture mother's interest",
-              "mem_id": []
+              "mem_id": 70019
             },
             {
               "content": "Is planning to create a feature in BridgeAI that offers insights and generates discussions on 'Attack on Titan's deeper themes",
-              "mem_id": []
+              "mem_id": 70007
             },
             {
               "content": "Believes this will make the technology more relatable for her mother",
-              "mem_id": []
+              "mem_id": 70011
             },
             {
               "content": "Plans to use the new interactive feature of BridgeAI to delve into 'Attack on Titan' together with mother, making the experience more engaging for her.",
-              "mem_id": []
+              "mem_id": 70007
             },
             {
               "content": "Acknowledges that BridgeAI isn't picking up much traction and hopes that adding innovative features might attract more users who share similar interests.",
-              "mem_id": []
+              "mem_id": 70025
             },
             {
               "content": "Has less than $1000 in the bank account, making it challenging to expand the development scope right now",
-              "mem_id": []
+              "mem_id": 70013
             },
             {
               "content": "Hasn't invested much time in community engagement",
-              "mem_id": []
+              "mem_id": 70021
             },
             {
               "content": "Usually only hangs out with friends once every two weeks",
-              "mem_id": []
+              "mem_id": 70021
             },
             {
               "content": "Considering tapping into fan forums to connect with others who share interests",
-              "mem_id": []
+              "mem_id": 70019
             },
             {
               "content": "Dreams of eventually taking BridgeAI to places like San Francisco and believes building a strong community is crucial",
-              "mem_id": []
+              "mem_id": 70014
             },
             {
               "content": "Realizes that balance is important and wants to avoid overworking",
-              "mem_id": []
+              "mem_id": 70021
             }
           ],
           "job": [
             {
               "content": "Is the founder of BridgeAI",
-              "mem_id": []
+              "mem_id": 70007
             }
           ],
           "location": [
             {
               "content": "Lives in Singapore",
-              "mem_id": []
+              "mem_id": 70003
             }
           ],
           "age": [
             {
               "content": "22 years old",
-              "mem_id": []
+              "mem_id": 70002
             }
           ]
         },
@@ -2312,23 +2312,23 @@
           "notes": [
             {
               "content": "Urging the user to return to university, causing tension",
-              "mem_id": []
+              "mem_id": 70011
             },
             {
               "content": "Is skeptical of BridgeAI because it hasn't picked up much traction yet",
-              "mem_id": []
+              "mem_id": 70025
             }
           ],
           "name": [
             {
               "content": "Linda",
-              "mem_id": []
+              "mem_id": 70010
             }
           ],
           "interests": [
             {
               "content": "Loves watching 'Attack on Titan'",
-              "mem_id": []
+              "mem_id": 70019
             }
           ]
         },
@@ -2346,31 +2346,31 @@
           "notes": [
             {
               "content": "An AI startup aiming to make a significant positive impact on the world",
-              "mem_id": []
+              "mem_id": 70006
             },
             {
               "content": "Aims to simplify AI for everyday users by showing real-world applications",
-              "mem_id": []
+              "mem_id": 70007
             },
             {
               "content": "Can offer personalized recommendations for similar shows or provide insights into series",
-              "mem_id": []
+              "mem_id": 1751
             },
             {
               "content": "Will include a feature that offers insights and generates discussions on 'Attack on Titan's deeper themes",
-              "mem_id": []
+              "mem_id": 70019
             },
             {
               "content": "Developing an interactive feature where BridgeAI poses thought-provoking questions and prompts discussions about 'Attack on Titan' to engage users.",
-              "mem_id": []
+              "mem_id": 70019
             },
             {
               "content": "BridgeAI faces financial constraints with limited resources",
-              "mem_id": []
+              "mem_id": 70013
             },
             {
               "content": "The user dreams of eventually taking BridgeAI to places like San Francisco",
-              "mem_id": []
+              "mem_id": 70007
             }
           ]
         },
@@ -2383,13 +2383,13 @@
           "name": [
             {
               "content": "James",
-              "mem_id": []
+              "mem_id": 70009
             }
           ],
           "notes": [
             {
               "content": "Has been really supportive of the user's efforts with BridgeAI",
-              "mem_id": []
+              "mem_id": 70009
             }
           ]
         },
@@ -2407,13 +2407,13 @@
           "name": [
             {
               "content": "Kai",
-              "mem_id": []
+              "mem_id": 70015
             }
           ],
           "job": [
             {
               "content": "Works as a software engineer",
-              "mem_id": []
+              "mem_id": 70016
             }
           ]
         },
@@ -2431,7 +2431,7 @@
           "name": [
             {
               "content": "San Francisco",
-              "mem_id": []
+              "mem_id": 70014
             }
           ]
         },
@@ -2449,99 +2449,99 @@
           "notes": [
             {
               "content": "Considering making a significant change in their career and seeking advice on how to approach the decision",
-              "mem_id": []
+              "mem_id": 80025
             },
             {
               "content": "Starting to question if modeling is still right due to industry challenges",
-              "mem_id": []
+              "mem_id": 80025
             },
             {
               "content": "Believes a career change might help find a new direction",
-              "mem_id": []
+              "mem_id": 80025
             },
             {
               "content": "Feels upset and betrayed because Madison has been spreading rumors about my eating habits and talking badly about me to Vogue editors",
-              "mem_id": []
+              "mem_id": 80010
             },
             {
               "content": "Considering coaching or working with youth programs in hockey to combine passion with something new",
-              "mem_id": []
+              "mem_id": 83122
             },
             {
               "content": "Feels overwhelmed about where to start with volunteering or coaching in hockey",
-              "mem_id": []
+              "mem_id": 83122
             },
             {
               "content": "Needs to work on setting boundaries with personal drama involving close friends",
-              "mem_id": []
+              "mem_id": 80010
             },
             {
               "content": "Starting to research local ice rinks for coaching opportunities",
-              "mem_id": []
+              "mem_id": 83122
             },
             {
               "content": "Considering talking to Ava but worried it might complicate things further",
-              "mem_id": []
+              "mem_id": 80011
             }
           ],
           "age": [
             {
               "content": "24 years old",
-              "mem_id": []
+              "mem_id": 80002
             }
           ],
           "job": [
             {
               "content": "Has been modeling since teenage years",
-              "mem_id": []
+              "mem_id": 80004
             }
           ],
           "health": [
             {
               "content": "Dealing with personal issues that have been weighing on them",
-              "mem_id": []
+              "mem_id": 83022
             },
             {
               "content": "Considering starting therapy to work through personal issues",
-              "mem_id": []
+              "mem_id": 83022
             },
             {
               "content": "Feeling overwhelmed and drained due to personal drama",
-              "mem_id": []
+              "mem_id": 80010
             },
             {
               "content": "Feeling stressed and in an awkward position due to knowing about Ava kissing Liam",
-              "mem_id": []
+              "mem_id": 80022
             },
             {
               "content": "Feeling stressed because Madison and Sophie are unknowingly dating the same guy",
-              "mem_id": []
+              "mem_id": 80420
             },
             {
               "content": "Feeling more stressed due to Liam contacting Lily and her being upset",
-              "mem_id": []
+              "mem_id": 83124
             }
           ],
           "interests": [
             {
               "content": "Used to love playing hockey and is considering picking it up again",
-              "mem_id": []
+              "mem_id": 83122
             },
             {
               "content": "Planning to dive back into hockey to find balance and happiness",
-              "mem_id": []
+              "mem_id": 83122
             }
           ],
           "location": [
             {
               "content": "Lives in New York City",
-              "mem_id": []
+              "mem_id": 80003
             }
           ],
           "name": [
             {
               "content": "Zara",
-              "mem_id": []
+              "mem_id": 80001
             }
           ]
         },
@@ -2571,7 +2571,7 @@
           "name": [
             {
               "content": "Madison",
-              "mem_id": []
+              "mem_id": 80009
             }
           ]
         },
@@ -2601,23 +2601,23 @@
           "name": [
             {
               "content": "Lily",
-              "mem_id": []
+              "mem_id": 80006
             }
           ],
           "job": [
             {
               "content": "Model",
-              "mem_id": []
+              "mem_id": 80004
             }
           ],
           "notes": [
             {
               "content": "Has been encouraging the user to explore different opportunities",
-              "mem_id": []
+              "mem_id": 4720
             },
             {
               "content": "Upset because Liam tried to message her",
-              "mem_id": []
+              "mem_id": 80420
             }
           ]
         },
@@ -2639,7 +2639,7 @@
           "name": [
             {
               "content": "Ava",
-              "mem_id": []
+              "mem_id": 80011
             }
           ]
         },
@@ -2665,13 +2665,13 @@
           "name": [
             {
               "content": "Liam",
-              "mem_id": []
+              "mem_id": 80420
             }
           ],
           "notes": [
             {
               "content": "Tried sliding into Lily's DMs",
-              "mem_id": []
+              "mem_id": 83124
             }
           ]
         },
@@ -2697,7 +2697,7 @@
           "name": [
             {
               "content": "Sophie",
-              "mem_id": []
+              "mem_id": 6673
             }
           ]
         },

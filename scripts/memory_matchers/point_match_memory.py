@@ -61,7 +61,6 @@ class MemoryConverter:
                 'person_id': person_data['person_id'],
                 'extracted_memories': person_memories
             })
-        print("flat_memories:\n", flat_memories)
         return flat_memories
 
     @staticmethod
@@ -162,7 +161,6 @@ class MemoryMatcher:
             'extracted_memories' in data[0] and
             isinstance(data[0]['extracted_memories'], list) and
             len(data[0]['extracted_memories']) > 0):
-            print("structured: ", data[0]['extracted_memories'])
             for memory in data[0]['extracted_memories']:
                 if 'Description' in memory:
                     return MemoryFormat.STRUCTURED
